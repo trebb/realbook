@@ -1,33 +1,34 @@
 #! /bin/bash
 
-# vol_1.txt ... vol_6.txt: Real Book (Hal Leonard) vol 1-6
-# vol_s.txt: Standards Real Book (Sher Music)
-# vol_e.txt: Bill Evans Fakebook (EvansBk)
-# vol_c.txt: The Colorado Cookbook (ColoBk)
+# vol_h1.txt ... vol_h6.txt: Real Book (Hal Leonard) vol 1-6
+# vol_st.txt: Standards Real Book (Sher Music)
+# vol_ev.txt: Bill Evans Fakebook (EvansBk)
+# vol_cc.txt: The Colorado Cookbook (ColoBk)
 # vol_jf.txt: The Jazz Fakebook (JazzFake)
 # vol_jl.txt: Jazz LTD (JazzLTD)
-# vol_1u.txt ... vol_3v.txt: The Real Book (5th edition) vol 1-3 (RealBk1-3)
-# vol_1n.txt ... vol_3n.txt: The New Real Book (Sher) vol 1-3 (NewReal1-3)
-# vol_m.txt: Library Of Musician’s Jazz (Library)
-# vol_b.txt: The Book - Commercial (TheBook)
+# vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (RealBk1-3)
+# vol_n1.txt ... vol_n3.txt: The New Real Book (Sher) vol 1-3 (NewReal1-3)
+# vol_lm.txt: Library Of Musician’s Jazz (Library)
+# vol_bc.txt: The Book - Commercial (TheBook)
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
-grep -e '^EvansBk'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_e.txt
-grep -e '^ColoBk'   MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_c.txt
+grep -e '^EvansBk'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_ev.txt
+grep -e '^ColoBk'   MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_cc.txt
 grep -e '^JazzFake' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_jf.txt
 grep -e '^JazzLTD'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_jl.txt
-grep -e '^RealBk1'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_1u.txt
-grep -e '^RealBk2'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_2u.txt
-grep -e '^RealBk3'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_3u.txt
-grep -e '^NewReal1' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_1n.txt
-grep -e '^NewReal2' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_2n.txt
-grep -e '^NewReal3' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_3n.txt
-grep -e '^Library'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_m.txt
-grep -e '^TheBook'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_b.txt
+grep -e '^RealBk1'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_u1.txt
+grep -e '^RealBk2'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_u2.txt
+grep -e '^RealBk3'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_u3.txt
+grep -e '^NewReal1' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n1.txt
+grep -e '^NewReal2' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n2.txt
+grep -e '^NewReal3' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n3.txt
+grep -e '^Library'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_lm.txt
 
-sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_s_raw.txt > vol_s.txt
+sed -e 's/\(.*\), \(the\|a\)/\2 \1/g' thebook.txt > vol_bc.txt
 
-for v in {1,1u,1n,2,2u,2n,3,3u,3n,4,5,6,s,jl,jf,c,m,b,e}; do
+sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_s_raw.txt > vol_st.txt
+
+for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev}; do
     awk -v vol=$v '{print toupper($0) "%%--%%" toupper(vol)}' vol_$v.txt
 done | sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' | \
     sort | \

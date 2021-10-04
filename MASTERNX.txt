@@ -536,7 +536,7 @@ Chelsea Bells                       RealBk1     76
 Chelsea Bridge                     JazzFake     83
 Chelsea Bridge                     NewReal1     51
 Chelsea Bridge                      RealBk1     77
-Cherokee (Indian Love Song)        JazzFake     83
+Cherokee                            azzFake     83
 Cherokee                           ColoBk     52
 Cherokee                           NewReal2     47
 Cherokee                            RealBk1     78
@@ -1191,7 +1191,7 @@ Half Dozens (The)                     JazzLTD    147
 Half Nelson                          JazzFake    140
 Half Nelson                           Library     51
 Half Nelson                           RealBk1    184
-Hallelujah I Love Her So              JazzFake    141
+Hallelujah, I Love Her So              JazzFake    141
 Hallucinations                        Library     53
 Hallucinations                       NewReal1    131
 Hallucinations                        RealBk2     32
@@ -1303,7 +1303,7 @@ I Cried For You                      JazzFake    154
 I Didn't Know About You               JazzLTD    157
 I Didn't Know What Time It Was       JazzFake    155
 I Didn't Know What Time It Was        RealBk3    117
-I Don't Know Why (I just Do)         JazzFake    156
+I Don't Know Why                     JazzFake    156
 I Fall In Love Too Easily            ColoBk     93
 I Fall In Love Too Easily            NewReal3    152
 I Fall In Love Too Easily             RealBk3    120
@@ -2833,7 +2833,7 @@ Song Is You (The)                         JazzLTD    327
 Song Is You                               RealBk1    395
 Song Of The Islands                      JazzFake    352
 Song                                      RealBk1    393
-Songbird (Thank You for Your Lovely Song)JazzFake    349
+Songbird (Thank You for Your Lovely Song) JazzFake    349
 Sonja's Sanfona                          NewReal1    331
 Sonny Boy                                JazzFake    354
 Sonny Side                                Library    106
@@ -2903,7 +2903,7 @@ Stablemates                                NewReal2    343
 Stablemates                                 RealBk3    283
 Stairway To The Stars                       JazzLTD    333
 Stairway To The Stars                      NewReal3    350
-Star Dust                                  ColoBk    219
+Stardust                                  ColoBk    219
 Star Eyes                                  ColoBk    220
 Star Eyes                                  NewReal3    351
 Star Eyes                                   RealBk2    341
@@ -3571,7 +3571,7 @@ You Don't Know What Love Is               RealBk1    476
 You Fascinate Me So                      NewReal2    441
 You Go To My Head                        ColoBk    275
 You Go To My Head                         RealBk3    352
-You Made Me Love You (I Didn't Want To Do It) JazzFake 440
+You Made Me Love You                      JazzFake 440
 You Make Me Feel So Young                 RealBk3    351
 You Must Believe In Spring               NewReal3    421
 You Must Believe In Spring                RealBk3    354
