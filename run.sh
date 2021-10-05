@@ -26,7 +26,11 @@ grep -e '^Library'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A
 
 sed -e 's/\(.*\), \(the\|a\)/\2 \1/g' thebook.txt > vol_bc.txt
 
-sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_s_raw.txt > vol_st.txt
+sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_st_raw.txt > vol_st.txt
+
+for i in {1..6}; do
+    cp vol_h${i}_raw.txt vol_h$i.txt
+done
 
 for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev}; do
     awk -v vol=$v '{print toupper($0) "%%--%%" toupper(vol)}' vol_$v.txt
