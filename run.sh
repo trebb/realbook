@@ -10,6 +10,9 @@
 # vol_n1.txt ... vol_n3.txt: The New Real Book (Sher) vol 1-3 (NewReal1-3)
 # vol_lm.txt: Library Of Musician’s Jazz (Library)
 # vol_bc.txt: The Book - Commercial (TheBook)
+# vol_wg.txt: The World's Greatest Fake Book (Sher Music)
+# vol_rj.txt: The Real Jazz Book (Hal Leonard)
+
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
 grep -e '^EvansBk'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_ev.txt
@@ -23,16 +26,15 @@ grep -e '^NewReal1' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A
 grep -e '^NewReal2' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n2.txt
 grep -e '^NewReal3' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n3.txt
 grep -e '^Library'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_lm.txt
-
 sed -e 's/\(.*\), \(the\|a\)/\2 \1/g' thebook.txt > vol_bc.txt
-
+cp the_worlds_greatest_fakebook.txt vol_wg.txt
+cut -d ' ' -f 2- real_jazz_book.txt | awk '{$1=$1};1' > vol_rj.txt
 sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_st_raw.txt > vol_st.txt
-
 for i in {1..6}; do
     cp vol_h${i}_raw.txt vol_h$i.txt
 done
 
-for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev}; do
+for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev,wg,rj}; do
     awk -v vol=$v '{print toupper($0) "%%--%%" toupper(vol)}' vol_$v.txt
 done | sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' | \
     sort | \

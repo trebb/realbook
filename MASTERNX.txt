@@ -1247,7 +1247,7 @@ Hi-Fly                      NewReal2    129
 High Fly                    ColoBk     89
 High Hopes                   RealBk3    108
 High Society                JazzFake    147
-High Wire The Aerialist      RealBk3    110
+High Wire (The Aerialist)      RealBk3    110
 Hip Bones                    Library    177
 Hippy                        Library    179
 Ho-Ba-La-La                  RealBk2    142
@@ -1814,7 +1814,7 @@ Loose Ends                             NewReal2    191
 Lost In The Stars                      JazzFake    226
 Lost Love                               JazzLTD    210
 Lost                                    JazzLTD    209
-Lot Of Living To Do (A)                JazzFake    227
+Lot Of Livin' To Do (A)                JazzFake    227
 Lotus On Irish Streams                  RealBk3     79
 Loud-Zee                                RealBk3    180
 Louise                                  JazzLTD    211
@@ -3305,7 +3305,7 @@ Unforgettable                       RealBk3    328
 Unit 7                              JazzLTD    365
 Unit 7                         ColoBk    252
 Unit 7                         NewReal1    377
-Unless Its You (Orbit)             NewReal2    400
+Unless It's You                NewReal2    400
 Unquity Road                        RealBk1    439
 Until The Real Thing Comes Along   JazzFake    408
 Up Jumped Spring                   ColoBk    253
