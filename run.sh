@@ -1,17 +1,17 @@
 #! /bin/bash
 
-# vol_h1.txt ... vol_h6.txt: Real Book (Hal Leonard) vol 1-6
-# vol_st.txt: Standards Real Book (Sher Music)
-# vol_ev.txt: Bill Evans Fakebook (EvansBk)
+# vol_bc.txt: The Book - Commercial (TheBook)
 # vol_cc.txt: The Colorado Cookbook (ColoBk)
+# vol_ev.txt: Bill Evans Fakebook (EvansBk)
+# vol_h1.txt ... vol_h6.txt: Real Book (Hal Leonard) vol 1-6
 # vol_jf.txt: The Jazz Fakebook (JazzFake)
 # vol_jl.txt: Jazz LTD (JazzLTD)
-# vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (RealBk1-3)
-# vol_n1.txt ... vol_n3.txt: The New Real Book (Sher) vol 1-3 (NewReal1-3)
 # vol_lm.txt: Library Of Musician’s Jazz (Library)
-# vol_bc.txt: The Book - Commercial (TheBook)
-# vol_wg.txt: The World's Greatest Fake Book (Sher Music)
+# vol_n1.txt ... vol_n3.txt: The New Real Book (Sher) vol 1-3 (NewReal1-3)
 # vol_rj.txt: The Real Jazz Book (Hal Leonard)
+# vol_st.txt: Standards Real Book (Sher Music)
+# vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (RealBk1-3)
+# vol_wg.txt: The World's Greatest Fake Book (Sher Music)
 
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
