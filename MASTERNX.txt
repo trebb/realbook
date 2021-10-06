@@ -1131,7 +1131,7 @@ Gnid                                JazzLTD    139
 Gnu Blu                             RealBk3     97
 Go                                  JazzLTD    140
 God Bless' The Child               JazzFake    131
-God Bless The Child                 RealBk1    173
+God Bless' The Child                 RealBk1    173
 Godchild                            Library     46
 Godchild                            RealBk3    100
 Goin' Out Of My Head               JazzFake    134
@@ -1242,7 +1242,7 @@ Heyoke                       JazzLTD    149
 Hi Beck                      RealBk2    141
 Hide And Seek               ColoBk     87
 Hideaway                    NewReal1    139
-HiFly                       JazzFake    146
+Hi-Fly                       JazzFake    146
 Hi-Fly                      NewReal2    129
 High Fly                    ColoBk     89
 High Hopes                   RealBk3    108
@@ -1551,7 +1551,7 @@ Je Ne Sais Pas                    Library     65
 Je Ne Sais Pas                    RealBk2    182
 Jean De Fleur                    NewReal3    189
 Jeanie                            Library    182
-Jeannie                          ColoBk    113
+Jeannine                          ColoBk    113
 Jeannine                         JazzFake    197
 Jeannine                          RealBk2    181
 Jeep's Blues                      ColoBk    315
@@ -1585,7 +1585,7 @@ Joint Is Jumpin' (The)           JazzFake    202
 Joint Is Jumpin' (The)            NewReal2    473
 Jolly Jumps In                    Library    181
 Jolly Lodger                      Library    183
-Jor Du                           JazzFake    203
+Jordu                           JazzFake    203
 Jordu                             Library     66
 Jordu                          NewReal2    175
 Jordu                           RealBk1    245
@@ -1615,7 +1615,7 @@ Juntos                         NewReal2    177
 Just A Few                      Library     62
 Just A Few                      RealBk2    190
 Just Around The Corner         ColoBk    117
-Just A-Sittin' and A-Rockin'    RealBk2    191
+Just A Settin' and A Rockin'    RealBk2    191
 Just By Myself                  JazzLTD    184
 Just Friends                   ColoBk    118
 Just Friends                   NewReal3    193
@@ -1685,7 +1685,7 @@ Last Train From Overbrook         NewReal1    181
 Laugh! Clown! Laugh!              JazzFake    211
 Laura                             ColoBk    122
 Laura                              RealBk2    203
-Laurie (The Dream)                 EvansBk     36
+Laurie                            EvansBk     36
 Laurie                             JazzLTD    194
 Laurie                            NewReal1    182
 Lazy Afternoon                    JazzFake    212
@@ -1904,7 +1904,7 @@ Mating Call                      JazzLTD    219
 Matrix                           RealBk3    190
 Maxine                           EvansBk     42
 May Dance                        RealBk1    287
-May-Reh                          RealBk2    231
+Mayreh                          RealBk2    231
 Mayreh                       RealBk3    191
 May-Rey                      Library     76
 Mean Lene                    JazzLTD    226
@@ -2001,7 +2001,7 @@ Mood Indigo                  RealBk1    301
 Moon And Sand               NewReal3    249
 Moon And Sand                RealBk3    202
 Moon Germs                   RealBk1    302
-Moon Glow                    RealBk2    244
+Moonglow                    RealBk2    244
 Moon Love                   JazzFake    253
 Moon Rays                   JazzFake    253
 Moon Rays                    RealBk2    245
@@ -2049,7 +2049,7 @@ Movin' In Movin' Out           JazzLTD    237
 Moving Out                    RealBk2    251
 Mozambique                   NewReal2    231
 Mr. Jones                     RealBk2    253
-Mr. Broadway Theme From       RealBk2    252
+Theme From Mr. Broadway       RealBk2    252
 Mr. Clean                    NewReal1    223
 Mr. Clean                     RealBk2    227
 Mr. Gone                     NewReal1    225
@@ -2429,8 +2429,8 @@ Played Twice                     RealBk1    351
 Playground                       JazzLTD    275
 Plaza Real                      NewReal1    267
 Plight                           JazzLTD    276
-Ploinciana                       RealBk3    240
-Poinciana (Song Of The Tree)    JazzFake    302
+Poinciana                       RealBk3    240
+Poinciana                       JazzFake    302
 Point Of Return                  RealBk3    241
 Polka Dots And Moonbeams        ColoBk    176
 Polka Dots And Moonbeams        JazzFake    304
@@ -2698,8 +2698,8 @@ Shake Rattle And Roll               JazzFake    332
 Shaker Song                         NewReal1    315
 Shaky Jake                           JazzLTD    310
 Shank's Pranks                       Library    111
-Shaw 'Nuff                          NewReal1    317
-Shaw Nuff                            RealBk3    264
+Shawnuff                          NewReal1    317
+Shawnuff                            RealBk3    264
 Shawnuff                           JazzFake    333
 Sheba                              ColoBk    196
 Sheik Of Araby (The)               JazzFake    336
