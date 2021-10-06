@@ -2718,7 +2718,7 @@ Short Stop                          Library    102
 Short Stop                          RealBk2    322
 Short Story                        NewReal3    337
 Show-Type Tune                      EvansBk     62
-Shutter Bug                         RealBk2    322
+Shutterbug                         RealBk2    322
 Si Si                               Library    114
 Side By Side                      JazzFake    337
 Sidewinder                          RealBk1    382
@@ -2967,7 +2967,7 @@ Struttin' With Some Barbecue     RealBk2    347
 Stuff                            RealBk1    413
 Stuffy                                JazzFake    365
 Sub Aqua                              NewReal3    361
-Sub-Conscious-Lee                      RealBk2    348
+Subconscious Lee                      RealBk2    348
 Sudden Samba                          NewReal1    348
 Sudwest Funk                           Library    208
 Sues Changes                           JazzLTD    335
