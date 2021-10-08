@@ -1291,7 +1291,7 @@ I Can't Get Started                   ColoBk     92
 I Can't Get Started                  JazzFake    150
 I Can't Get Started                   RealBk1    208
 I Can't Give You Anything But Love   JazzFake    151
-I Cant Help It                       NewReal3    149
+I Can't Help It                       NewReal3    149
 I Concentrate On You                 JazzFake    152
 I Concentrate On You                  RealBk3    118
 I Could Have Danced All Night        JazzFake    153
@@ -1430,7 +1430,7 @@ In A Mist                                 JazzLTD     162
 In A Sentimental Mood                    ColoBk     108
 In A Sentimental Mood                   NewReal3    171
 In A Sentimental Mood                    RealBk1    223
-In A Shanty In. Old Shanty Town         JazzFake    182
+In A Shanty In Old Shanty Town         JazzFake    182
 In A Silent Way                         JazzFake    180
 In And Out                              ColoBk    106
 In April                                 EvansBk     20
@@ -3163,7 +3163,7 @@ Third Floor Richard                       JazzLTD    349
 34 Skidoo                                 EvansBk     73
 34 Skidoo                                NewReal3    385
 This Can't Be Love                       JazzFake    392
-This Cant Be Love                         RealBk3    309
+This Can't Be Love                         RealBk3    309
 This I Dig Of You                        ColoBk    247
 This I Dig Of You                         RealBk2    367
 This Is New                              ColoBk    248
@@ -3486,8 +3486,7 @@ Who?                                  JazzFake    428
 Whopper (The)                          RealBk2    395
 Who's Got Rhythm                      JazzFake    428
 Whose Blues                            Library    145
-Why (Lewis)                            JazzLTD    381
-Why (Wilder)                           JazzLTD    380
+Why                           JazzLTD    380
 Why Did I Choose You?                   RealBk3    344
 Why Do I Love You?                    JazzFake    430
 Wild Flower                            RealBk1    464
