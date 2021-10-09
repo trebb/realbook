@@ -91,7 +91,7 @@
 156   I Am in Love
 155   I Can't Believe That You're in Love with Me
 158   I Didn't Know About You
-159   I Get Along Without You Very Well (Except Sometimes)
+159   I Get Along Without You Very Well
 157   I Got It Bad and That Ain't Good
 160   I Got You (I Feel Good)
 161   I Gotta Right to Sing the Blues
@@ -174,7 +174,7 @@
 299   Say It Isn't So
 47   Blue Flame
 53   Blue Prelude
-54   The Blue Room
+54   Blue Room
 53   Blue Star
 52   Blue Train (Blue Trane)
 55   Blueport
@@ -301,7 +301,7 @@
 310   The Single Petal of a Rose
 311   Sippin' at Bells
 312   Slaughter on Tenth Avenue
-309   A Sleepin' Bee
+309   Sleepin' Bee
 314   Smile from a Stranger
 311   So Easy
 313   So in Love

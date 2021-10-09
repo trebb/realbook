@@ -86,7 +86,7 @@ East To Wes
 Easy Street
 Eleven Four
 Elogie
-The End Of A Love Affair
+End Of A Love Affair
 Ev'ry Time We Say Goodbye
 Everything Happens To Me
 Ev'rything I Love
@@ -188,7 +188,7 @@ James
 Java Jive
 Jazz 'N' Samba (So Danco Samba)
 Jersey Bounce
-The Jive Samba
+Jive Samba
 Just A Gigolo
 Just Squeeze Me
 Just The Two Of Us
@@ -211,7 +211,7 @@ Little Willie Leaps
 The Look Of Love
 Look To The Rainbow
 Lost In The Stars
-L-O-V-E
+LOVE
 Love Is A Simple Thing
 Love Letters
 Love Me Or Leave Me
@@ -230,7 +230,7 @@ Masquerade
 Maybe I Should Change My Ways
 Mayreh
 Mean To Me
-The Meaning Of The Blues
+Meaning Of The Blues
 Midnight Sun
 Milestones
 Mimi
@@ -304,7 +304,7 @@ Sing, You Sinners
 The Single Petal Of A Rose
 Sister Sadie
 Skylark
-A Sleepin' Bee
+Sleepin' Bee
 Small Fry
 Small World
 So In Love
@@ -317,7 +317,7 @@ Song For Strayhorn
 The Song Is Ended (But The Melody Lingers On)
 Song Of The Jet (Samba do Avião)
 Soon It's Gonna Rain
-S.O.S.
+SOS
 Spring Can Really Hang You Up The Most
 Spring Will Be A Little Late This Year
 Squeeze Me

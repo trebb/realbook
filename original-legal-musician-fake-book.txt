@@ -154,7 +154,7 @@ Dissertation On The State Of Bliss
 Distant Melody
 Dites-Moi (Tell Me Why)
 Do I Love You
-Do I Love You Because You're Beautiful
+Do I Love You Because You're Beautiful?
 Do-Re-Me
 Dog Eat Dog
 Dolores
@@ -321,7 +321,7 @@ Help Yourself
 Here's To Love
 I Love You
 I Loved You Once In Silence
-Hey, Look Me Over
+Hey Look Me Over
 Hey, Love
 Hey There Lonely Girl
 Hic, Haec, Hoc
@@ -682,7 +682,7 @@ The Search Is Through
 Senza Mamma (Without A Mother)
 September Song
 Shadows In The Moonlight
-Shall We Dance
+Shall We Dance?
 One Boy
 One Day We Dance
 One Dozen Roses
@@ -739,8 +739,8 @@ Similau
 The Simple Joys of Maidenhood
 Sing
 Sing For Your Supper
-Sing You Sinners
-A Sleepin' Bee
+Sing, You Sinners
+Sleepin' Bee
 Singin' The Blues
 Sixteen Going On Seventeen
 Slap That Bass
@@ -958,7 +958,7 @@ What Is A Youth?
 What Takes My Fancy
 Whatever Became Of Old Temple?
 What's A Nice Kid Like You Doing In A Place Like This?
-Alice in Wonderland or What's A Nice Kid Like
+Alice in Wonderland
 You Doing In A Place Like This?
 What's Good About Goodbye?
 Wheels

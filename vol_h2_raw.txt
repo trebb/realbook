@@ -33,7 +33,7 @@ Billie's Bounce
 Bird Feathers
 Birdland
 Birk's Works
-The Birth Of The Blues
+Birth Of The Blues
 Black And Tan Fantasy
 Blame It On My Youth
 Bloomdido
@@ -143,7 +143,7 @@ Ho-Ba-La-La
 Hocus-Pocus
 Holy Land
 Honeysuckle Rose
-Horace Scope
+Horacescope
 The Hucklebuck
 Hummin'
 Humpty Dumpty
@@ -188,7 +188,7 @@ Jackie
 Jeannine
 Jingles
 Jitterbug Waltz
-The Jody Grind
+Jody Grind
 Joyce's Samba
 Jump, Jive An' Wail
 Jumpin' With Symphony Sid
@@ -341,7 +341,7 @@ Summer In Central Park
 S'posin'
 Sweet Sue Just You
 The Sweetest Sounds
-The Swingin' Shepherd Blues
+Swingin' Shepherd Blues
 Syeeda's Song Flute
 'Tain't What You Do (It's The Way That Cha Do It)
 Take The Coltrane

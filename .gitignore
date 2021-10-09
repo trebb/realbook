@@ -4,7 +4,8 @@
 *~
 *.pdf
 allsongs.tex
-tempfile
+tempfile*
+prunedstrings
 vol_bc.txt
 vol_cc.txt
 vol_ev.txt

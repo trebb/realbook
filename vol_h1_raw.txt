@@ -36,14 +36,14 @@ Black Orpheus
 Blue Bossa
 Blue In Green
 Blue Monk
-The Blue Room
+Blue Room
 Blue Train
 Blues For Alice
 Bluesette
 Body And Soul
 Boplicity
 Bright Size Life
-Broad Way Blues
+Broadway Blues
 Broadway
 But Beautiful
 Butterfly
@@ -131,13 +131,13 @@ Full House
 Gee Baby, Ain't I Good To You
 Gemini
 Giant Steps
-The Girl From Ipanema
+Girl From Ipanema
 Gloria's Step
 God Bless' The Child
 Golden Lady
 Good Evening Mr. And Mrs. America
 Grand Central
-The Green Mountains
+Green Mountains
 Groovin' High
 Grow Your Own
 Guilty
@@ -178,7 +178,7 @@ In A Sentimental Mood
 In The Mood
 In The Wee Small Hours Of The Morning
 In Your Quiet Place
-The Inch Worm
+Inchworm
 Indian Lady
 Inner Urge
 Interplay
@@ -314,7 +314,7 @@ So Nice (Summer Samba)
 So What
 Solar
 Solitude
-Some Day My Prince Will Come
+Someday My Prince Will Come
 Some Other Spring
 Some Skunk Funk
 Somebody Loves Me
