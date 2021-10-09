@@ -38,7 +38,8 @@ done
 
 for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev,wg,rj,ol}; do
     awk -v vol=$v '{print toupper($0) "%%--%%" toupper(vol)}' vol_$v.txt
-done | sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' | \
+done > tempfile0
+sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' tempfile0 | \
     sort | \
     awk -F '%%--%%'  'vol[$1]=vol[$1] "," $2 {print $1, "%%--%%" vol[$1]}' | \
     sort -r | \
@@ -51,7 +52,10 @@ done
 sort tempfile |\
     sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\nopagebreak/' > allsongs.tex
 
-# uniq -w 10 -dD allsongs.tex
+cat tempfile |\
+    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000//' -e 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' -e 's/[[:punct:][:blank:]]//g' | sort > prunedstrings
+
+# uniq -w 10 -cd prunedstrings
 # exit
 
 pdflatex realbookindex.tex
