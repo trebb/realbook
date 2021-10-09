@@ -396,7 +396,7 @@
 124   Feels So Good
 122   Filthy McNasty
 121   First Trip
-123   500 Miles High
+123   Five Hundred Miles High
 125   Flanagan
 123   (Meet) The Flintstones
 126   Fly with the Wind
@@ -463,7 +463,7 @@
 252   My Ideal
 251   My Old Flame
 252   My Silent Love
-253   Naima (Niema)
+253   Naima
 253   Nature Boy
 342   There's a Mingus Amonk Us
 343   Things Ain't What They Used to Be
@@ -510,7 +510,7 @@
 371   Windows
 372   Wintersong
 372   Without a Song
-375   Wives and Lovers (Hey, Little Girl)
+375   Wives and Lovers
 376   Woodyn' You
 378   You Are Too Beautiful
 379   You Brought a New Kind of Love to Me

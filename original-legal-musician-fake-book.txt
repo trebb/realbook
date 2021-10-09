@@ -418,7 +418,6 @@ I'm Yours
 In A Shanty In Old Shanty Town
 In Love With A Fool
 In The Cool, Cool, Cool Of The Evening
-Here Comes The Groom
 In The Middle Of A Kiss
 In The Park In Paree
 In The Still Of The Night
@@ -772,7 +771,7 @@ Soon It's Gonna Rain
 Sophia
 The Sound Of Music
 Southern Cross
-Speak Softly Love
+Speak Softly
 Speech
 Spring Is A New Beginning
 The Spring Of The Next Year

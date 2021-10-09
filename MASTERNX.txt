@@ -980,10 +980,10 @@ Flamingo                          JazzLTD    122
 Flamingo                         NewReal2    105
 Flash                             Library     49
 Flim Flam                         RealBk2     99
-Flintstone's Theme                RealBk2    100
+Flintstones                     RealBk2    100
 Flintstones                      ColoBk     72
 Florences Fantasy                 JazzLTD    123
-Flower Is A Lonesome Thing (A)    RealBk2    101
+Flower Is A Lovesome Thing (A)    RealBk2    101
 Flowers For A Lady                JazzLTD    124
 Flugelin' The Blues              ColoBk     73
 Fly By Night                      RealBk2    102
@@ -2201,7 +2201,7 @@ Nothing Personal                           NewReal1    245
 November 68th                               JazzLTD    247
 November Afternoon                          JazzLTD    246
 Now He Beats The Drum, Now He   Stops        RealBk3    215
-Now He Sings                               JazzFake    278
+Now He Sings Now he Sobs                     JazzFake    278
 Now He Sings Now he Sobs                    RealBk3    216
 Now Is The Time                            ColoBk    156
 Now Is The Time                             Library     90
