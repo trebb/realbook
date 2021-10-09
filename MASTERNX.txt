@@ -1785,7 +1785,6 @@ Little Willie Leaps          RealBk3    171
 Little Wind                 NewReal2    189
 Liturgy                      RealBk1    268
 Local 802 Blues              Library    111
-Local Blues                  Library    111
 Locomotion                  ColoBk    127
 Locomotion                   RealBk2    217
 Lodgellian Mode              JazzLTD    206
