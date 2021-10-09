@@ -744,7 +744,7 @@ Dizzy Atmosphere                         JazzFake     98
 Dizzy Atmosphere                          Library     35
 Dizzy's Business                          JazzLTD     89
 Django                                   JazzFake    100
-D'Jango                                   Library     38
+Django                                   Library     38
 Django                                   NewReal2     71
 Django                                    RealBk1    120
 Do Nothin' Till You Hear From Me         JazzFake     99
@@ -974,7 +974,7 @@ Five                              EvansBk     17
 Five                              JazzLTD    120
 Five-Four Thing                   JazzLTD    121
 502 Blues                         RealBk1    153
-52nd Street Theme                 RealBk2     93
+Fifty Second Street Theme                 RealBk2     93
 Flags                             RealBk1    156
 Flamingo                          JazzLTD    122
 Flamingo                         NewReal2    105
@@ -2049,7 +2049,7 @@ Movin' In Movin' Out           JazzLTD    237
 Moving Out                    RealBk2    251
 Mozambique                   NewReal2    231
 Mr. Jones                     RealBk2    253
-Theme From Mr. Broadway       RealBk2    252
+Mr. Broadway Theme       RealBk2    252
 Mr. Clean                    NewReal1    223
 Mr. Clean                     RealBk2    227
 Mr. Gone                     NewReal1    225
@@ -2691,7 +2691,7 @@ Seven Steps To Heaven                RealBk1    379
 Seventeen West                       RealBk2    317
 Seventh Avenue                       JazzLTD    313
 Sextet                               Library    117
-Sey40r Mouse                         RealBk1    374
+Señor Mouse                         RealBk1    374
 Shades Of Light                      RealBk1    380
 Shadow Of Your Smile                 RealBk1    381
 Shake Rattle And Roll               JazzFake    332
@@ -3120,8 +3120,8 @@ Theme (The)                            Library    131
 Theme (What You Gave)                  EvansBk     70
 Theme For Ernie                       NewReal1    354
 Theme For Kareem                       JazzLTD    347
-Theme From Maxine                      RealBk3    302
-Theme From Mr. Broadway                RealBk2    252
+Maxine Theme                      RealBk3    302
+Mr. Broadway Theme                RealBk2    252
 Theme Of No Repeat                     JazzLTD    348
 Then Came You                          EvansBk     71
 Then I'll Be Tired Of You                 RealBk3    303
@@ -3383,7 +3383,7 @@ Watch What Happens          NewReal1    390
 Watch What Happens           RealBk2    384
 Watch What Happens           RealBk3    333
 Water Babies                 JazzLTD    373
-Water Colors                 RealBk2    385
+Watercolors                 RealBk2    385
 Watermelon Man              ColoBk    260
 Watermelon Man               RealBk3    334
 Watersign                    RealBk2    386

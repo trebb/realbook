@@ -787,9 +787,9 @@ The Streets Of Laredo
 A String Of Pearls
 Suddenly It's Spring
 Sugar Shack
-Theme From The Ten Commandments
-Theme From Serpico
-Theme From Star Trek
+The Ten Commandments Theme
+Serpico Theme
+Star Trek Theme
 Then You May Take Me To The Fair
 Then You've Never Been Blue
 There Will Never Be Another You
@@ -883,21 +883,19 @@ The Trail Of The Lonesome Pine
 Two A Day (The Wonderful World Of)
 Two Ladies In De Shade Of De Banana Tree
 Two Sleepy People
-Theme From Borsalino (Generique)
-Theme From Clair De Lune
+Borsalino Theme (Generique)
+Clair De Lune Theme
 The Vagabond King Waltz
 Vertigo
 Vilia
 Vino Vino
 Violets And Silverbells
 Voyage Of The Walnut Shell
-Theme From Godfather Il
-Theme From Murder On The Orient Express
-Murder On The Orient Express
-Theme From The Last Tycoon
-Theme From Marathon Man
-Theme From The Out-Of-Towners
-The Out-Of-Towners
+Godfather II Theme
+Murder On The Orient Express Theme
+The Last Tycoon Theme
+Marathon Man Theme
+The Out-Of-Towners Theme
 Voices
 Wait Till You See Her
 The Waiter And The Porter And The Upstairs Maid
@@ -910,7 +908,7 @@ Wand'rin Star
 War And Peace
 Warm And Tender
 Warm As Wine
-Warning Shot (Theme)
+Warning Shot Theme
 Was It A Dream?
 Was That The Human Thing To Do?
 The Way Of Love

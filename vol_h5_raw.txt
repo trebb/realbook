@@ -237,7 +237,7 @@ My Reverie
 My Yiddishe Momme
 Near You
 Never My Love
-Theme From 'New York, New York'
+'New York, New York' Theme
 Nice 'n' Easy
 No Other Love
 Noreen's Nocturne
@@ -292,7 +292,7 @@ A Shot In The Dark
 Should I?
 Show-Type Tune
 Shuffle Off To Buffalo
-Theme From The Simpsons
+The Simpsons Theme
 Sing
 Sing, Sing, Sing
 Sit Down You're Rockin' The Boat
@@ -320,7 +320,7 @@ Strictly Instrumental
 Strike Up The Band
 Song From M*A*S*H (Suicide Is Painless)
 The Summer Knows
-(Theme From) A Summer Place
+A Summer Place Theme
 Sunday
 Sunrise, Sunset
 Sweet Georgia Brown
