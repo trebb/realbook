@@ -1,18 +1,18 @@
 #! /bin/bash
 
-# vol_bc.txt: The Book - Commercial (TheBook)
-# vol_cc.txt: The Colorado Cookbook (ColoBk)
-# vol_ev.txt: Bill Evans Fakebook (EvansBk)
-# vol_h1.txt ... vol_h6.txt: Real Book (Hal Leonard) vol 1-6
-# vol_jf.txt: The Jazz Fakebook (JazzFake)
-# vol_jl.txt: Jazz LTD (JazzLTD)
-# vol_ol: The Original Legal Musicians' Fake Book
-# vol_lm.txt: Library Of Musician’s Jazz (Library)
-# vol_n1.txt ... vol_n3.txt: The New Real Book (Sher) vol 1-3 (NewReal1-3)
-# vol_rj.txt: The Real Jazz Book (Hal Leonard)
-# vol_st.txt: Standards Real Book (Sher Music)
-# vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (RealBk1-3)
-# vol_wg.txt: The World's Greatest Fake Book (Sher Music)
+# vol_bc.txt: The Book - Commercial (thebook.txt)
+# vol_cc.txt: The Colorado Cookbook (MASTERNX.txt:ColoBk)
+# vol_ev.txt: Bill Evans Fakebook (MASTERNX.txt:EvansBk)
+# vol_h1.txt ... vol_h6.txt: Real Book (Hal Leonard) vol 1-6 (vol_h{1..6}_raw.txt)
+# vol_jf.txt: The Jazz Fakebook (MASTERNX.txt:JazzFake)
+# vol_jl.txt: Jazz LTD (MASTERNX.txt:JazzLTD)
+# vol_ol: The Original Legal Musicians' Fake Book (original-legal-musician-fake-book.txt)
+# vol_lm.txt: Library Of Musician’s Jazz (MASTERNX.txt:Library)
+# vol_n1.txt ... vol_n3.txt: The New Real Book (Sher) vol 1-3 (MASTERNX.txt:NewReal1-3)
+# vol_rj.txt: The Real Jazz Book (Hal Leonard) (real_jazz_book.txt)
+# vol_st.txt: Standards Real Book (Sher Music) (vol_st_raw.txt)
+# vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (MASTERNX.txt:RealBk1-3)
+# vol_wg.txt: The World's Greatest Fake Book (Sher Music) (the_worlds_greatest_fakeboot.txt)
 
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
