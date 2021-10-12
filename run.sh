@@ -13,6 +13,12 @@
 # vol_st.txt: Standards Real Book (Sher Music) (vol_st_raw.txt)
 # vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (MASTERNX.txt:RealBk1-3)
 # vol_wg.txt: The World's Greatest Fake Book (Sher Music) (the_worlds_greatest_fakeboot.txt)
+# Just Standards Real Book (Warner Brothers) ISBN 9780757904530 (just-standards-real-book.txt)
+# Just Jazz Real Book (Hal Leonard) ISBN 9780757901683 (just-jazz-real-book.txt)
+# The Real Jazz Standards Fake Book (Hal Leonard) ISBN 9780634021558 (real-jazz-standards-fake-book.txt)
+# The Ultimate Jazz Fake Book (Hal Leonard) ISBN 9780881889796 (ultimate-jazz-fake-book.txt)
+# 557 Jazz Standards - swing to bop (557-jazz-standards.txt)
+# The European Real Book (Sher Music) ISBN‎ 9781883217242 (the-european-real-book.txt)
 
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
