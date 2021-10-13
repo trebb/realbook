@@ -15,8 +15,8 @@ Be Careful, It's My Heart
 Bein' Green
 Between The Devil And The Deep Blue Sea
 Bewitched
-The Birth Of The Blues
-The Blue Room
+Birth Of The Blues
+Blue Room
 Blue Skies
 Body And Soul
 Brazil
@@ -33,9 +33,9 @@ Cry Me A River
 Dancing On The Ceiling
 Darn That Dream
 Day By Day
-A Day In The Life Of A Fool (Manha De Carnaval)
+A Day In The Life Of A Fool
 Dear Heart
-Desafinado (Off Key)
+Desafinado
 Do Nothin' Till You Hear From Me
 Do You Know What It Means To Miss New Orleans
 Don't Get Around Much Anymore
@@ -44,13 +44,13 @@ Early Autumn
 East Of The Sun (And West Of The Moon)
 Easy Living
 Easy Street
-Easy To Love (You'd Be So Easy To Love)
+Easy To Love
 Ev'ry Time We Say Goodbye
 Everything Happens To Me
 Ev'rything I Love
 Fever
 Flamingo
-Fly Me To The Moon (In Other Words)
+Fly Me To The Moon
 For All We Know
 For Every Man There's A Woman
 From This Moment On
@@ -62,13 +62,13 @@ A Good Man Is Hard To Find
 Good Morning Heartache
 Guilty
 Haunted Heart
-Have You Met Miss Jones?
+Have You Met Miss Jones
 Hello, Young Lovers
 Here's That Rainy Day
 Honeysuckle Rose
 Hooray For Love
 How Are Things In Glocca Morra
-How Deep Is The Ocean (How High Is The Sky)
+How Deep Is The Ocean
 How High The Moon
 I Ain't Got Nothin' But The Blues
 I Can't Believe That You're In Love With Me
@@ -79,7 +79,7 @@ I Could Write A Book
 I Cried For You
 I Didn't Know What Time It Was
 I Don't Stand A Ghost Of A Chance With You
-I Get Along Without You Very Well (Except Sometimes)
+I Get Along Without You Very Well
 I Got It Bad And That Ain't Good
 I Gotta Right To Sing The Blues
 I Hear Music
@@ -171,14 +171,14 @@ Nature Boy
 The Nearness Of You
 A Nightingale Sang In Berkeley Square
 No Moon At All
-Norwegian Wood (This Bird Has Flown)
+Norwegian Wood
 Old Devil Moon
-On A Clear Day (You Can See Forever)
+On A Clear Day
 On A Slow Boat To China
 On Green Dolphin Street
 On The Street Where You Live
 On The Sunny Side Of The Street
-One For My Baby (And One More For The Road)
+One For My Baby
 Out Of Nowhere
 The Party's Over
 People
@@ -201,7 +201,7 @@ September Song
 Sing
 Sir Duke
 Skylark
-A Sleepin' Bee
+Sleepin' Bee
 Small Fry
 Small World
 Smoke Rings
@@ -217,15 +217,15 @@ Spring Will Be A Little Late This Year
 Stardust
 Stella By Starlight
 Stompin' At The Savoy
-Stormy Weather (Keeps Rainin' All The Time)
+Stormy Weather
 The Surrey With The Fringe On Top
 Sweet And Lovely
-Take The “A” Train
+Take The 'A' Train
 Tangerine
 Teach Me Tonight
 Tenderly
 There Are Such Things
-(There Is) No Greater Love
+There Is No Greater Love
 There Will Never Be Another You
 There's A Small Hotel
 They Say It's Wonderful
@@ -248,7 +248,7 @@ Willow Weep For Me
 Witchcraft
 You Are The Sunshine Of My Life
 You Are Too Beautiful
-You Made Me Love You (I Didn't Want To Do It)
+You Made Me Love You
 You'd Be So Nice To Come Home To
 You're Blase
 You're Driving Me Crazy! (What Did I Do?)

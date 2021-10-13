@@ -88,7 +88,7 @@ Mabel
 Madeira
 Mambo De La Luna
 Man In The Green Shirt
-Manoir De Mes R&ecirc;ves (Django's Castle)
+Manoir De Mes Reves (Django's Castle)
 Mathilde
 Max' Traces
 Meeting
@@ -132,7 +132,7 @@ Sixteen Blues
 The Sky Is There
 Skyline
 Slip Of The Tongue
-Smatter
+'S matter
 Smilin' Eyes
 Sojourner
 Son
@@ -148,7 +148,7 @@ A Summer In San Francisco
 Summer Nights
 Sunset
 Sweet Dulcinea Blue
-Swing '42
+Swing 42
 Tears
 Thank You And Farewell (Part III)
 This Time

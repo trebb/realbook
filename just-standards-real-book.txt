@@ -2,9 +2,9 @@
 (Sitting On) The Dock of the Bay
 A Day in the Life of a Fool
 A Fine Romance
-A Foggy Day (In London Town)
+A Foggy Day
 A Man and a Woman
-A-Tisket A-Tasket
+A-Tisket, A-Tasket
 After You, Who?
 Ain't Misbehavin'
 Ain't She Sweet
@@ -26,11 +26,11 @@ Autumn in New York
 Be a Clown
 Begin the Beguine
 Bei Mir Bist Du Schoen
-Bess You Is My Woman Now
+Bess, You Is My Woman
 Between the Devil and the Deep Blue Sea
 Bewitched, Bothered and Bewildered
 Bidin' My Time
-Bill Bailey, Won't You Please Come Home
+Bill Bailey
 Blue Moon
 Blues in the Night
 Body and Soul
@@ -47,7 +47,7 @@ Come Rain or Come Shine
 Cry Me a River
 Dancing in the Dark
 Dancing on the Ceiling
-Day In Day Out
+Day In, Day Out
 Deep Purple
 Do Nothin' Till You Hear from Me
 Don't Blame Me
@@ -64,21 +64,21 @@ Everything Must Change
 Falling in Love with Love
 Fascinating Rhythm
 Five Foot Two, Eyes of Blue
-Forty Second Street
+Forty-Second Street
 From a Distance
-Frosty the Snowman
+Frosty the Snow Man
 Gee Baby, Ain't I Good to You
-The Girl from Ipanema
+Girl from Ipanema
 Goldfinger
 Happy Days Are Here Again
-Have You Met Miss Jones?
+Have You Met Miss Jones
 Have Yourself a Merry Little Christmas
-Hey There!
+Hey There
 High Noon
 Hold Me, Thrill Me, Kiss Me
 How About You?
 How High the Moon
-How Insensitive (Insensatez)
+How Insensitive
 How Little We Know
 I Can't Get Started
 I Can't Give You Anything but Love
@@ -94,7 +94,7 @@ I Had the Craziest Dream
 I Let a Song Go out of My Heart
 I Loves You, Porgy
 I Love Paris
-I Love You for Sentimental Reasons
+(I Love You) for Sentimental Reasons
 I Only Have Eyes for You
 I Remember It Well
 I Thought About You
@@ -106,7 +106,7 @@ I Won't Dance
 I'll Remember April
 I'll See You in My Dreams
 I'm in the Mood for Love
-I'm Through with Love a/k/a I'm Thru with Love
+I'm Through with Love
 I've Got a Crush on You
 Just a Gigolo
 I've Got the World on a String
@@ -115,7 +115,7 @@ I've Grown Accustomed to Her Face
 If Ever I Would Leave You
 In a Sentimental Mood
 In the Still of the Night
-Is You Is, or Is You Ain't
+Is You Is or Is You Ain't
 It Ain't Necessarily So
 It Had to Be You
 It Was a Very Good Year
@@ -133,7 +133,7 @@ Let's Do It (Let's Fall in Love)
 Li'l Darlin'
 Limehouse Blues
 Love for Sale
-Love Is a Many Splendored Thing
+Love Is a Many-Splendored Thing
 Love Is Here to Stay
 Lover Man
 Lullaby of Broadway
@@ -147,11 +147,11 @@ Moonlight Serenade
 My Funny Valentine
 More Than You Know
 Mountain Greenery
-My Kind of Town (Chicago Is)
+My Kind of Town
 My Way
-Never on Sunday a/k/a No Tengo Dinero
+Never on Sunday
 Nevertheless (I'm in Love with You)
-New York New York
+New York, New York
 Nice Work If You Can Get It
 Night and Day
 On the Street Where You Live
@@ -161,7 +161,7 @@ Pennies from Heaven
 People
 Pieces of Dreams (Little Boy Lost)
 Prelude to a Kiss
-Quando, Quando, Quando (Tell Me When)
+Quando, Quando
 Quiet Nights of Quiet Stars (Corcovado)
 Rock-A-Bye Your Baby with a Dixie Melody
 Satin Doll
@@ -176,12 +176,12 @@ Sleigh Ride
 Slow Hot Wind
 Small World
 Smoke Gets in Your Eyes
-Softly, As I Leave You
-Softly, As in a Morning Sunrise
+Softly As I Leave You
+Softly As in a Morning Sunrise
 Someone to Watch Over Me
 Speak Low
 Somewhere My Love
-Star Dust
+Stardust
 Stars Fell on Alabama
 Strangers in the Night
 Summer Wind
@@ -197,10 +197,10 @@ Temptation
 That's Life
 The Best Is Yet to Come
 The Best Things in Life Are Free
-The Birth of the Blues
-The Blue Room
+Birth of the Blues
+Blue Room
 The Boulevard of Broken Dreams
-The Days of Wine and Roses
+Days of Wine and Roses
 The Good Life
 The Greatest Love of All
 The Lady Is a Tramp
@@ -216,15 +216,15 @@ The Shadow of Your Smile
 The Song Is You
 The Way You Look Tonight
 The Wind Beneath My Wings
-"A Summer Place" Theme
-"New York, New York" Theme
+'A Summer Place' Theme
+'New York, New York' Theme
 There's a Small Hotel
 They Can't Take That Away from Me
 Thunderball
 Too Marvelous for Words
 Try to Remember
 Two for the Road
-Toot Toot Tootsie
+Toot, Toot, Tootsie!
 Watch What Happens
 We've Only Just Begun
 What a Wonderful World
@@ -232,7 +232,7 @@ What Are You Doing the Rest of Your Life?
 What Is This Thing Called Love?
 What's New?
 When I Fall in Love
-When You're Smiling
+When You're Smiling (The whole world smiles with you)
 Where or When
 Who's Sorry Now
 Why Can't I?

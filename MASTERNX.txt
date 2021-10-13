@@ -493,7 +493,7 @@ Cariba                             JazzLTD     88
 Caribbean Cutie                    Library    159
 Carioca                           JazzFake      9
 Carnival                           EvansBk      8
-Carolina Moon 80 Cat Walk (The)   JazzFake     79
+Carolina Moon                      JazzFake     79
 Casa de Luz                        JazzLTD     56
 Casa De Luz                        Library     18
 Casa Forte                        NewReal2     41
@@ -559,7 +559,7 @@ Choo Choo Ch' Boogie               JazzFake     84
 Christmas Song                    JazzFake     85
 Christmas Song                     ColoBk    279
 Chromatic Tune                      EvansBk     11
-Chromazone                         NewReal2     51
+Chromozone                         NewReal2     51
 Chronic Blues                       JazzLTD     60
 Chuckles                            Library    159
 CIA                                 JazzLTD     72
@@ -1244,7 +1244,7 @@ Hide And Seek               ColoBk     87
 Hideaway                    NewReal1    139
 Hi-Fly                       JazzFake    146
 Hi-Fly                      NewReal2    129
-High Fly                    ColoBk     89
+Hi-Fly                    ColoBk     89
 High Hopes                   RealBk3    108
 High Society                JazzFake    147
 High Wire (The Aerialist)      RealBk3    110
@@ -1336,7 +1336,7 @@ I Remember Clifford                    JazzFake    160
 I Remember Clifford                     RealBk1    235
 I Remember Duke                        JazzFake    161
 I Remember Duke                         Library    181
-I Remember When (Si Tu Vois Me Mere)   JazzFake    162
+I Remember When                         JazzFake    162
 I Remember You                         ColoBk     97
 I Remember You                          RealBk2    169
 I Should Care                          NewReal1    145
@@ -1565,7 +1565,7 @@ Jeru                              JazzLTD    178
 Jeru                              Library     67
 Jim                              JazzFake    198
 Jingle Bells                     ColoBk    260
-Jingle-Bell Rock                 JazzFake    199
+Jingle Bell Rock                 JazzFake    199
 Jinrikisha                        RealBk1    244
 Jitterbug Waltz                   RealBk2    184
 Jitterbug Waltz                   RealBk3    158
@@ -2608,9 +2608,9 @@ Sail Away                       NewReal3    329
 Sailing At Night                NewReal2    311
 Saint James Infirmary           ColoBk    199
 Saint James Infirmary            RealBk2    325
-Saint Thomas                     JazzLTD    303
-Saint Thomas                     RealBk2    315
-Saint Thomas                     RealBk3    253
+St. Thomas                     JazzLTD    303
+St. Thomas                     RealBk2    315
+St. Thomas                     RealBk3    253
 Salt Peanuts                    ColoBk    185
 Salt Peanuts                    JazzFake    324
 Salt Peanuts                     RealBk2    310
@@ -2693,7 +2693,7 @@ Sextet                               Library    117
 Señor Mouse                         RealBk1    374
 Shades Of Light                      RealBk1    380
 The Shadow Of Your Smile                 RealBk1    381
-Shake Rattle And Roll               JazzFake    332
+Shake, Rattle And Roll               JazzFake    332
 Shaker Song                         NewReal1    315
 Shaky Jake                           JazzLTD    310
 Shank's Pranks                       Library    111
@@ -3252,7 +3252,7 @@ Trance                       RealBk1    435
 Trane's Blues                RealBk2    376
 Travelin' West               JazzLTD    361
 Travisimo                    Library    137
-Trav'lin Light              JazzFake    404
+Trav'lin' Light              JazzFake    404
 Tribute To Brownie           Library    210
 Trickleydidlier              Library    136
 Tricrotism                   RealBk3    325

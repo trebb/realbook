@@ -28,7 +28,7 @@ As Catch Can
 Au Privave
 Autumn Leaves
 Baby, Won't You Please Come Home
-Bag's New Groove
+Bags' New Groove
 Bags' Groove
 Ballad, A
 Ballin' The Jack
@@ -42,8 +42,8 @@ The Best Is Yet To Come
 The Best Things In Life Are Free
 Bewitched
 Big P
-Bill Bailey, Won't You Please Come Home
-Billie's Bounce (Bill's Bounce)
+Bill Bailey
+Billie's Bounce
 Bird Feathers
 Birdland
 Birds Of A Feather
@@ -61,7 +61,7 @@ Blues In The Night
 Bluesette
 Body And Soul
 Pine Top's Boogie
-Boplicity (Be Bop Lives)
+Boplicity
 Born To Be Blue
 The Breeze And I
 Bud's Blues
@@ -75,7 +75,7 @@ Caldonia (What Makes Your Big Head So Hard?)
 Can't Help Lovin' Dat Man
 Candy
 The Cape Verdean Blues
-The Carioca
+Carioca
 Carolina Moon
 The Cat Walk
 C.C. Rider
@@ -87,7 +87,7 @@ Chelsea Bridge
 Cherokee (Indian Love Song)
 Cheryl
 Choo Choo Ch' Boogie
-The Christmas Song (Chestnuts Roasting On An Open Fire)
+Christmas Song
 Close As Pages In A Book
 Come Rain Or Come Shine
 Come Sunday
@@ -100,7 +100,7 @@ Cry Me A River
 Cute
 Daahoud
 Darn That Dream
-A Day In The Life Of A Fool (Manha De Carnaval)
+A Day In The Life Of A Fool
 D.C. Farewell
 Dearly Beloved
 'Deed I Do
@@ -112,7 +112,7 @@ Do Nothin' Till You Hear From Me
 Do You Know What It Means To Miss New Orleans
 Don't Explain
 Don't Get Around Much Anymore
-Don't Let The Sun Catch You Crying
+Don't Let The Sun Catch You Cryin'
 Don't Take Your Love From Me
 Donna Lee
 Doodlin'
@@ -122,12 +122,12 @@ The Duke
 The Earl
 Early Autumn
 East Of The Sun (And West Of The Moon)
-Easy To Love (You'd Be So Easy To Love)
+Easy To Love
 Ecaroh
 Elsa
-The End Of A Love Affair
+End Of A Love Affair
 Ev'ry Time We Say Goodbye
-Everybody Loves My Baby (But My Baby Don't Love Nobody But Me)
+Everybody Loves My Baby
 Everything Happens To Me
 Everything's Coming Up Roses
 Exactly Like You
@@ -139,9 +139,9 @@ Fiesta In Blue
 Fine And Mellow
 A Fine Romance
 Flamingo
-Fly Me To The Moon (In Other Words)
+Fly Me To The Moon
 Flying Home
-A Foggy Day (In London Town)
+A Foggy Day
 Fool That I Am
 Footprints
 For All We Know
@@ -150,8 +150,8 @@ For Every Man There's A Woman
 For You, For Me For Evermore
 Four
 Four Brothers
-Four Others (Lighthouse)
-The New “Frankie And Johnnie” Song
+Four Others
+The New Frankie And Johnnie Song
 Frankie And Johnny
 Fried Bananas
 From This Moment On
@@ -159,7 +159,7 @@ Frosty The Snow Man
 Gee Baby, Ain't I Good To You
 Get Out Of Town
 Getting To Know You
-The Girl From Ipanema (Garôta De Ipanema)
+Girl From Ipanema
 The Glory Of Love
 The Glow Worm
 God Bless' The Child
@@ -179,7 +179,7 @@ Happy Talk
 Harlem Nocturne
 Harold's House Of Jazz
 Haunted Heart
-Have You Met Miss Jones?
+Have You Met Miss Jones
 Hello, Dolly!
 Hello, Young Lovers
 Here's That Rainy Day
@@ -188,7 +188,7 @@ High Society
 Honeysuckle Rose
 Hooray For Love
 How High The Moon
-How Insensitive (Insensatez)
+How Insensitive
 I Can't Get Started
 I Can't Give You Anything But Love
 I Concentrate On You
@@ -197,7 +197,7 @@ I Could Write A Book
 I Cover The Waterfront
 I Cried For You
 I Didn't Know What Time It Was
-I Don't Know Why (I Just Do)
+I Don't Know Why
 I Don't Stand A Ghost Of A Chance With You
 I Don't Want To Set The World On Fire
 I Got Plenty O' Nuttin'
@@ -224,7 +224,7 @@ I'll Take Romance
 I'll Walk Alone
 I'm Beginning To See The Light
 I'm Confessin' (That I Love You)
-I'm Glad There Is You (In This World Of Ordinary People)
+I'm Glad There Is You
 I'm Gonna Sit Right Down And Write Myself A Letter
 I'm Old Fashioned
 I'm Sitting On Top Of The World
@@ -235,7 +235,7 @@ If Ever I Would Leave You
 If I Were A Bell
 Ill Wind (You're Blowin' Me No Good)
 Imagination
-In A Little Spanish Town ('Twas On A Night Like This)
+In A Little Spanish Town
 In A Shanty In Old Shanty Town
 In A Silent Way
 In The Blue Of Evening
@@ -245,17 +245,17 @@ Indiana (Back Home Again In Indiana)
 Infant Eyes
 Inner Space
 Intermission Riff
-Is You Is, Or Is You Ain't (Ma' Baby)
+Is You Is Or Is You Ain't
 It Ain't Necessarily So
 It Might As Well Be Spring
 It Never Entered My Mind
-It Will Have To Do Until The Real Thing Comes Along (Until The Real Thing Comes Along)
+It Will Have To Do Until The Real Thing Comes Along
 It's A Blue World
 It's All Right With Me
 It's Magic
 It's Not For Me To Say
 It's Only A Paper Moon
-It's Sand, Man
+It's Sand Man
 It's The Talk Of The Town
 The Jazz-Me Blues
 Jeannine
@@ -269,7 +269,7 @@ Johnny One-Note
 Johnny's Theme
 Johnson Rag
 The Joint Is Jumpin'
-Jor Du
+Jordu
 Juke Box Saturday Night
 Jumpin' With Symphony Sid
 June Is Bustin' Out All Over
@@ -298,7 +298,7 @@ Like Someone In Love
 Limelight
 Line For Lyons
 Linger Awhile
-Little Boat (O Barquinho)
+Little Boat
 Little Brown Jug
 Li'l Darlin'
 Little Girl
@@ -319,7 +319,7 @@ Lover Man (Oh, Where Can You Be?)
 Lullaby Of Birdland
 Lullaby Of The Leaves
 Lush Life
-Mad About Him, Sad Without Him, How Can I Be Glad Without Him Blues
+Mad About Him, Sad Without Him
 Mad About The Boy
 Make Someone Happy
 Malaguena
@@ -329,12 +329,12 @@ Maple Leaf Rag
 Margie
 Marmaduke
 Mean To Me
-Meditation (Meditacao)
+Meditation
 Memories Of You
 Memphis In June
 Mercy, Mercy, Mercy
-Merry Christmas, Baby
-Merry Go Round
+Merry Christmas Baby
+The Merry-Go-Round
 Midnight Blue
 Midnight Sun
 Milenberg Joys
@@ -346,7 +346,7 @@ Mohawk
 Moon Love
 Moon Rays
 Moonglow
-Moonlight And Roses (Bring Mem'ries Of You)
+Moonlight And Roses
 Moonlight Bay
 Moonlight Cocktail
 Moonlight In Vermont
@@ -380,7 +380,7 @@ A Nightingale Sang In Berkeley Square
 Nippon Soul
 No Moon At All
 None But The Lonely Heart
-Now He Sings, Now He Sobs
+Now He Sings Now He Sobs
 Now's The Time
 Oh! Look At Me Now
 Oh, What A Beautiful Mornin'
@@ -389,7 +389,7 @@ Oh! You Beautiful Doll
 Ol' Man River
 Old Devil Moon
 Oleo
-On A Clear Day (You Can See Forever)
+On A Clear Day
 On A Little Street In Singapore
 On A Slow Boat To China
 On The Street Where You Live
@@ -397,11 +397,11 @@ On The Sunny Side Of The Street
 Once Upon A Summertime
 One By One
 One Mint Julep
-One Note Samba (Samba De Uma Nota So)
+One Note Samba
 Open Country
 Opus One
 Orchids In The Moonlight
-Organ Grinder, The
+Organ Grinder
 Ornithology
 Out To Lunch
 Paper Doll
@@ -409,7 +409,7 @@ Parker's Mood
 The Party's Over
 Paul's Pal
 The Peacock
-The Peanut Vendor (El Manisero)
+The Peanut Vendor
 Peel Me A Grape
 Pennies From Heaven
 People
@@ -457,14 +457,14 @@ Second Hand Rose
 Senor Blues
 Sentimental Journey
 September Song
-Serenade To A Bus Beat
+Serenade To A Bus Seat
 Sermonette
 Seven Come Eleven
 Shake, Rattle And Roll
 Shawnuff
 She's Funny That Way
 The Sheik Of Araby
-S-H-I-N-E
+SHINE
 Shiny Stockings
 Shivers
 Shoo Fly Pie And Apple Pan Dowdy
@@ -484,7 +484,7 @@ Soft Winds
 Solar
 Solitude
 Solo Flight
-Some Day My Prince Will Come
+Someday My Prince Will Come
 Some Enchanted Evening
 Some Of These Days
 Something Everywhere
@@ -494,9 +494,9 @@ The Song Is You
 Song Of The Islands
 Songbird (Thank You For Your Lovely Song)
 Sonny Boy
-S.O.S.
+SOS
 Soul Eyes
-South Of The Border (Down Mexico Way)
+South Of The Border
 Southern Comfort
 (I Can Recall) Spain
 Speak Low
@@ -507,7 +507,7 @@ Stay As Sweet As You Are
 Steeplechase
 Stockholm Sweetnin'
 Stompin' At The Savoy
-Stormy Weather (Keeps Rainin' All The Time)
+Stormy Weather
 Strange Fruit
 Strangers In The Night
 A String Of Pearls
@@ -523,28 +523,28 @@ S'posin'
 The Surrey With The Fringe On Top
 Sweet And Lovely
 Sweet Eloise
-Sweet Sue-Just You
+Sweet Sue Just You
 Swing House
-The Swingin' Shepherd Blues
+Swingin' Shepherd Blues
 Swingin' The Blues
 Swingin' Till The Girls Come Home
 The Tailgate Ramble
 Tain't Nobody's Biz-ness If I Do
 'Tain't What You Do (It's The Way That Cha Do It)
-Take The “A” Train
+Take The 'A' Train
 A Taste Of Honey
 Tenderly
 That's All
 That's Entertainment
 That's Life
 There Are Such Things
-(There Is) No Greater Love
+There Is No Greater Love
 There Will Never Be Another You
 There'll Be Some Changes Made
 There's A Boat Dat's Leavin' Soon For New York
 There's A Small Hotel
 Thermo
-These Foolish Things (Remind Me Of You)
+These Foolish Things
 They All Laughed
 They Can't Take That Away From Me
 They Didn't Believe Me
@@ -583,12 +583,12 @@ Walkin'
 Walkin' My Baby Back Home
 Waltz For Debby
 Watch What Happens
-'Way Down Yonder In New Orleans
+Way Down Yonder In New Orleans
 The Way You Look Tonight
 We Kiss In A Shadow
 Weary Blues
 Wee Dot
-Well You Needn't (It's Over Now)
+Well You Needn't
 West End Blues
 Western Reunion
 Westward Walk
@@ -605,7 +605,7 @@ Where Or When
 While We're Young
 Whisper Not
 Who?
-Who Can I Turn To (When Nobody Needs Me)
+Who Can I Turn To
 Who's Got Rhythm
 Why Do I Love You?
 Will You Still Be Mine
@@ -616,14 +616,14 @@ Woodchopper's Ball
 Work Song
 The World Is Waiting For The Sunrise
 Wouldn't It Be Loverly
-Wrap Your Troubles In Dreams (And Dream Your Troubles Away)
+Wrap Your Troubles In Dreams
 Yardbird Suite
 Yes Indeed
 Yesterdays
 You Better Go Now
 You Call It Madness (But I Call It Love)
 You Came A Long Way From St. Louis
-You Made Me Love You (I Didn't Want To Do It)
+You Made Me Love You
 You Turned The Tables On Me
 You'd Be So Nice To Come Home To
 You'll Never Walk Alone
