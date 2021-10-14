@@ -316,7 +316,7 @@
 320   Somewhere Along the Way
 320   Song for Lorraine
 322   Song for Strayhorn
-322   Song from M*A*S*H (Suicide Is Painless)
+322   Suicide Is Painless
 321   The Song Is Ended (But the Melody Lingers On)
 323   Songbird
 324   Sophisticated Lady
@@ -406,7 +406,7 @@
 214   Listen Here
 216   Little Shoes
 217   Little Sunflower
-218   Little Wa Itz
+218   Little Waltz
 203   Little White Lies
 200   Lively Up Yourself
 209   Livin'

@@ -619,7 +619,7 @@ Coral                             ColoBk     74
 Coral                              RealBk1     93
 Corcovado                          RealBk1     94
 Core (The)                         RealBk2     66
-Cork "N" Bib                       RealBk2     70
+Cork 'N' Bib                       RealBk2     70
 Corner Pocket (Until I Met You)   ColoBk     55
 Cote D'azur                       ColoBk     73
 Cottage For Sale (A)              JazzFake     90
@@ -1042,8 +1042,8 @@ Frank 'N Earnest                     Library    170
 Frankie And Johnny                  JazzFake    126
 Freckles                             Library     50
 Freddie Froo                         RealBk2    111
-Freddie The Freeloader               RealBk1    164
-Free Cell Block "F"                  RealBk2    112
+Freddie Freeloader               RealBk1    164
+Free Cell Block 'F'                  RealBk2    112
 Free Wheeling                        JazzLTD    130
 Free                                 RealBk2    116
 Freedom Jazz Dance                  NewReal2    110
@@ -2244,7 +2244,7 @@ Oleo                                   JazzFake    284
 Oleo                                   NewReal1    249
 Oleo                                    RealBk1    327
 Olhos De Gato                           RealBk1    328
-Olinoqui Valley                         RealBk1     A8
+Oliloqui Valley                         RealBk1     A8
 On A Clear Day                          JazzFake    283
 On A Clear Day                          RealBk2    273
 On A Clear Day                          RealBk3    219
@@ -2398,7 +2398,8 @@ Perdido                         JazzFake    301
 Perdido                         NewReal2    287
 Perdido                          RealBk2     88
 Peresina                         JazzLTD    271
-Perfect Love Jamala              RealBk1     A9
+Jamala                           RealBk1     A9
+Perfect Love                     RealBk1     A9
 Perhaps                         JazzFake    301
 Perhaps                          RealBk3    238
 Peri's Scope                     EvansBk     53
@@ -2783,7 +2784,7 @@ Social Call                      ColoBk    204
 Soft Shoe                         Library    112
 Soft Winds                       ColoBk    205
 Soft Winds                       JazzFake    346
-Softly As A Morning Sunrise       RealBk2    330
+Softly As In A Morning Sunrise       RealBk2    330
 Softly As In A Morning Sunrise   ColoBk    200
 Solar                            ColoBk    207
 Solar                            JazzFake    343
@@ -3087,7 +3088,8 @@ That's What I'm Talking About          Library    126
 The Masquerade Is Over                NewReal2    199
 The Blessing                           JazzLTD     34
 Boy Next Door                     NewReal2     34
-The Disguise The Sphinx                RealBk1     A4
+The Disguise                      RealBk1     A4
+The Sphinx                        RealBk1     A4
 The Duke                              NewReal2     79
 The Goodbye Look                      NewReal1    125
 The Island                            NewReal1    159
@@ -3317,7 +3319,7 @@ Valdez In The Country               JazzLTD    366
 Valse Hot                          JazzFake     10
 Valse Hot                           Library    146
 Valse Hot                           RealBk1    A13
-Valse Trists                        JazzLTD    367
+Valse Triste                        JazzLTD    367
 Van Lingle Mungo                   JazzFake    407
 Variations On The Scene             JazzLTD    367
 Vashkar                             RealBk1    442
