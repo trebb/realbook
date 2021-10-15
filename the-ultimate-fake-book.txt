@@ -42,7 +42,7 @@ America, The Beautiful
 Among My Souvenirs
 And So It Goes
 Anniversary Song
-The Anniversary Waltz
+Anniversary Waltz
 Another Op'nin', Another Show
 Answer Me, My Love
 Anticipation
@@ -53,7 +53,7 @@ Aquellos Ojos Verdes (Green Eyes)
 Are You Lonesome Tonight?
 Are You Sincere
 Aren't You Glad You're You
-Arrivederci Roma (Goodbye To Rome)
+Arrivederci Roma
 As If We Never Said Goodbye
 As Long As He Needs Me
 At My Front Door
@@ -78,9 +78,9 @@ Beach Baby
 Beat It
 (It's A) Beautiful Morning
 Beauty And The Beast
-Beer Barrel Polka (Roll Out The Barrel)
+Beer Barrel Polka
 Bernie's Tune
-Bésame Mucho (Kiss Me Much)
+Bésame Mucho
 The Best Things In Life Are Free
 Bewitched
 Beyond The Blue Horizon
@@ -98,7 +98,7 @@ Blue Eyes Crying In The Rain
 Blue Hawaii
 Blue Moon
 Blue On Blue
-The Blue Room
+Blue Room
 Blue Skies
 Blue Suede Shoes
 Blue Velvet
@@ -114,7 +114,7 @@ Born To Be Wild
 Born To Lose
 The Boulevard Of Broken Dreams
 Bouquet Of Roses
-The Boy Next Door
+Boy Next Door
 The Boys Are Back In Town
 The Brady Bunch
 Brandy (You're A Fine Girl)
@@ -169,14 +169,14 @@ Color My World
 Come Back To Me
 Come Fly With Me
 Come Rain Or Come Shine
-Come Saturday Morning (Saturday Morning)
+Come Saturday Morning
 Come Together
 Come What May
 Comedy Tonight
 Consider Yourself
 A Cottage For Sale
 Cotton Fields (The Cotton Song)
-Cotton Tail
+Cottontail
 Count Your Blessings Instead Of Sheep
 Country Style
 Cow-Cow Boogie
@@ -193,7 +193,7 @@ The Darktown Strutters' Ball
 Darling, Je Vous Aime Beaucoup
 Darn That Dream
 Day By Day
-A Day In The Life Of A Fool (Manha De Carnaval)
+A Day In The Life Of A Fool
 Day-O (The Banana Boat Song)
 Days Of Wine And Roses
 Dear Hearts And Gentle People
@@ -204,7 +204,7 @@ The Desert Song
 Django
 Do I Hear A Waltz?
 Do I Love You Because You're Beautiful?
-Do-Re-Mi
+Do Re Mi
 Do You Know What It Means To Miss New Orleans
 Do You Wanna Make Love
 Do You Want To Know A Secret?
@@ -213,7 +213,7 @@ Doin' What Comes Natur'lly
 Dolores
 Don't
 Don't Be Cruel (To A Heart That's True)
-Don't Cry Out Loud (We Don't Cry Out Loud)
+Don't Cry Out Loud
 Don't Know Why
 Don't Let The Stars Get In Your Eyes
 Don't Pull Your Love
@@ -229,7 +229,7 @@ Easter Parade
 Easy To Love (You'd Be So Easy To Love)
 Edelweiss
 Eight Days A Week
-El Relicario (Shrine Of Love)
+El Relicario
 Elmer's Tune
 Elvira
 Embraceable You
@@ -259,11 +259,11 @@ Fields Of Gold
 Fine And Dandy
 A Fine Romance
 Flat Foot Floogee
-Fly Me To The Moon (In Other Words)
+Fly Me To The Moon
 Flying Home
 The Folks Who Live On The Hill
 (Now And Then There's) A Fool Such As I
-Fools Rush In (Where Angels Fear To Tread)
+Fools Rush In
 Footloose
 For All We Know
 For Me And My Gal
@@ -285,8 +285,8 @@ Get Back
 Get Me To The Church On Time
 Getting To Know You
 Gigi
-Gimme A Little Kiss (Will Ya Huh?)
-The Girl From Ipanema (Garôta De Ipanema)
+Gimme A Little Kiss
+Girl From Ipanema
 Girl Talk
 The Girl That I Marry
 Girls Just Want To Have Fun
@@ -332,10 +332,10 @@ Happy Trails
 The Happy Wanderer (Val-de-ri Val-de-ra)
 Harbor Lights
 Harlem Nocturne
-Hava Nagila (Let's Be Happy)
+Hava Nagila
 Have I Told You Lately
 Have You Ever Been Lonely? (Have You Ever Been Blue?)
-Have You Met Miss Jones?
+Have You Met Miss Jones
 He Was Too Good To Me
 Heart And Soul
 Heat Wave
@@ -352,7 +352,7 @@ The High And The Mighty
 High Hopes
 Hindustan
 Hit The Road To Dreamland
-The Hokey Pokey
+Hokey Pokey
 Holiday For Strings
 Honey
 Honeysuckle Rose
@@ -366,7 +366,7 @@ Houston
 How Am I To Know
 How Are Things In Glocca Morra
 How Can You Mend A Broken Heart
-How Deep Is The Ocean (How High Is The Sky)
+How Deep Is The Ocean
 How Deep Is Your Love
 How High The Moon
 How 'Ya Gonna Keep 'em Down On The Farm? (After They've Seen Paree)
@@ -389,12 +389,12 @@ I Couldn't Sleep A Wink Last Night
 I Cover The Waterfront
 I Didn't Know What Time It Was
 I Don't Care If The Sun Don't Shine
-I Don't Know Why (I Just Do)
+I Don't Know Why
 I Don't Stand A Ghost Of A Chance With You
 I Don't Want To Set The World On Fire
 I Don't Want To Walk Without You
 I Enjoy Being A Girl
-I Get Along Without You Very Well (Except Sometimes)
+I Get Along Without You Very Well
 I Got A Woman
 I Got It Bad And That Ain't Good
 I Got Plenty O' Nuttin'
@@ -410,7 +410,7 @@ I Love You
 I Love You
 I Love You So Much It Hurts Me
 I Love You Truly
-I May Be Wrong (But I Think You're Wonderful!)
+I May Be Wrong
 I Miss You So
 I Remember You
 (I Scream-You Scream-We All Scream For) Ice Cream
@@ -420,7 +420,7 @@ I Talk To The Trees
 I Walk The Line
 I Wanna Be Around
 I Wanna Be Loved
-I Want A Girl (Just Like The Girl That Married Dear Old Dad)
+I Want A Girl
 I Want You, I Need You, I Love You
 I Whistle A Happy Tune
 I Will Always Love You
@@ -441,7 +441,7 @@ I'll See You In My Dreams
 I'll Take Romance
 I'm A Ding Dong Daddy (From Dumas)
 I'm Always Chasing Rainbows
-I'm An Old Cowhand (From The Rio Grande)
+I'm An Old Cowhand
 I'm Beginning To See The Light
 I'm Confessin' (That I Love You)
 I'm Gonna Wash That Man Right Outa My Hair
@@ -461,28 +461,27 @@ I've Got You Under My Skin
 I've Gotta Be Me
 I've Grown Accustomed To Her Face
 I've Told Ev'ry Little Star
-Theme From Ice Castles (Through The Eyes Of Love)
+Ice Castles theme
 If
 If Ever I Would Leave You
-If I Could Be With You (One Hour Tonight)
+If I Could Be With You
 If I Had A Hammer (The Hammer Song)
 If I Loved You
 If I Ruled The World
 If This Isn't Love
 If We Only Have Love (Quand On N'a Que L'amour)
-If You Knew Susie (Like I Know Susie)
+If You Knew Suzie
 If You Remember Me
 Ill Wind (You're Blowin' Me No Good)
 Imagination
 The Impossible Dream (The Quest)
 In A Mellow Tone
 In A Sentimental Mood
-The “In” Crowd
+The 'In' Crowd
 In The Chapel In The Moonlight
 In The Cool, Cool, Cool Of The Evening
 In The Misty Moonlight
 In The Mood
-In The Still Of The Nite (I'll Remember)
 In The Still Of The Night
 In The Wee Small Hours Of The Morning
 In Walked Bud
@@ -534,9 +533,9 @@ June Night
 Just A Gigolo
 Just In Time
 Just One More Chance
-Just Squeeze Me (But Don't Tease Me)
+Just Squeeze Me
 Just The Two Of Us
-Just Walking In The Rain
+Just Walkin' In The Rain
 Kisses Sweeter Than Wine
 Ko Ko Mo (I Love You So)
 La Vie En Rose (Take Me To Your Heart Again)
@@ -624,7 +623,7 @@ Make Believe
 Make Someone Happy
 Making Our Dreams Come True
 Makin' Whoopee!
-A Man And A Woman (Un Homme Et Une Femme)
+A Man And A Woman
 A Man Without Love (Quando M'Innamoro)
 Managua, Nicaragua
 Mañana
@@ -667,7 +666,7 @@ Moon Love
 Moon River
 Moondance
 Moonglow
-Moonlight And Roses (Bring Mem'ries Of You)
+Moonlight And Roses
 Moonlight Becomes You
 Moonlight Cocktail
 Moonlight In Vermont
@@ -732,7 +731,7 @@ Nobody Knows You When You're Down And Out
 Non Dimenticar (T'ho Voluto Bene)
 Nowhere Man
 Nuages
-The Object Of My Affection
+Object Of My Affection
 The Odd Couple
 Of Thee I Sing
 Oh, Lonesome Me
@@ -744,7 +743,7 @@ Oklahoma
 Ol' Man River
 Old Devil Moon
 The Old Lamplighter
-On A Clear Day (You Can See Forever)
+On A Clear Day
 On A Little Street In Singapore
 On And On
 On The Atchison, Topeka And The Santa Fe
@@ -760,7 +759,7 @@ One Dozen Roses
 One Mint Julep
 One Toke Over The Line
 1 2 3
-Only The Lonely (Know The Way I Feel)
+Only The Lonely
 Only You (And You Alone)
 Operator
 Operator (That's Not The Way It Feels)
@@ -803,7 +802,7 @@ Poinciana (Song Of The Tree)
 Polka Dots And Moonbeams
 Pomp And Circumstance
 Poor Butterfly
-The Poor People Of Paris
+Poor People Of Paris
 Popcorn
 Precious And Few
 Precious Lord, Take My Hand (Take My Hand, Precious Lord)
@@ -817,7 +816,7 @@ Put On A Happy Face
 Put Your Dreams Away (For Another Day)
 Put Your Head On My Shoulder
 Puttin' On The Ritz
-Quando, Quando, Quando (Tell Me When)
+Quando, Quando
 Que Sera, Sera (Whatever Will Be, Will Be)
 Quizas, Quizas, Quizas (Perhaps, Perhaps, Perhaps)
 Rag Mop
@@ -862,7 +861,7 @@ Royal Garden Blues
 Ruby, Don't Take Your Love To Town
 Runaway
 Sail Along, Silv'ry Moon
-Love Theme From “St. Elmo's Fire”
+Love Theme From 'St. Elmo's Fire'
 Sam's Song
 Samba De Orfeu
 Same Old Saturday Night
@@ -932,7 +931,7 @@ Soft Lights And Sweet Music
 Soft Shoe Song (The Dance My Darlin' Used To Do)
 Softly As In A Morning Sunrise
 Solitude
-Some Day My Prince Will Come
+Someday My Prince Will Come
 Some Enchanted Evening
 Some Other Time
 Somebody Else Is Taking My Place
@@ -948,7 +947,7 @@ Soon
 Sophisticated Lady
 Sophisticated Swing
 The Sound Of Music
-South Of The Border (Down Mexico Way)
+South Of The Border
 Southern Cross
 Speak Low
 Speak Softly, Love (Love Theme)
@@ -959,7 +958,7 @@ Stand By Me
 Stand By Your Man
 Star Eyes
 The Star-Spangled Banner
-Theme From “Star Trek(R)”
+Star Trek Theme
 (Just Like) Starting Over
 Stay
 Stay As Sweet As You Are
@@ -982,7 +981,7 @@ Stuck In The Middle With You
 Sugartime
 Summer In The City
 Summer Me, Winter Me
-(Theme From) A Summer Place
+A Summer Place Theme
 Summer Wind
 Sunshine On My Shoulders
 Superstition
@@ -997,7 +996,7 @@ Sweet Dreams
 Sweet Home Alabama
 Sweet Lorraine
 Sweet Someone
-Sweet Sue-Just You
+Sweet Sue Just You
 The Sweetest Sounds
 Swinging On A Star
 The Tailgate Ramble
@@ -1026,7 +1025,7 @@ Thanks For The Memory
 That Lucky Old Sun
 That Old Black Magic
 That Old Gang Of Mine
-That's Amore (That's Love)
+That's Amore
 That's Entertainment
 That's Life
 That's My Weakness Now
@@ -1040,7 +1039,7 @@ There's A Small Hotel
 There's No Business Like Show Business
 There's No You
 These Boots Are Made For Walkin'
-These Foolish Things (Remind Me Of You)
+These Foolish Things
 They All Laughed
 They Didn't Believe Me
 They Say It's Wonderful
@@ -1098,7 +1097,7 @@ Waltz For Debby
 Warm Valley
 Watch What Happens
 The Watusi
-'Way Down Yonder In New Orleans
+Way Down Yonder In New Orleans
 The Way You Look Tonight
 The Wayward Wind
 We Are The World
@@ -1108,7 +1107,6 @@ We Shall Overcome
 We'll Sing In The Sunshine
 We're In The Money (The Gold Diggers Serenade)
 Wedding March
-Wedding March (Bridal Chorus)
 What Are You Doing The Rest Of Your Life?
 What Kind Of Fool Am I?
 What Now My Love
@@ -1149,15 +1147,15 @@ With A Hey And A Hi And A Ho Ho Ho
 With A Little Bit Of Luck
 With A Song In My Heart
 With One Look
-Wives And Lovers (Hey, Little Girl)
+Wives And Lovers
 Woman In Love
 A Wonderful Day Like Today
 A Wonderful Guy
 Wooden Heart
 The World Is Waiting For The Sunrise
 Wouldn't It Be Loverly
-Wrap Your Troubles In Dreams (And Dream Your Troubles Away)
-(The Wreck Of The) “John B”
+Wrap Your Troubles In Dreams
+(The Wreck Of The) 'John B'
 Wunderbar
 Yakety Yak
 Yardbird Suite

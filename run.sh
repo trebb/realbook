@@ -1,6 +1,7 @@
 #! /bin/bash
 
 # vol_bc.txt: The Book - Commercial (thebook.txt)
+# vol_c1.txt: Cuban Fake Book (cuban-fake-book-vol1.txt)
 # vol_cc.txt: The Colorado Cookbook (MASTERNX.txt:ColoBk)
 # vol_eu.txt: The European Real Book (Sher Music) (the-european-real-book.txt)
 # vol_ev.txt: Bill Evans Fakebook (MASTERNX.txt:EvansBk)
@@ -15,15 +16,13 @@
 # vol_ol: The Original Legal Musicians' Fake Book (original-legal-musician-fake-book.txt)
 # vol_rj.txt: The Real Jazz Book (Hal Leonard) (real_jazz_book.txt)
 # vol_rs.txt: The Real Jazz Standards Fake Book (Hal Leonard) (real-jazz-standards-fake-book.txt)
+# vol_rw.txt: Richard Wolfe's legit professional fake book : more than 1010 songs (CPP/Belwin) (richard-wolfes-legit-professional-fakebook.txt)
+# vol_s3.txt: Jazz Club Piano Solos 3 (Wise Publications) (jazz-club-piano-solos-vol3.txt)
 # vol_st.txt: Standards Real Book (Sher Music) (vol_st_raw.txt)
 # vol_u1.txt ... vol_v3.txt: The Real Book (5th edition) vol 1-3 (MASTERNX.txt:RealBk1-3)
+# vol_uf.txt: The Ultimate Fake Book (Hal Leonard) (the-ultimate-fake-book.txt)
 # vol_uj.txt: The Ultimate Jazz Fake Book (Hal Leonard) (ultimate-jazz-fake-book.txt)
 # vol_wg.txt: The World's Greatest Fake Book (Sher Music) (the_worlds_greatest_fakeboot.txt)
-
-# Richard Wolfe's legit professional fake book : more than 1010 songs (ISBN 9780898984484) (CPP/Belwin)
-# Cuban Fake Book
-# The Ultimate Fake Book (ISBN 978-0793529391) (Hal Leonard)
-# Jazz Club Piano Solos (Wise Publications)
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
 grep -e '^EvansBk'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_ev.txt
@@ -47,6 +46,10 @@ cp real-jazz-standards-fake-book.txt vol_rs.txt
 sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' ultimate-jazz-fake-book.txt > vol_uj.txt
 sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' 557-jazz-standards.txt > vol_fj.txt
 cp the-european-real-book.txt vol_eu.txt
+cp jazz-club-piano-solos-vol3.txt vol_s3.txt
+cp the-ultimate-fake-book.txt vol_uf.txt
+cp richard-wolfes-legit-professional-fakebook.txt vol_rw.txt
+sed -Ee 's/[0-9]+\) //' cuban-fake-book-vol1.txt | sed -e 's/\(.*\), \(El\|La\)/\2 \1/g' > vol_c1.txt
 
 cut -d ' ' -f 2- real_jazz_book.txt | awk '{$1=$1};1' > vol_rj.txt
 sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_st_raw.txt > vol_st.txt
@@ -54,7 +57,7 @@ for i in {1..6}; do
     cp vol_h${i}_raw.txt vol_h$i.txt
 done
 
-for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev,wg,rj,ol,js,jj,rs,uj,fj,eu}; do
+for v in {h1,u1,n1,h2,u2,n2,h3,u3,n3,h4,h5,h6,st,jl,jf,cc,lm,bc,ev,wg,rj,ol,js,jj,rs,uj,fj,eu,s3,uf,rw,c1}; do
     awk -v vol=$v '{print toupper($0) "%%--%%" toupper(vol)}' vol_$v.txt
 done > tempfile0
 sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' tempfile0 | \

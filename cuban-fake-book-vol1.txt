@@ -3,16 +3,15 @@
 3) Alma con alma
 4) Almendra
 5) Andalucia
-6) Aquella tarda
-7) arroyo que murmura.EI
-8) Bay a mesa, La
+6) Aquella tarde
+7) arroyo que murmura, El
 9) Bayamesa, La
 10) bodeguero, El
 11) Brussels in the Rain
-12) Calcuiadora
-13) cahafistula, La
-14) Cancion para un festival
-l5) Caridad
+12) Calculadora
+13) canafistula, La
+14) Canclon para un festival
+15) Caridad
 16) Cemento, ladrillo y arena
 17) Chucho
 18) Como arrullo de palmas
@@ -23,7 +22,7 @@ l5) Caridad
 23) Contigo en la distancia
 24) Con tres palabras
 25) Convergencia
-26) Corazbn
+26) Corazon
 27) Coro de los esclavos
 28) Danzas afrocubanas
 29) Deja que siga solo
@@ -39,7 +38,7 @@ l5) Caridad
 77) Pare Cochero
 78) Pedacito de cielo
 79) Perla marina
-80) Prof ecia
+80) Profecia
 81) El que siembra su maiz
 82) Quiereme mucho
 83) Quiereme y veras
@@ -47,7 +46,7 @@ l5) Caridad
 85) Realidad y fantasia
 86) Refugiate en mi
 87) Samba for Carmen
-88) Santa Isabel de lasLajas
+88) Santa Isabel de las Lajas
 89) Se fue
 90) Si me comprendieras
 91) Si te contara
@@ -78,7 +77,7 @@ l5) Caridad
 39) Frutas del Caney
 40) gloria eres tu, La
 41) Greta
-42) guararey de Pastora,EI
+42) guararey de Pastora, El
 43) Guarina
 44) Inolvidable
 45) Jamaiquino, El
@@ -111,10 +110,10 @@ l5) Caridad
 72) Nuestra cancion
 72) Nuestras vidas
 73) Ogguere
-74) jOh vida!
+74) Oh vida
 75) Olvido
 76) Pagina en bianco
-116) cY tu que has hecho?
+116) Y tu que has hecho
 117) Yo no quiero piedraen mi camino
 118) La Guitarra
 119) Amor esperame

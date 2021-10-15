@@ -1,8 +1,8 @@
-A-tisket a-tasket
+A-tisket, a-tasket
 The aba daba honeymoon
 Abide with me
 Across the western ocean
-An affair to remember
+An affair to remember (our love affair)
 After love
 After one kiss
 After the ball
@@ -30,8 +30,8 @@ Alouette (the lark)
 Amaryllis (Ghys)
 Amazing grace
 Amen
-America (my country ‘tis of thee)
-America the beautiful
+America (my country 'tis of thee)
+America, the beautiful
 the American patrol
 American pie
 Anchors aweigh
@@ -92,7 +92,7 @@ Big Bailey, won't you please come home?
 Billy the kid
 Bim bam boom
 A bird in a gilded cage
-The birth of the blues
+birth of the blues
 A bit o' the brogue
 Blest be the tie that binds
 Blood on the saddle
@@ -107,7 +107,7 @@ Bonnie blue eyes
 Bouree (Bach)
 The bow of love
 The bowery
-The boy next door
+boy next door
 Brahms' Lullaby
 Bridal march from 'Lohengrin' (Wagner)
 The bridge at Remagen (main theme)
@@ -118,15 +118,15 @@ Broadway baby
 Broadway melody
 Bubbles in the wine
 Buckeye Jim
-The bugle call rag
+bugle call rag
 Bury me beneath the willow
 The butcher's boy
 By love possessed
-Bye bye, love
+Bye bye love
 Cabin the sky
 Cae cae
 The caissons go rolling along
-California here I come
+California, here I come
 Camptown races
 Caravan
 Canon
@@ -187,11 +187,11 @@ Did I remember?
 Did you see her eyes
 Ding-dong! The witch is dead
 Dixieland
-Do I love you?
+Do I love you
 Do my Johnny Booker
-Do nothin' till you hear from me --
+Do nothin' till you hear from me
 Do you ever think of me
-Do you want to know a secret
+Do you want to know a secret?
 Does anybody really know what time it is
 Does your heart beat for me?
 Doing good
@@ -221,7 +221,7 @@ Elegie (Massenet)
 Elfin dance (Grieg)
 Elk's parade
 Elmer's tune
-Emperor waltz (Strauss)
+Emperor waltz
 Empty arms
 Ending with a kiss
 Erie canal
@@ -240,7 +240,7 @@ The farmer in the dell
 The farmer's curst wife
 Fascination
 Father, I stretch my hands to thee
-Feelings (?dime?)
+Feelings
 Ferry-boat serenade
 Fiddle dee dee
 Fiddle-i-fee
@@ -249,7 +249,7 @@ Finlandia (Sibelius)
 The first Noel
 The first time ever I saw your face
 Fit as a fiddle
-Five foot two, eyes of blue (has anybody seen my gal?)
+Five foot two, eyes of blue
 Flow gently, sweet afton
 For all we know
 For he's a jolly good fellow
@@ -274,10 +274,10 @@ Gambler's blues
 The gang that sang 'heart of my heart'
 Gavotte I (Bach)
 Gavotte II (Bach)
-The gentle rain
+gentle rain
 George Collins
 Get happy
-Gimme a little kiss (will ya, huh?)
+Gimme a little kiss
 Gimme some
 The girl I left behind
 Girl in my soup
@@ -286,17 +286,17 @@ Give my regards to Broadway
 Give the winds thy fears
 Glad Christmas bells
 Gladiator march
-Glow worm
+The Glow worm
 Go down Moses
 Go tell Aunt Rhody
 Go tell it on the mountain
 God rest you merry, gentlemen
 Gold and silver waltz (Lehar)
 Goldfinger
-Gonna fly now (theme from 'Rocky')
+Gonna fly now
 Goober peas
 Good-bye Broadway, hello France!
-Goodbye Columbus
+Goodbye, Columbus
 Good friends
 Good grove
 Good king Wenceslas
@@ -307,7 +307,7 @@ Good night sweetheart
 The good, the bad and the ugly
 Good times are here to stay
 Goodbye, little Bonnie, goodbye
-Goodnight Irene
+Goodnight, Irene
 Goofus
 Graduation day
 The grass keeps right on growing
@@ -325,19 +325,19 @@ Gypsy baron waltz (Strauss)
 Gypsy love song
 Gypsy rondo (Haydin)
 Habanera (from 'Carmen' (Bizet))
-Hail! Hail! The gang's all here
+Hail, Hail, The gang's all here
 Hail to the chief
 Hair
 Hallelujah trail
 Handy man
-Hang ‘em high
+Hang 'em high
 Happiness is a thing called Joe
 The happy farmer (Shumann)
-The happy wanderer (Val de ri-val de ra)
+The happy wanderer (Val-de-ri val-de-ra)
 The hard way
 Hark! The herald angels sing
 Hatikvah
-Havah nagilah
+Hava nagilah
 Have you ever been so lonely?
 Have yourself a merry little Christmas
 Hawaii
@@ -383,16 +383,16 @@ Hungarian dance no. 4 (Brahms)
 Hungarian dance no. 5 (Brahms)
 Hungarian rhapsody no. 2 (Liszt)
 Hurt
-Hush, little baby –
+Hush, little baby
 Hymn to the sun (Rimsky-Korsakov)
 I am a man of constant sorrow
 I believe in love
 I can't give you anything but love
 I can't help it
 I cried for you
-I don't know why (I just do)
+I don't know why
 I don't know you (anymore)
-I don't stand a ghost of a chance (with you)
+I don't stand a ghost of a chance with you
 I don't want to play in your hand
 I fall in love too easily
 I feel a song comin' on
@@ -413,7 +413,7 @@ I love you
 I love you truly
 I married an angel
 I need thee every hour
-I never knew (I could love anybody like I'm loving you)
+I never knew
 I remember you
 I said no
 I saw three ships
@@ -432,9 +432,9 @@ I'll never stop loving you
 I'll see you in my dreams
 Illya darling
 I'm a brass band
-I'm a ding dong daddy from dumas
+I'm a ding dong daddy (from dumas)
 I'm always chasing rainbows
-I'm getting' sentimental over you
+I'm getting sentimental over you
 I'm gonna be a wheel someday
 I'm in love again
 I'm in the mood for love
@@ -446,12 +446,13 @@ I'm sitting on top of the world
 I'm sorry I made you cry
 I'm thru with love
 I'm walkin'
-I've got a feelin' you're foolin' –I've got the world on a string
+I've got a feelin' you're foolin'
+I've got the world on a string
 I've just seen her (as nobody else has seen her)
 Ida, sweet as apple cider
 If I give my heart to you
 If I had you
-If my friends could see me now!
+If my friends could see me now
 If we can't be the same old sweethearts (we'll just be the same old friends)
 In a little Spanish town
 In a sentimental mood
@@ -466,7 +467,7 @@ Inspector clouseau theme
 Invitation to the dance (Von Weber)
 Ireland must be heaven
 Irene
-Theme from 'Irma la douce' (look again)
+Irma la douce theme
 It came upon a midnight clear
 It could happen to you
 It don't mean a thing (if it ain't got that swing)
@@ -483,7 +484,7 @@ It's superman
 Ja-da
 Jack and Jill
 Jack of diamonds
-The James Bond theme
+James Bond theme
 Jeanie with the light brown hair
 Jeannine
 Jenny Jenkins
@@ -493,8 +494,7 @@ Johnny angel
 Johnson rag
 Jolly old St. Nicholas
 Joshua fought the battle of Jericho
-Joy to the world (1970s)
-Joy to the world (Christmas)
+Joy to the world
 Jubilee
 June (Tchaikovsky)
 June night
@@ -507,7 +507,7 @@ Kentucky bootlegger
 Kiss an angel good mornin'
 A kiss to build a dream on
 Kum ba ya
-La cumparsita
+La compasita
 La Donna e mobile (Verdi)
 La golondrina
 La marseillaise
@@ -520,15 +520,15 @@ Lazy Mary, will you get up?
 Lazy river
 Lead, kindly light
 Learn to croon
-Let a smile be your umbrella (on a rainy day)
-Let me love you to-night
+Let a smile be your umbrella
+Let me love you tonight
 Let the four winds blow
 Let the sunshine in
 The liberty song
 Liebestraum (Lizst)
 Light cavalry overture (Von Suppe)
 Li'l Liza Jane
-Theme from 'Lilies of the field'
+Lilies of the field theme
 Linda mujer
 Linger awhile
 Listen to the mockingbird
@@ -543,22 +543,23 @@ loch Lomond
 Lois Ann
 London bridge
 Londonderry air
-Looks like we made it Love is a many-splendored thing
+Looks like we made it
+Love is a many-splendored thing
 Love is all we need
 Love is just around the corner
 Love letters
-Love makes the world go ‘round
+Love makes the world go 'round
 Love will find a way
 Lovely is she
 Lovesick blues
 Love's old sweet song
-M-O-T-H-E-R
+MOTHER
 Ma (he's making eyes at me)
-The magnificent seven –Make me rainbows
+The magnificent seven
+Make me rainbows
 Mala femmena
 Mam'selle
-The man on the flying trapeze (movie) –
-The man on the flying trapeze (1890s)
+The man on the flying trapeze
 Manana
 Manhattan serenade
 Maple leaf rag
@@ -575,8 +576,7 @@ Mary's a grand old name
 Masquerade
 Massa's in the cold, cold ground
 Mattinata (Leoncavallo)
-Maybe (1930s)
-Maybe (Broadway)
+Maybe
 Me ol' bam-boo
 Meadowlands
 Mean to me
@@ -587,10 +587,10 @@ Merry widow waltz (Lehar)
 Mexican hat dance
 Mi casa, su casa
 Michael, row the boat ashore
-Theme from 'Midnight Cowboy'
+Midnight Cowboy theme
 A mighty fortress is our god
 Mighty lak' a rose
-Minnie the moocher (the ho de ho song)
+Minnie the moocher
 Minuet (Mozart)
 Mira (can you imagine that?)
 Mister banjo
@@ -607,13 +607,15 @@ Morning glow
 Mother-in-law
 Mr. Blue
 Mr. Smith goes to town
-'Murder' he says
-(Put another nickel in) music, music, music
-My blue heaven –My Bonnie
+Murder, he says
+(Put another nickel in) music! music! music!
+My blue heaven
+My Bonnie
 My Cherie amour
-My faith looks up to thee –My gal sal
+My faith looks up to thee
+My gal sal
 My heart at thy sweet voice from 'Samson and Delilah' (Saint-Saens)
-My little grass shack in Kealakekua, Hawaii
+My little grass shack
 My little red book
 My love loves me
 My love, my love
@@ -728,9 +730,9 @@ Please
 Please don't leave me
 Polly wolly doodle
 Polonaise, op. 53 (Chopin)
-Pomp and circumstance (Elgar)
+Pomp and circumstance
 Praise God from whom all blessings flow
-Praise the Lord and pass the ammunition
+Praise the Lord and pass the ammunition!
 Prelude from 'Carmen' (Bizet)
 Prelude, op. 28, no. 9 (Chopin)
 Prelude to a kiss
@@ -743,7 +745,7 @@ The rainmaker
 Ramona
 Ready for the times to get better
 Ready or not
-Red river valley –
+Red river valley
 Reuben and Rachel
 Reverie (Debussy)
 Ricochet
@@ -759,7 +761,7 @@ Rome will never leave you
 Love theme from 'Romeo and Juliet' (Tchaikovsky)
 The rose of Tralee
 Roses are red (my love)
-‘Round her neck she wears a yellow ribbon
+'Round her neck she wears a yellow ribbon
 Row, row, row your boat
 Ruby
 Runnin' wild
@@ -767,7 +769,7 @@ Rudolph, the red-nosed reindeer
 Russian sailor's dance
 The Russians are coming
 Sad sack
-Theme from 'the saint'
+the saint theme
 Salut d'amour (Elgar)
 San Francisco
 Santa Claus is comin' to town
@@ -790,11 +792,11 @@ Shady grove
 Shangri-La
 She is more to be pitied than censured
 She was poor but she was honest
-She'll be comin' ‘round the mountain
+She'll be comin' 'round the mountain
 Shenandoah
 Shoo fly, don't bother me
 Shortnin' bread
-Should I
+Should I?
 Si cantemo
 Siboney
 The sidewalks of New York
@@ -811,13 +813,13 @@ Sleepy time gal
 Sleigh ride
 Slow poke
 So rare
-Softly, as I leave you
+Softly as I leave you
 Sol tropical
 Soldier's march (Schumann)
 Some like it hot
 Somebody
 Somebody stole my gal
-Somewhere, my love
+Somewhere my love
 Song of India (Rimsky-Korsakov)
 A song of old Hawaii
 Song without words (Tchaikovsky)
@@ -830,7 +832,7 @@ Springfield mountain
 Stagger lee
 Stairway to the stars
 Stand up, stand up for Jesus
-Star dust
+Stardust
 The star-spangled banner
 The stars and stripes forever
 Stars fell on Alabama
@@ -903,7 +905,7 @@ Today
 Tom Dooley
 Tomorrow
 Tomorrow may never come
-Toot, toot, tootsie! (good-bye)
+Toot, toot, tootsie!
 The top of the mornin'
 Topkapi
 Toreador march from 'Carmen' (Bizet)
@@ -944,7 +946,7 @@ Waltz op. 64, no. 2 (Chopin)
 Wandering
 The wang wang blues
 The Washington post march
-‘Way down yonder in New Orleans
+Way down yonder in New Orleans
 We three kings of orient are
 We will always be sweethearts
 We wish you a merry Christmas
@@ -954,7 +956,7 @@ We're off to see the wizard
 Were you there?
 We've only just begun
 What are little boys made of
-What are you doing the rest of your life
+What are you doing the rest of your life?
 (I love you) what can I say?
 What can I say after I'm sorry?
 What did Delaware?
