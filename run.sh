@@ -20,6 +20,10 @@
 # vol_uj.txt: The Ultimate Jazz Fake Book (Hal Leonard) (ultimate-jazz-fake-book.txt)
 # vol_wg.txt: The World's Greatest Fake Book (Sher Music) (the_worlds_greatest_fakeboot.txt)
 
+# Richard Wolfe's legit professional fake book : more than 1010 songs (ISBN 9780898984484) (CPP/Belwin)
+# Cuban Fake Book
+# The Ultimate Fake Book (ISBN 978-0793529391) (Hal Leonard)
+# Jazz Club Piano Solos (Wise Publications)
 
 awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
 grep -e '^EvansBk'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_ev.txt
