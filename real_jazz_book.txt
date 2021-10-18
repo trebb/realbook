@@ -167,7 +167,7 @@
 294   Ring Dem Bells
 293   Ritmo De La Noche
 295   Riverboat Shuffle
-298   Rocker (Rock Salt)
+298   Rocker
 296   Rockin' in Rhythm
 297   St. Louis Blues
 298   Samba Cantina
@@ -176,7 +176,7 @@
 53   Blue Prelude
 54   Blue Room
 53   Blue Star
-52   Blue Train (Blue Trane)
+52   Blue Trane
 55   Blueport
 54   Blues for Alice
 56   Blues for D.P.

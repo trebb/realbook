@@ -71,7 +71,7 @@ Button Up Your Overcoat
 Buzzy
 Bye Bye Blackbird
 Bye Bye Blues
-Caldonia (What Makes Your Big Head So Hard?)
+Caldonia
 Can't Help Lovin' Dat Man
 Candy
 The Cape Verdean Blues
@@ -84,7 +84,7 @@ Charmaine
 Chasing The Bird
 Chega De Saudade (No More Blues)
 Chelsea Bridge
-Cherokee (Indian Love Song)
+Cherokee
 Cheryl
 Choo Choo Ch' Boogie
 Christmas Song
@@ -217,7 +217,7 @@ I Won't Dance
 I'll Always Be In Love With You
 I'll Be Around
 I'll Be Seeing You
-I'll Get By (As Long As I Have You)
+I'll Get By
 I'll Never Smile Again
 I'll Remember April
 I'll Take Romance
@@ -241,7 +241,7 @@ In A Silent Way
 In The Blue Of Evening
 In The Mood
 In The Still Of The Night
-Indiana (Back Home Again In Indiana)
+Indiana
 Infant Eyes
 Inner Space
 Intermission Riff
@@ -315,7 +315,7 @@ Love For Sale
 Love Is A Simple Thing
 Love Is Here To Stay
 Love Walked In
-Lover Man (Oh, Where Can You Be?)
+Lover Man
 Lullaby Of Birdland
 Lullaby Of The Leaves
 Lush Life
@@ -492,7 +492,7 @@ Sometimes I'm Happy
 Song For My Father
 The Song Is You
 Song Of The Islands
-Songbird (Thank You For Your Lovely Song)
+Songbird
 Sonny Boy
 SOS
 Soul Eyes

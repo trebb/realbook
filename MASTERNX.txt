@@ -325,7 +325,7 @@ Blue Silver                  ColoBk     37
 Blue Silver                   RealBk2     35
 Blue Skies                    JazzLTD     40
 Blue Spirits                 NewReal3     49
-Blue Train                    RealBk1     58
+Blue Trane                    RealBk1     58
 Blue Trane                   ColoBk     33
 Blueberry Hill               JazzFake     65
 Blue Bird                      Library     21
@@ -2338,7 +2338,7 @@ Ow                           ColoBk    172
 Ow                            Library     97
 Oye Como Va                   RealBk2    403
 Oz                           NewReal1    257
-P.Y.T.(Pretty Young Thing)   NewReal1    281
+P.Y.T. (Pretty Young Thing)   NewReal1    281
 Palermo Walk                  Library    196
 Palo-Alto                     RealBk2     82
 Pamela's Passion              JazzLTD    264
@@ -2833,7 +2833,7 @@ Song Is You (The)                         JazzLTD    327
 Song Is You (The)                         RealBk1    395
 Song Of The Islands                      JazzFake    352
 Song                                      RealBk1    393
-Songbird (Thank You for Your Lovely Song) JazzFake    349
+Songbird                                   JazzFake    349
 Sonja's Sanfona                          NewReal1    331
 Sonny Boy                                JazzFake    354
 Sonny Side                                Library    106

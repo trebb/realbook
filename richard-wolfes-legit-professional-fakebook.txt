@@ -217,7 +217,7 @@ Easy to be hard
 Ebb tide
 Eh, cumpari!
 El capitan
-Elegie (Massenet)
+Elegie
 Elfin dance (Grieg)
 Elk's parade
 Elmer's tune
@@ -426,7 +426,7 @@ I wish I had a girl
 I wonder who's kissing her now
 I'd like to teach the world to sing (in perfect harmony)
 I'll be on my way
-I'll get by (as long as I have you)
+I'll get by
 I'll keep you satisfied
 I'll never stop loving you
 I'll see you in my dreams
@@ -619,7 +619,7 @@ My little grass shack
 My little red book
 My love loves me
 My love, my love
-My man
+My man (Mon Homme)
 My melancholy baby
 My mother's eyes
 My old flame
@@ -747,7 +747,7 @@ Ready for the times to get better
 Ready or not
 Red river valley
 Reuben and Rachel
-Reverie (Debussy)
+Reverie
 Ricochet
 Rio Rita
 Rock-a-bye, baby

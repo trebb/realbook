@@ -157,7 +157,7 @@ Chattanooga Choo Choo
 Chattanoogie Shoe Shine Boy
 Cheek To Cheek
 Cheerful Little Earful
-Cherokee (Indian Love Song)
+Cherokee
 Cherry Pink And Apple Blossom White
 Choo Choo Ch' Boogie
 Climb Ev'ry Mountain
@@ -226,7 +226,7 @@ Duke Of Earl
 Early Autumn
 East Of The Sun (And West Of The Moon)
 Easter Parade
-Easy To Love (You'd Be So Easy To Love)
+Easy To Love
 Edelweiss
 Eight Days A Week
 El Relicario
@@ -253,7 +253,7 @@ Falling In Love With Love
 Far Away Places
 Fascinating Rhythm
 Fascination
-Feelings (?Dime?)
+Feelings
 A Felicidade
 Fields Of Gold
 Fine And Dandy
@@ -305,7 +305,7 @@ Good Day Sunshine
 Good Golly Miss Molly
 A Good Man Is Hard To Find
 Goodnight, Irene
-Goodnight, Sweetheart, Goodnight (Goodnight, It's Time To Go)
+Goodnight, Sweetheart, Goodnight
 Got A Date With An Angel
 Got To Get You Into My Life
 Granada
@@ -378,7 +378,7 @@ I Almost Lost My Mind
 I Believe
 I Can Dream, Can't I?
 I Can't Get Started
-I Can't Help It (If I'm Still In Love With You)
+I Can't Help It
 I Can't Stand It
 I Can't Stop Loving You
 I Concentrate On You
@@ -435,7 +435,7 @@ I'd Rather Be Blue Over You
 I'll Be Around
 I'll Be Seeing You
 I'll Follow The Sun
-I'll Get By (As Long As I Have You)
+I'll Get By
 I'll Have To Say I Love You In A Song
 I'll See You In My Dreams
 I'll Take Romance
@@ -487,7 +487,7 @@ In The Wee Small Hours Of The Morning
 In Walked Bud
 Indian Love Call
 Indian Reservation
-Indiana (Back Home Again In Indiana)
+Indiana
 Inka Dinka Doo
 Isfahan
 Isle Of Capri
@@ -561,7 +561,7 @@ Let Me Entertain You
 Let Me Sing And I'm Happy
 Let The Good Times Roll
 Let There Be Love
-Let's Do It (Let's Fall In Love)
+Let's Do It
 Let's Face The Music And Dance
 Let's Fall In Love
 Let's Have Another Cup Of Coffee
@@ -654,7 +654,7 @@ Midnight Sun
 Midnight Train To Georgia
 Mimi
 Minute By Minute
-Miss Otis Regrets (She's Unable To Lunch Today)
+Miss Otis Regrets
 Miss You
 Mission: Impossible Theme
 Mississippi Mud
@@ -674,7 +674,7 @@ Moonlight Serenade
 More Today Than Yesterday
 The Most Beautiful Girl In The World
 Moten Stomp
-M-O-T-H-E-R (A Word That Means The World To Me)
+MOTHER
 Mountain Greenery
 Mister Ed
 Mr. Lee
@@ -762,7 +762,6 @@ One Toke Over The Line
 Only The Lonely
 Only You (And You Alone)
 Operator
-Operator (That's Not The Way It Feels)
 The Other Man's Grass Is Always Greener
 Our Language Of Love
 Our Love Affair
@@ -798,7 +797,7 @@ Please Come To Boston
 Please Please Me
 Pocketful Of Miracles
 Poetry In Motion
-Poinciana (Song Of The Tree)
+Poinciana
 Polka Dots And Moonbeams
 Pomp And Circumstance
 Poor Butterfly
@@ -818,7 +817,7 @@ Put Your Head On My Shoulder
 Puttin' On The Ritz
 Quando, Quando
 Que Sera, Sera (Whatever Will Be, Will Be)
-Quizas, Quizas, Quizas (Perhaps, Perhaps, Perhaps)
+Quizás, Quizás, Quizás (Perhaps, Perhaps, Perhaps)
 Rag Mop
 Raiders March
 Raindrops
@@ -989,7 +988,7 @@ Surfin' U.S.A.
 The Surrey With The Fringe On Top
 Susie-Q
 Suspicion
-Sway (Quien Sera)
+Sway
 Swedish Rhapsody
 Sweet And Lovely
 Sweet Dreams
@@ -1058,13 +1057,13 @@ Tiger Rag (Hold That Tiger)
 Till We Meet Again
 Till We Two Are One
 Time After Time
-A Time For Us (Love Theme)
+A Time For Us
 Tiny Bubbles
 Tip-Toe Thru' The Tulips With Me
 To Love Again
 Together Wherever We Go
 Tom Dooley
-Too Fat Polka (She's Too Fat For Me)
+Too Fat Polka
 Top Hat, White Tie And Tails
 The Touch Of Your Lips
 Travelin' Man
@@ -1131,7 +1130,7 @@ Whistle While You Work
 (There'll Be Bluebirds Over) The White Cliffs Of Dover
 A Whiter Shade Of Pale
 Who?
-Who Can I Turn To (When Nobody Needs Me)
+Who Can I Turn To
 Who's Afraid Of The Big Bad Wolf?
 A Whole New World (Aladdin's Theme)
 Why
