@@ -1,6 +1,7 @@
 *.log
 *.aux
 *.tmp
+*.out
 *~
 *.pdf
 allsongs.tex
