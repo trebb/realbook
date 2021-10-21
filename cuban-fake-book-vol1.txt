@@ -62,7 +62,7 @@
 101) Tabu
 102) tarde, La
 103) Te odio
-104) Tres lindas cubana
+104) Tres lindas cubanas
 105) Triguenita
 106) Tristezas
 107) Tu me acostumbrastes
@@ -81,7 +81,7 @@
 43) Guarina
 44) Inolvidable
 45) Jamaiquino, El
-46) Lagrimas negras
+46) Lágrimas negras
 47) Lamento esclavo
 48) Las perlas de tu boca
 49) Libre de pecado
@@ -113,7 +113,7 @@
 74) Oh vida
 75) Olvido
 76) Pagina en bianco
-116) Y tu que has hecho
+116) Y tú, que has hecho
 117) Yo no quiero piedraen mi camino
 118) La Guitarra
 119) Amor esperame

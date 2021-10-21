@@ -698,7 +698,7 @@ Dearly Beloved                       RealBk1    107
 Debbie                               Library    165
 Deception                            JazzLTD     79
 Decidedly                            JazzLTD     80
-Decision                             RealBk2     40
+Decisión                             RealBk2     40
 Dee Song                            NewReal2     63
 'Deed I Do                           JazzFake     96
 Deep Purple                          RealBk2     72
@@ -802,7 +802,6 @@ Doxy                        ColoBk     65
 Doxy                        JazzFake    105
 Doxy                         Library     39
 Doxy                         RealBk2     79
-Dr. Jeckyll                  JazzLTD     89
 Dr. Jeckyll                  JazzLTD     89
 Dream Dancing                RealBk3     71
 Dreamin                     NewReal3    113
