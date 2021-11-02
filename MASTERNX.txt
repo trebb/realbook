@@ -839,8 +839,7 @@ Ecaroh                      JazzFake    108
 Ecaroh                       JazzLTD    104
 Ecaroh                      NewReal2     81
 Ecclusiastics                RealBk1    131
-Eclipse          JazzLTD     97
-Eclipse             JazzLTD     97
+Eclipse                      JazzLTD     97
 Eclypso                      RealBk2     83
 Edda                        ColoBk     67
 Edda                         JazzLTD     98
@@ -861,7 +860,6 @@ Elevation                     Library     42
 Eleven Sixty                  Library     42
 Elizete                       RealBk1    136
 Ellipsis             JazzLTD    101
-Ellipsis             JazzLTD    102
 Elm                          NewReal1     81
 Elora                         RealBk2     84
 Elsa                         JazzFake    109
@@ -1389,7 +1387,6 @@ I'll Take Romance                         RealBk3     131
 I'll Walk Alone                          JazzFake     170
 Ill Wind                                 JazzFake     178
 Ill Wind                                 NewReal2     150
-I'll Be Around                           NewReal2     147
 Illuminados                              NewReal2     151
 I'm A Pool To Want You                    RealBk2     161
 I'm Afraid                                RealBk1      A6
@@ -1749,8 +1746,7 @@ Line For Lyons              NewReal1    188
 Line For Lyons               RealBk3    170
 Linger Awhile               JazzFake    221
 Lion's Den                   JazzLTD    200
-Lisa                JazzLTD    201
-Lisa              JazzLTD    200
+Lisa                         JazzLTD    200
 Lisa                        NewReal2    188
 Litha                       NewReal3    215
 Litha                        RealBk1    264
@@ -2944,7 +2940,6 @@ Story Line                      NewReal2    351
 Straight Ahead                   JazzLTD    330
 Straight Life                    RealBk2    343
 Straight Street                  JazzLTD    331
-Straight Up And Down             JazzLTD    332
 Straight Up And Down             JazzLTD    314
 Straight No Chaser              ColoBk    156
 Straight No Chaser               RealBk1    412
@@ -3073,7 +3068,6 @@ That Artt He's All Heart               JazzLTD    344
 That Girl                              JazzLTD    346
 That Girl                             NewReal3    375
 That Old Feeling                      NewReal3    380
-That Old Feeling                      NewReal3    381
 That Old Feeling                       RealBk3    300
 That's All                            JazzFake    380
 That's All                            NewReal2    363
@@ -3120,7 +3114,6 @@ Theme (What You Gave)                  EvansBk     70
 Theme For Ernie                       NewReal1    354
 Theme For Kareem                       JazzLTD    347
 Maxine Theme                      RealBk3    302
-Mr. Broadway Theme                RealBk2    252
 Theme Of No Repeat                     JazzLTD    348
 Then Came You                          EvansBk     71
 Then I'll Be Tired Of You                 RealBk3    303
@@ -3409,7 +3402,6 @@ Weekend Blues                             RealBk2    389
 We'll Be Together Again                  NewReal1    399
 We'll Be Together Again                   RealBk1    453
 Well You Needn't                          ColoBk    264
-Well You Needn't                          ColoBk    263
 Well You Needn't                         JazzFake    419
 Well You Needn't                         NewReal1    400
 Well You Needn't                          RealBk1    454
