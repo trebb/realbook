@@ -5,6 +5,7 @@
 *~
 *.pdf
 allsongs.tex
+legend.tex
 tempfile*
 prunedstrings
 vol_aj.txt
