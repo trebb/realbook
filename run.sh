@@ -21,7 +21,7 @@ books=(
     "jl C:teal    T:Jazz LTD / Over 500 tunes the real books missed  P:-               I:-             F:MASTERNX.txt:JazzLTD"
     "js C:gray    T:Just Standards Real Book                         P:Warner Brothers I:9780757904530 F:just-standards-real-book.txt"
     "lm C:teal    T:Library Of Musicians' Jazz                       P:-               I:-             F:MASTERNX.txt:Library"
-    "lr C:gray    T:The Latin Real Book                              P:Sher Music      I:9781883217051 F:the-latin-real-book.txt"
+    "lr C:black   T:The Latin Real Book                              P:Sher Music      I:9781883217051 F:the-latin-real-book.txt"
     "n1 C:black   T:The New Real Book vol 1                          P:Sher Music      I:9780961470142 F:MASTERNX.txt:NewReal1"
     "n2 C:black   T:The New Real Book vol 2                          P:Sher Music      I:9780961470173 F:MASTERNX.txt:NewReal2"
     "n3 C:black   T:The New Real Book vol 3                          P:Sher Music      I:9781883217310 F:MASTERNX.txt:NewReal3"
