@@ -56,7 +56,9 @@ books=(
 # done
 
 printf "\\\begin{tabular}{rlll}\n" > legend.tex
-printf "  KEY & TITLE & PUBLISHER & ISBN \\\\\\ \n" >> legend.tex
+printf "  --- & ----------------------------------------------- & --------------- & -------------- \\\\\\ \n" >> legend.tex
+printf "  KEY & TITLE                                           & PUBLISHER       & ISBN           \\\\\\ \n" >> legend.tex
+printf "  --- & ----------------------------------------------- & --------------- & -------------- \\\\\\ \n" >> legend.tex
 for b in "${books[@]}"; do
     key="${b/ *}"
     color="${b#* C:}"
@@ -69,6 +71,7 @@ for b in "${books[@]}"; do
     isbn="${isbn/ *}"
     printf "  {\\\color{%s} %s} & %s & %s & %s \\\\\\ \n" "$color" "${key^^}" "${title^^}" "${publisher^^}" "$isbn"
 done >> legend.tex
+printf " \\multicolumn{4}{l}{---------------------------------------------------------------------------------------} \\\\\\ \n" >> legend.tex
 printf "\\\end{tabular}\n" >> legend.tex
 
 for b in "${books[@]}"; do
@@ -136,7 +139,7 @@ for i in {A..Z}; do
 done
 
 sort tempfile |\
-    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\nopagebreak/' > allsongs.tex
+    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\nopagebreak/' > allsongs.tex
 
 cat tempfile |\
     sed -Ee 's/%\\hangindent1em ([A-Z])%%00000//' -e 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' -e 's/[[:punct:][:blank:]]//g' | sort > prunedstrings
