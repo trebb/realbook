@@ -905,8 +905,8 @@ Everything Happens To Me       NewReal1     91
 Everything Happens To Me        RealBk3     82
 Everything I Have Is Yours     NewReal3    118
 Everything I Have Is Yours      RealBk2     89
-Everything I Love              ColoBk     70
-Everything I Love               RealBk3     83
+Ev'rything I Love              ColoBk     70
+Ev'rything I Love               RealBk3     83
 Everything's Coming Up Roses   JazzFake    113
 Everywhere                      Library     43
 Evidence                        JazzLTD    112
