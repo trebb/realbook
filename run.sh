@@ -4,7 +4,7 @@
 books=(
     #KEY  COLOR     TITLE                                              PUBLISHER       ISBN             REMARK    SOURCE FILE
     "aj C:gray    T:The All-Jazz Real Book                           P:Sher Music    I:9781883217143  R:-       F:all-jazz-real-book.txt"
-    "bc C:teal    T:The Book / Commercial                            P:-             I:-              R:-       F:thebook.btxt"
+    "bc C:teal    T:The Book / Commercial                            P:-             I:-              R:-       F:thebook.txt"
     "c1 C:teal    T:Cuban Fake Book Vol. No 1                        P:-             I:-              R:lyrics  F:cuban-fake-book-vol1.txt"
     "cc C:teal    T:The Colorado Cookbook                            P:-             I:-              R:-       F:MASTERNX.txt:ColoBk"
     "eu C:gray    T:The European Real Book                           P:Sher Music    I:9781883217242  R:-       F:the-european-real-book.txt"
@@ -36,7 +36,7 @@ books=(
     "u1 C:teal    T:The Real Book vol 1 (fifth edition)              P:-             I:-              R:-       F:MASTERNX.txt:RealBk1"
     "u2 C:teal    T:The Real Book vol 2                              P:-             I:-              R:-       F:MASTERNX.txt:RealBk2"
     "u3 C:teal    T:The Real Book vol 3                              P:-             I:-              R:-       F:MASTERNX.txt:RealBk3"
-    "uf C:black   T:The Ultimate Fake Book                           P:Hal Leonard   I:9780793529391  R:lyrics  F:the-ultimate-fake-book.txt"
+    "uf C:black   T:The Ultimate Fake Book (fifth edition)           P:Hal Leonard   I:9780793529391  R:lyrics  F:the-ultimate-fake-book.txt"
     "uj C:gray    T:The Ultimate Jazz Fake Book                      P:Hal Leonard   I:9780881889796  R:lyrics  F:ultimate-jazz-fake-book.txt"
     "wg C:black   T:The World's Greatest Fake Book                   P:Sher Music    I:9780961470111  R:lyrics  F:the_worlds_greatest_fakebook.txt"
 )

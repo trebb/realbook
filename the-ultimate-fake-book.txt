@@ -117,7 +117,7 @@ Boy Next Door
 The Boys Are Back In Town
 The Brady Bunch
 Brandy (You're A Fine Girl)
-Brazil
+Brazil (Aquarela Do Brasil)
 Bread And Butter
 Breaking Up Is Hard To Do
 Bubbles In The Wine
@@ -198,7 +198,7 @@ Dear Hearts And Gentle People
 Dearly Beloved
 Deep In The Heart Of Texas
 The Desert Song
-(I Wish I Was In) Dixie
+Dixie
 Django
 Do I Hear A Waltz?
 Do I Love You Because You're Beautiful?
@@ -683,7 +683,7 @@ My Baby Just Cares For Me
 My Blue Heaven
 My Buddy
 My Cherie Amour
-My Country, 'Tis Of Thee (America)
+America (My Country 'Tis Of Thee)
 My Cup Runneth Over
 My Favorite Things
 My Foolish Heart
@@ -801,7 +801,7 @@ Poor Butterfly
 Poor People Of Paris
 Popcorn
 Precious And Few
-Precious Lord, Take My Hand (Take My Hand, Precious Lord)
+Precious Lord, Take My Hand
 Pretty Baby
 A Pretty Girl Is Like A Melody
 Primrose Lane
@@ -908,7 +908,7 @@ Sixteen Tons
 Skyliner
 Slap That Bass
 Sleepy Lagoon
-Slightly Out Of Tune (Desafinado)
+Desafinado (Slightly Out Of Tune)
 Small Fry
 Small World
 Smells Like Teen Spirit
@@ -946,7 +946,7 @@ The Sound Of Music
 South Of The Border
 Southern Cross
 Speak Low
-Speak Softly, Love (Love Theme)
+Speak Softly, Love
 Spiders And Snakes
 Splish Splash
 Spring Is Here

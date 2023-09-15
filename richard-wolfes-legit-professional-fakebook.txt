@@ -332,7 +332,7 @@ Hallelujah trail
 Handy man
 Hang 'em high
 Happiness is a thing called Joe
-The happy farmer (Shumann)
+The happy farmer (Schumann)
 The happy wanderer (Val-de-ri val-de-ra)
 The hard way
 Hark! The herald angels sing
@@ -424,7 +424,7 @@ I want my mama (mama yo quiero)
 I want to walk you home
 I wish I had a girl
 I wonder who's kissing her now
-I'd like to teach the world to sing (in perfect harmony)
+I'd like to teach the world to sing
 I'll be on my way
 I'll get by
 I'll keep you satisfied
@@ -532,7 +532,7 @@ Lilies of the field theme
 Linda mujer
 Linger awhile
 Listen to the mockingbird
-Little boy lost (pieces of dreams)
+Pieces Of Dreams (Little boy lost)
 Little brown jug
 The little drummer boy
 Little girls
@@ -560,7 +560,7 @@ Make me rainbows
 Mala femmena
 Mam'selle
 The man on the flying trapeze
-Manana
+Mañana
 Manhattan serenade
 Maple leaf rag
 March from 'The Nutcracker Suite' (Tchaikovsky)
@@ -914,7 +914,7 @@ Town without pity
 Toyland
 Toys in the attic
 Tramp! Tramp! Tramp!
-Traumerei (Shumann)
+Traumerei (Schumann)
 Trepak from 'the nutcracker suite' (Tchaikovsky)
 Triumphal march from 'Aida' (Verdi)
 Try a little tenderness
@@ -958,7 +958,7 @@ We've only just begun
 What are little boys made of
 What are you doing the rest of your life?
 (I love you) what can I say?
-What can I say after I'm sorry?
+What can I say after I say I'm sorry
 What did Delaware?
 What do you want to make those eyes at me for?
 What's new?

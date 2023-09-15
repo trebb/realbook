@@ -383,9 +383,9 @@ Bop Boy                         RealBk3     34
 Bop City                        JazzLTD     49
 Bop City                        Library    157
 Bop Shop                        RealBk3     32
-Boplicity                       JazzFake     70
-Boplicity                       Library     13
-Boplicity                       RealBk1     60
+Boplicity (Bebop Lives)         JazzFake     70
+Boplicity (Bebop Lives)         Library     13
+Boplicity (Bebop Lives)         RealBk1     60
 Born To Be Blue                JazzFake     71
 Born To Be Blue                 RealBk3     35
 Bossa Rokka                     RealBk3     36
@@ -617,7 +617,7 @@ Cool                               Library     27
 Cooling It                         Library    163
 Coral                             ColoBk     74
 Coral                              RealBk1     93
-Corcovado                          RealBk1     94
+Quiet Nights Of Quiet Stars (Corcovado) RealBk1     94
 Core (The)                         RealBk2     66
 Cork 'N' Bib                       RealBk2     70
 Corner Pocket (Until I Met You)   ColoBk     55
@@ -711,9 +711,9 @@ Delilah                              Library     37
 Delores                              RealBk1    109
 Deltitnu                             JazzLTD    293
 Deluge                               RealBk1    116
-Desafinado                           JazzFake     97
-Desafinado                          NewReal1     65
-Desafinado                           RealBk1    112
+Desafinado (Slightly out of tune)    JazzFake     97
+Desafinado (Slightly out of tune)    NewReal1     65
+Desafinado (Slightly out of tune)    RealBk1    112
 Desert Air                           RealBk1    114
 Desert Moonlight                     JazzLTD     84
 Desire                              NewReal1     67
@@ -1010,7 +1010,7 @@ For Miles And Miles                  JazzLTD    124
 For Minors Only                      RealBk2    108
 For Nenette                          EvansBk     22
 For Regulars Only                    JazzLTD    128
-For Sentimental Reasons             JazzFake    124
+(I Love You) For Sentimental Reasons JazzFake    124
 For Stompers Only                    Library     46
 For You, For Me For Evermore         JazzFake    124
 Forest Flower                        RealBk1    158
@@ -1750,8 +1750,8 @@ Lisa                         JazzLTD    200
 Lisa                        NewReal2    188
 Litha                       NewReal3    215
 Litha                        RealBk1    264
-Little Boat                 ColoBk    120
-Little Boat                 JazzFake    222
+Little Boat (o barquinho)     ColoBk    120
+Little Boat (o barquinho)    JazzFake    222
 Little B's Poem              RealBk1    266
 Little Chicago Fire          RealBk2    215
 Little Duet (A)              Library     70
@@ -1871,7 +1871,7 @@ Mamacita                        ColoBk    130
 Mamacita                         JazzLTD    221
 Mamacita                        NewReal3    231
 Mambo Del Crow                   Library     75
-Man Facing. North               NewReal3    235
+Man Facing North                NewReal3    235
 Man I Love (The)                 RealBk2    229
 Man In The Green Shirt           RealBk1    284
 Man That Got Away (The)         JazzFake    240
@@ -2179,7 +2179,6 @@ No Me Esqueca                               RealBk2    263
 No Moe                                      RealBk2    264
 No Moon At All                             JazzFake    276
 No Moon At All                             NewReal2    478
-No More Blues                              JazzFake     82
 No Splice                                   RealBk2    268
 No Ties                                     JazzLTD    245
 No Ties                                     Library     89
@@ -2300,7 +2299,7 @@ Opus De Funk                             NewReal3    283
 Opus De Funk                              RealBk2    278
 Opus One                                 JazzFake    291
 Orange Was The Color Of Her Dress         JazzLTD    258
-Orbit (Unless It's You)                   EvansBk     51
+Orbit                                     EvansBk     51
 Orbit                                     JazzLTD    259
 Orbits                                    RealBk1    334
 Orchids In The Moonlight                 JazzFake    292
@@ -2509,8 +2508,8 @@ Ready Rudy                        JazzLTD    284
 Real Guitarist                    RealBk1    358
 Real Life                        NewReal3    311
 Rebel Without A Cause             JazzLTD    284
-Recado Bossa Nova                ColoBk    177
-Recado Bossa Nova                 RealBk2    302
+The Gift! (Recado Bossa Nova)      ColoBk    177
+The Gift! (Recado Bossa Nova)     RealBk2    302
 Receipt Please                    JazzLTD    283
 Recorda Me                       ColoBk    178
 Recorda Me                         RealBk1    359
@@ -2857,8 +2856,8 @@ South Street Exit                         JazzLTD    325
 Southern Comfort                           JazzFake    354
 Space Circus                         RealBk1    400
 Spacemen                                   ColoBk    214
-Spain                                      JazzFake    357
-Spain                                      NewReal2    339
+Spain (I Can Recall)                       JazzFake    357
+Spain (I Can Recall)                       NewReal2    339
 Speak Like A Child                         NewReal3    347
 Speak Like A Child                          RealBk2    336
 Speak Low                                  ColoBk    215
@@ -2973,7 +2972,7 @@ Summer In Central Park                NewReal2    357
 Summer In Central Park                 RealBk2    349
 Summer Knows (The)                     RealBk2    350
 Summer Night                           JazzLTD    334
-Summer Samba                           RealBk1    415
+So nice (Summer Samba)                 RealBk1    415
 Summer Setting                         Library    125
 Summertime                            RealBk2    323
 Summertime                            ColoBk    228
@@ -3078,7 +3077,7 @@ That's Life                           JazzFake    383
 That's Right                           JazzLTD    345
 That's What I'm Talking About         ColoBk    235
 That's What I'm Talking About          Library    126
-The Masquerade Is Over                NewReal2    199
+(I'm Afraid) The Masquerade Is Over    NewReal2    199
 The Blessing                           JazzLTD     34
 Boy Next Door                     NewReal2     34
 The Disguise                      RealBk1     A4

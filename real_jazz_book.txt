@@ -39,7 +39,7 @@
 44   Bijou
 45   Bill
 46   Birk's Works
-46   (What Did I Do to Be So) Black and Blue
+46   Black and Blue
 47   Black and Tan Fantasy
 48   Black Coffee
 50   Black Market
@@ -66,7 +66,7 @@
 139   Good Morning Heartache
 137   Goodbye
 140   Gravy Waltz
-141   Green Eyes
+141   Aquellos Ojos Verdes (Green Eyes)
 140   Greens
 142   Growing
 142   Guess I'll Hang My Tears out to Dry
@@ -190,7 +190,7 @@
 59   Born to Be Bad
 57   Bossa Antigua
 60   Both Sides of the Coin
-61   Brazil
+61   Brazil (Aquarela Do Brasil)
 62   Breakin' Away
 58   Broadway
 65   Bullet Train
@@ -429,7 +429,7 @@
 220   Makin' Whoopee!
 232   Mambo a La Savoy
 236   Mandy Make Up Your Mind
-234   Manoir De Mes Reves (Django's Castle)
+234   Django's Castle (Manoir De Mes Reves)
 221   Manteca
 223   Maputo
 233   Mas Que Nada

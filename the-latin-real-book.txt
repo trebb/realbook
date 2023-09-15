@@ -1,3 +1,6 @@
+(Anda Ven Y) Muévete
+(Se Acabó) La Malanga
+1983
 A Fonte Secou
 A Mí Qué
 A Nivel De
@@ -12,30 +15,30 @@ Amor Artificial
 Anatelio (The Happy People)
 Angoa
 Aparecida
-Aquarela Do Brasil (a.k.a. Brazil)
 Aqui, Oh!
 Arallué
 Armando's Rhumba
 Atras De Nos
 Bacchanal
-Baia (Bahía)
+Baía (Bahia)
 Bailando Así
 Basta De Clamares Inocéncia
 Bemba Colorá
-Bésame
-Bésame Mucho
 Bilongo
 Bomba de Corazón
 Brasileiro
+Brazil (Aquarela Do Brasil)
 Bruca Maniguá
 Building Bridges
+Bésame
+Bésame Mucho
 Cachita
 Camaleón
 Camina Y Prende El Fogón
 Capullito de Alelí
 Cascade Of The Seven Waterfalls
-Cha-Cha-Chá (a.k.a. Calzada de Cerro)
-Changiiirí
+Cha-Cha-Chá (Calzada de Cerro)
+Changüirí
 Claudia
 Club Morocco
 Coila Feita
@@ -43,30 +46,29 @@ Come With Me
 Compadre Pedro Juan
 Contigo En La Distancia
 Cubanita
-Curacao
+Curaçao
 Dame Un Cachito Pa' Huelé
 Danzón For My Father
 Decisión
-Déjala Que Baile Sola
-Déjala Que Sign Andando
-Déjame Soñar
 Dile a Catalina
 Dime Tú Que Lo Sabes
 Dom De Iludir
 Don Quixote
+Déjala Que Baile Sola
+Déjala Que Sign Andando
+Déjame Soñar
 E'
 Eastern Joy Dance
 Echale Salsita
 El Agua Del Claveltio
 El Cantar del Coquí
 El Manisero
-Ritmo
 Elena, Elena
 Encántigo
 Entrégate
 Estoy Como Nunca
 Flight To Jordan
-Flor De Lis (a.k.a. Upside Down)
+Flor De Lis (Upside Down)
 Frenesí
 Frevo
 Guararé
@@ -79,10 +81,8 @@ Kalinda
 La Charanga
 La Comparsa
 La Esencia del Guaguancó
-(Se Acabó) La Malanga
 La Patria Del Son
 La Vida Es Un Sueño
-Lágrimas Negras
 Lamento Borincano
 Latin Perspective
 Leva E Traz (Elis)
@@ -95,6 +95,7 @@ Los Tamalitos de Olga
 Lourdes' Lullaby
 Lua Soberana
 Luz Do Sol
+Lágrimas Negras
 Mamblues
 Mambo #5
 Mambo #8
@@ -109,11 +110,9 @@ Meu Canario Vizinho Azul
 Midnight Mambo
 Mixing
 Mountain Flight
-(Anda Ven Y) Muévete
 Muito Normal
 Nací Moreno
 Natty Stick
-1983
 Novena
 O Bébado E A Equilibrista
 O Pato
@@ -123,7 +122,6 @@ Oferere
 Outra Vez
 Pa' Gozar
 Pablo Pueblo
-Páginas de Mujer
 Palo Pa' Rumba
 Pare Cochero
 Paulistana
@@ -131,14 +129,16 @@ Picadillo (a la Puente)
 Ponteio
 Pueblo Latino
 Pura Novela
+Páginas de Mujer
 Que Se Fuñan
 Que Sorpresa
 Rainsville
 Ran Kan Kan
 Recuerdos de Arcaño
-Retrato Em Branco E Preto (a.k.a. Zingaro)
+Retrato Em Branco E Preto (Zingaro)
 Rico Vacilón
 Rio
+Ritmo
 Sabor
 Sambadouro
 Sambita
@@ -147,15 +147,15 @@ Second Wind
 Siembra
 Sin Saber Porque
 Sin Tu Cariño
-Só Dango Samba
-Só Te Esperando
-Solamente Una Vez
+You belong to my heart (Solamente Una Vez)
 Son De La Loma
 Son de Cuba a Puerto Rico
 Song For Chano
 Sonhos
 Soy Antillana
 Suavecito
+Só Danço Samba
+Só Te Esperando
 Tapete Mágico
 Te Desafío
 Tin Tin Deo
