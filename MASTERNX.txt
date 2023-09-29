@@ -944,7 +944,7 @@ Feel Like Makin' Love          NewReal1     96
 Feelin' Fine                    Library    172
 Feelings And Things             RealBk1    150
 Feels So Good                   RealBk2     94
-Felicidade (A)                  JazzFake     31
+A Felicidade (Adieu Tristesse) JazzFake     31
 Fell Like Makin' Love           RealBk3     86
 Festive Minor                  JazzFake    117
 Fever                          JazzFake    115
@@ -3393,8 +3393,8 @@ Weaver Of Dreams (A)                      NewReal1    398
 Weaver Of Dreams (A)                        ColoBk    262
 Webb City                                 RealBk2    414
 Wee Dot                                  JazzFake    417
-Wee                                       JazzLTD    374
-Wee                                      NewReal3    408
+Wee (Allen's Alley)                        JazzLTD    374
+Wee (Allen's Alley)                       NewReal3    408
 Wee Dot                                   JazzLTD    377
 Wee Dot                                   Library    138
 Weekend Blues                             RealBk2    389

@@ -9,20 +9,20 @@
 10) bodeguero, El
 11) Brussels in the Rain
 12) Calculadora
-13) canafistula, La
-14) Canclon para un festival
+13) cañafistula, La
+14) Cancíon para un festival
 15) Caridad
 16) Cemento, ladrillo y arena
 17) Chucho
 18) Como arrullo de palmas
-19) Como fue
+19) Como fué
 20) Como un milagro
 21) comparsa, La
 22) Compay gallo
 23) Contigo en la distancia
 24) Con tres palabras
 25) Convergencia
-26) Corazon
+26) Corazón
 27) Coro de los esclavos
 28) Danzas afrocubanas
 29) Deja que siga solo
@@ -30,7 +30,7 @@
 31) Drume Negrita
 32) Duele
 33) En nosotros
-34) enganadora, La
+34) engañadora, La
 35) Ese sentimiento que se llama amor
 36) fiesta, La
 37) Fifty-fifty
@@ -38,10 +38,10 @@
 77) Pare Cochero
 78) Pedacito de cielo
 79) Perla marina
-80) Profecia
+80) Profecía
 81) El que siembra su maiz
 82) Quiereme mucho
-83) Quiereme y veras
+83) Quiereme y verás
 84) Quiero hablar contigo
 85) Realidad y fantasia
 86) Refugiate en mi
@@ -51,7 +51,7 @@
 90) Si me comprendieras
 91) Si te contara
 92) Siboney
-93) Siempre esta en mi corazon
+93) Siempre está en mi corazón
 94) sitiera, La
 95) sitiero, El
 96) Son de la loma
@@ -59,23 +59,23 @@
 98) Song to my Son
 99) Songoro Cosongo
 100) Suavecito
-101) Tabu
+101) Tabú
 102) tarde, La
 103) Te odio
 104) Tres lindas cubanas
-105) Triguenita
+105) Trigueñita
 106) Tristezas
 107) Tu me acostumbrastes
 108) Tu, mi delirio
-109) Tu
-110) Tu, mi desengano
-111) ultima noche, La
+109) Tú
+110) Tu, mi desengaño
+111) última noche, La
 112) Una rosa de Francia
 113) Y con tus palabras
 114) Y decidete
 115) Y hoy como ayer
 39) Frutas del Caney
-40) gloria eres tu, La
+40) gloria eres tú, La
 41) Greta
 42) guararey de Pastora, El
 43) Guarina
@@ -91,9 +91,9 @@
 53) Maria la O
 54) Marta
 55) Maria Cristina
-56) Marti
-57) Me faltabas tu
-58) Me recordaras
+56) Martí
+57) Me faltabas tú
+58) Me recordarás
 59) Mi ayer
 60) Mi Habana cuando te vuelva a ver
 61) (M & A) Mujer ardiente
@@ -107,12 +107,12 @@
 69) Nosotros
 70) Nostalgia habanera
 71) Novia mia
-72) Nuestra cancion
+72) Nuestra canción
 72) Nuestras vidas
 73) Ogguere
 74) Oh vida
 75) Olvido
-76) Pagina en bianco
+76) Página en bianco
 116) Y tú, que has hecho
 117) Yo no quiero piedraen mi camino
 118) La Guitarra
