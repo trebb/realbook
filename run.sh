@@ -41,41 +41,6 @@ books=(
     "wg C:black   T:The World's Greatest Fake Book                   P:Sher Music    I:9780961470111  R:lyrics  F:the_worlds_greatest_fakebook.txt"
 )
 
-# for b in "${books[@]}"; do
-#     key="${b/ *}"
-#     color="${b#* C:}"
-#     color="${color/ *}"
-#     title="${b#* T:}"
-#     title="${title/ P:*}"
-#     publisher="${b#* P:}"
-#     publisher="${publisher/ I:*}"
-#     isbn="${b#* I:}"
-#     isbn="${isbn/ *}"
-#     file="${b#* F:}"
-#     echo "k=$key,c=$color,t=$title,p=$publisher,i=$isbn,f=$file"
-# done
-
-printf "\\\begin{tabular}{rllll}\n" > legend.tex
-printf "  --- & ----------------------------------------------- & ------------ & ------------- & ------- \\\\\\ \n" >> legend.tex
-printf "  KEY & TITLE                                           & PUBLISHER    & ISBN          & REMARK  \\\\\\ \n" >> legend.tex
-printf "  --- & ----------------------------------------------- & ------------ & ------------- & ------- \\\\\\ \n" >> legend.tex
-for b in "${books[@]}"; do
-    key="${b/ *}"
-    color="${b#* C:}"
-    color="${color/ *}"
-    title="${b#* T:}"
-    title="${title/ P:*}"
-    publisher="${b#* P:}"
-    publisher="${publisher/ I:*}"
-    isbn="${b#* I:}"
-    isbn="${isbn/ R:*}"
-    remark="${b#* R:}"
-    remark="${remark/ *}"
-    printf "  {\\\color{%s} %s} & %s & %s & %s & %s \\\\\\ \n" "$color" "${key^^}" "${title^^}" "${publisher^^}" "$isbn" "${remark^^}"
-done >> legend.tex
-printf " \\multicolumn{5}{l}{---------------------------------------------------------------------------------------------} \\\\\\ \n" >> legend.tex
-printf "\\\end{tabular}\n" >> legend.tex
-
 for b in "${books[@]}"; do
     key="${b/ *}"
     rm -f vol_${key}.txt
@@ -130,6 +95,66 @@ for b in "${books[@]}"; do
     color="${color/ *}"
     awk -v key=${key} -v color=${color} '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' vol_${key}.txt
 done > tempfile0
+
+echo "finding unique pieces..."
+rm -f unique_pieces
+IFS=$'\n'; for i in `sed -e 's/\(^.*\)%%--%%.*%%--%%.*/\1/' tempfile0 | sort | uniq -u`; do
+               grep "^$i%%--%%" tempfile0;
+           done |\
+               sed -e 's/\(^.*\)%%--%%\(.*\)%%--%%.*/\2 \1/' > single_occurrences
+
+for b in "${books[@]}"; do
+    key="${b/ *}"
+    title="${b#* T:}"
+    title="${title/ P:*}"
+    title="${title%"${title##*[![:space:]]}"}"
+    songs=$(grep "^$key " single_occurrences |\
+                cut -d ' ' -f '2-' |\
+                sort)
+    unique_songs=$(grep -c "^$key " single_occurrences)
+    echo "${key^^} (${title^^}) - $unique_songs unique pieces" >> unique_pieces
+    echo "$songs" >> unique_pieces
+    echo >> unique_pieces
+done
+
+# for b in "${books[@]}"; do
+#     key="${b/ *}"
+#     color="${b#* C:}"
+#     color="${color/ *}"
+#     title="${b#* T:}"
+#     title="${title/ P:*}"
+#     publisher="${b#* P:}"
+#     publisher="${publisher/ I:*}"
+#     isbn="${b#* I:}"
+#     isbn="${isbn/ *}"
+#     file="${b#* F:}"
+#     echo "k=$key,c=$color,t=$title,p=$publisher,i=$isbn,f=$file"
+# done
+
+printf "\\\begin{tabular}{rlllrrl}\n" > legend.tex
+printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{------------} & ------- \\\\\\ \n" >> legend.tex
+printf "  KEY & TITLE                                           & PUBLISHER    & ISBN          & \multicolumn{2}{c}{\# OF PIECES} & REMARK  \\\\\\ \n" >> legend.tex
+printf "      &                                                 &              &               &                    TOTAL & UNIQ  &         \\\\\\ \n" >> legend.tex
+printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{------------} & ------- \\\\\\ \n" >> legend.tex
+for b in "${books[@]}"; do
+    key="${b/ *}"
+    color="${b#* C:}"
+    color="${color/ *}"
+    title="${b#* T:}"
+    title="${title/ P:*}"
+    publisher="${b#* P:}"
+    publisher="${publisher/ I:*}"
+    isbn="${b#* I:}"
+    isbn="${isbn/ R:*}"
+    remark="${b#* R:}"
+    remark="${remark/ *}"
+    total_songs=$(sed -e 's/\(^.*\)%%--%%\(.*\)%%--%%.*/\2 \1/' tempfile0 | grep -c "^$key ")
+    unique_songs=$(grep -c "^$key " single_occurrences)
+    printf "  {\\\color{%s} %s} & %s & %s & %s & %s & %s & %s \\\\\\ \n" "$color" "${key^^}" "${title^^}" "${publisher^^}" "$isbn" "$total_songs" "$unique_songs" "${remark^^}" >> legend.tex
+done
+printf " \\multicolumn{7}{l}{------------------------------------------------------------------------------------------------------------} \\\\\\ \n" >> legend.tex
+printf "\\\end{tabular}\n" >> legend.tex
+
 sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' tempfile0 | \
     sort | \
     awk -F '%%--%%'  'vol[$1]=vol[$1] ",\\allowbreak " $3 {print $1, "%%--%%" vol[$1]}' | \
