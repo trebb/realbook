@@ -7,7 +7,7 @@ books=(
     "bc C:teal    T:The Book / Commercial                            P:-             I:-              R:-       F:thebook.txt"
     "c1 C:teal    T:Cuban Fake Book Vol. No 1                        P:-             I:-              R:lyrics  F:cuban-fake-book-vol1.txt"
     "cc C:teal    T:The Colorado Cookbook                            P:-             I:-              R:-       F:MASTERNX.txt:ColoBk"
-    "eu C:gray    T:The European Real Book                           P:Sher Music    I:9781883217242  R:-       F:the-european-real-book.txt"
+    "eu C:red     T:The European Real Book                           P:Sher Music    I:9781883217242  R:-       F:the-european-real-book.txt"
     "ev C:teal    T:Bill Evans Fakebook                              P:-             I:-              R:lyrics  F:MASTERNX.txt:EvansBk"
     "fj C:teal    T:557 Jazz Standards - swing to bop                P:-             I:-              R:-       F:557-jazz-standards.txt"
     "h1 C:red     T:The Real Book vol 1 (sixth edition)              P:Hal Leonard   I:9780634060380  R:-       F:vol_h1_raw.txt"
@@ -27,6 +27,7 @@ books=(
     "n3 C:black   T:The New Real Book vol 3                          P:Sher Music    I:9781883217310  R:lyrics  F:MASTERNX.txt:NewReal3"
     "ol C:teal    T:The Original, Legal, Musicians' Fake Book        P:-             I:0849400015     R:lyrics  F:original-legal-musician-fake-book.txt"
     "rj C:black   T:The Hal Leonard Real Jazz Book                   P:Hal Leonard   I:9780793562305  R:lyrics  F:real_jazz_book.txt"
+    "rl C:gray    T:The Real Latin Book                              P:Hal Leonard   I:9781423487630  R:-       F:the-real-latin-book.txt"
     "rs C:gray    T:The Real Jazz Standards Fake Book                P:Hal Leonard   I:9780634021558  R:lyrics  F:real-jazz-standards-fake-book.txt"
     "rw C:black   T:Richard Wolfe's legit professional fake book     P:CPP/Belwin    I:9780898984484  R:lyrics  F:richard-wolfes-legit-professional-fakebook.txt"
     "s1 C:gray    T:Jazz Club Piano Solos 1                          P:Music Scales  I:9780711937666  R:-       F:jazz-club-piano-solos-vol1.txt"
@@ -62,6 +63,7 @@ sed -e 's/\(.*\), \(the\|a\)$/\2 \1/g' thebook.txt > vol_bc.txt
 cp the_worlds_greatest_fakebook.txt vol_wg.txt
 cp all-jazz-real-book.txt vol_aj.txt
 cp the-latin-real-book.txt vol_lr.txt
+cp the-real-latin-book.txt vol_rl.txt
 cp original-legal-musician-fake-book.txt vol_ol.txt
 cp just-standards-real-book.txt vol_js.txt
 sed -e 's/\(.*\), \(THE\|A\)$/\2 \1/g' just-jazz-real-book.txt > vol_jj.txt
@@ -155,7 +157,7 @@ done
 printf " \\multicolumn{7}{l}{------------------------------------------------------------------------------------------------------------} \\\\\\ \n" >> legend.tex
 printf "\\\end{tabular}\n" >> legend.tex
 
-sed -e 's/&/\\&/g' -e 's/#/$\\sharp$/' tempfile0 | \
+sed -e 's/&/\\&/g' -e 's/#/\\#/' tempfile0 | \
     sort | \
     awk -F '%%--%%'  'vol[$1]=vol[$1] ",\\allowbreak " $3 {print $1, "%%--%%" vol[$1]}' | \
     sort -r | \

@@ -1861,11 +1861,11 @@ Maiden Voyage                   NewReal3    229
 Maiden Voyage                    RealBk1    281
 Maidens Of Cadiz                 JazzLTD    220
 Mahjong                          RealBk1    286
-Make Me A Memory (Sade Samba)   NewReal1    202
+Make Me A Memory (Sad Samba)    NewReal1    202
 Make Someone Happy              JazzFake    238
 Make Someone Happy               RealBk2    228
 Makin' Whoopee!                   RealBk3    186
-Malaguena                       JazzFake    238
+Malagueña                       JazzFake    238
 Mallet Man                       RealBk1    282
 Mamacita                        ColoBk    130
 Mamacita                         JazzLTD    221
@@ -2021,7 +2021,7 @@ More Love                    NewReal2    225
 More I See You (The)           RealBk1    303
 More Than You Know           JazzFake    258
 More Than You Know           NewReal2    475
-More                         JazzFake    258
+More (Ti Guarderò Nel Cuore) JazzFake    258
 Morning                      NewReal1    219
 Morning Dance                 JazzLTD    234
 Morning Dance                NewReal1    221
@@ -2801,7 +2801,7 @@ Some Skunk Funk                   RealBk1    390
 Someday My Prince Will Come      ColoBk    211
 Someday My Prince Will Come      NewReal1    326
 Someday My Prince Will Come               RealBk1    388
-Someone To Light Up My Life              NewReal2    333
+Someone To Light Up My Life (Se Todos Fossem Iguais A Voce) NewReal2    333
 Someone To Watch Over Me                  RealBk2    331
 Something Different                       JazzLTD    318
 Something Everywhere                     JazzFake    350

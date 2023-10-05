@@ -196,7 +196,7 @@
 65   Bullet Train
 64   Buster's Last Stand
 66   Byrd Like
-78   C'est Si Bon
+78   C'est Si Bon (say si bon)
 71   Cake Walking Babies from Home
 66   Call Me Irresponsible
 67   Can't Take You Nowhere
@@ -311,7 +311,7 @@
 318   Solea
 317   Some Skunk Funk
 318   Somebody Loves Me
-326   Someone to Light Up My Life
+326   Someone to Light Up My Life (Se Todos Fossem Iguais A Voce)
 319   Something I Dreamed Last Night
 320   Somewhere Along the Way
 320   Song for Lorraine
