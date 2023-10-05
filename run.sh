@@ -27,7 +27,7 @@ books=(
     "n3 C:black   T:The New Real Book vol 3                          P:Sher Music    I:9781883217310  R:lyrics  F:MASTERNX.txt:NewReal3"
     "ol C:teal    T:The Original, Legal, Musicians' Fake Book        P:-             I:0849400015     R:lyrics  F:original-legal-musician-fake-book.txt"
     "rj C:black   T:The Hal Leonard Real Jazz Book                   P:Hal Leonard   I:9780793562305  R:lyrics  F:real_jazz_book.txt"
-    "rl C:gray    T:The Real Latin Book                              P:Hal Leonard   I:9781423487630  R:-       F:the-real-latin-book.txt"
+    "rl C:red     T:The Real Latin Book                              P:Hal Leonard   I:9781423487630  R:-       F:the-real-latin-book.txt"
     "rs C:gray    T:The Real Jazz Standards Fake Book                P:Hal Leonard   I:9780634021558  R:lyrics  F:real-jazz-standards-fake-book.txt"
     "rw C:black   T:Richard Wolfe's legit professional fake book     P:CPP/Belwin    I:9780898984484  R:lyrics  F:richard-wolfes-legit-professional-fakebook.txt"
     "s1 C:gray    T:Jazz Club Piano Solos 1                          P:Music Scales  I:9780711937666  R:-       F:jazz-club-piano-solos-vol1.txt"
