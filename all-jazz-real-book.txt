@@ -1,7 +1,7 @@
-2 Degrees East, 3 Degrees West
+Two Degrees East, Three Degrees West
 2 Down, 1 Across
 A Cor Do Por-Do-Sol
-Adoracion
+Adoración
 Afternoon In Paris
 All Is Quiet
 Amanda
@@ -34,7 +34,7 @@ Choro Das Aguas
 Chris Craft
 Circle Dance
 Congri
-Continuacion
+Continuación
 Coralie
 Countdown
 Crazeology
@@ -77,7 +77,7 @@ I'll Catch You
 I'll Remember August
 In A Hurry
 In The Woods
-Inquietacao
+Inquietação
 Interplay
 Invisible Light
 It's Only Music
@@ -141,7 +141,7 @@ Paulista
 Prayer For Peace
 Puerto Rico
 Quitate La Mascara
-Samba Do Aviao
+Samba Do Avião
 San Felice
 San Michele
 Sangre Joven
