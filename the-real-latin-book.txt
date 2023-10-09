@@ -1,4 +1,4 @@
-Come Closer To Me (Acercate Más)
+Come Closer To Me (Acércate Más)
 Adelita
 Adiós
 Adiós Tristeza (Bye Bye Tristeza)
@@ -11,17 +11,17 @@ All That's Left Is To Say Goodbye (E Preciso Dizer Adeus)
 Alla En El Rancho Grande (My Ranch)
 Alma Con Alma
 Alonzo
-Always In My Heart (Siempre En Mi Corazon)
+Always In My Heart (Siempre En Mi Corazón)
 Amantes
 Amapola (Pretty Little Poppy)
 Amarga Navidad
 Amor (Amor, Amor, Amor)
 Amor A La Mexicana
 Amor Artificial
-Amor Eterno (El Mas Triste Recuerdo)
+Amor Eterno (El Más Triste Recuerdo)
 Amor Gitano
 Amor Prohibido
-Amorcito Corazon
+Amorcito Corazón
 Amparo
 Ana Luiza
 And I Love Her
@@ -33,12 +33,12 @@ Aquellos Ojos Verdes (Green Eyes)
 Aqui, Oh!
 Armando's Rhumba
 Arroyito
-Asi fue
+Así fue
 At The Mambo Inn
 Aunque Me Cueste La Vida
 Ausencia
 Ay Cosita Linda
-Babalu
+Babalú
 Baía (Bahia)
 Barbados
 Begin The Beguine
@@ -57,7 +57,7 @@ Bruca Maniguá
 Burundanga
 Cachita
 Call Me
-Cancion Del Mariachi
+Canción Del Mariachi
 Cantaloupe Island
 Captain Bacardi
 Captain Marvel
@@ -65,7 +65,7 @@ Capullito de Alelí
 Cariba
 Carioca
 Cast Your Fate To The Wind
-Castigame
+Castígame
 Chega De Saudade (No More Blues)
 Cherry Pink And Apple Blossom White
 Chitlins Con Carne
@@ -77,13 +77,13 @@ Compadre Pedro Juan
 Con Alma
 Con Tu Amor (With Your Love)
 The Constant Rain (Chove Chuva)
-Contigo Aprendi
+Contigo Aprendí
 Contigo En La Distancia
 Copacabana
-Coracao Apaixonado
+Coração Apaixonado
 Corazón Corazón
 Costumbres
-Cu-Cu-Rru-Cu-Cu Paloma
+Cu-Cu-Rru-Cu-Cú Paloma
 Cuando Vivas Conmigo
 Cuanto Le Gusta
 Cuban Lullaby
@@ -92,15 +92,15 @@ Cumbia Raza
 Curves Ahead
 Dame Un Cachito Pa' Huelé
 Dansero
-De Mi Enamorate
+De Mí Enamoráte
 De Un Mundo Raro
 A Deeper Shade Of Soul
 Déjame Vivir
 Delicado
 Desafinado (Slightly Out Of Tune)
-Despues De Ti
+Después De Ti
 Deve Ser Amor
-Dicen Por Ahi
+Dicen Por Ahí
 Dindi
 A Dios Le Pido
 Don't Cry For Me Argentina
@@ -108,14 +108,14 @@ Don't Ever Go Away
 Double Rainbow
 É Luxo Só
 Ebony Samba (Sambanegro)
-Echale Salsita
-Echame A Mi La Culpa
+Échale Salsita
+Échame A Mi La Culpa
 El Cazangero
 El Choclo
 El Cumbanchero
 El Destino
 El Hijo Del Pueblo
-El Mexico Que Se Nos Fue
+El México Que Se Nos Fue
 El Relicario
 El Reloj
 El Triste
@@ -127,8 +127,8 @@ End Of A Love Affair
 Eres Tu
 Esa Mujer
 Esa Triste Guitarra
-Escape (The Pina Colada Song)
-Espana Cani
+Escape (The Piña Colada Song)
+España Cani
 Estate
 Estrada Branca (This Happy Madness)
 Estrellas De Fania
@@ -137,7 +137,7 @@ Evil Ways
 Feelings
 A Felicidade (Adieu Tristesse)
 Festa Do Interior
-Fijate Bien
+Fíjate Bien
 Five Hundred Miles High
 Flamingo
 Flor De Lis (Upside Down)
@@ -151,7 +151,7 @@ Gentle Rain
 The Gift! (Recado Bossa Nova)
 Ginza Samba
 Girl From Ipanema
-Gitanerias
+Gitanerías
 Goodbye Sadness
 Granada
 Guadalajara
@@ -163,7 +163,7 @@ Himno Nacional Mexicano (Mexican National Hymn)
 Historia De Un Amor
 Ho-Ba-La-La
 How Insensitive
-Huracan
+Huracán
 If You Never Come To Me
 Indestructible
 Inolvidable
@@ -171,7 +171,7 @@ Invitation
 It's Impossible (Somos Novios)
 It's You
 Jalousie (Jealousy)
-Jazz 'N' Samba (So Danco Samba)
+Jazz 'N' Samba (Só Danço Samba)
 Jingo (Jin-Go-Lo-Ba)
 Jive Samba
 Jogral
@@ -185,7 +185,7 @@ La Camisa Negra
 La Comparsa
 La Cosecha De Mujeres
 La Fiesta
-La Fuerza De Amar (A Forca Do Amar)
+La Fuerza De Amar (A Força Do Amar)
 La Malagueña
 (Se Acabó) La Malanga
 La Murga Panamena
@@ -217,10 +217,10 @@ Lucky Southern
 Luiza
 Make Me A Memory (Sad Samba)
 Malagueña
-Mama Guela
+Mama Güela
 Mama Inez
 Mamblues
-Mambo Jambo (Que Rico El Mambo)
+Mambo Jambo (Qué Rico El Mambo)
 Mambo #8
 Mambo #5
 A Man And A Woman
@@ -234,14 +234,14 @@ Mas Que Nada
 Me Voy Pa'l Pueblo
 Meditation
 Menina Flor
-Mexico Lindo
+México Lindo
 Miami Beach Rumba
 Modinha
 Mojave
 Moon And Sand
 More (Ti Guarderò Nel Cuore)
 Morning Dance
-Mucho Corazon
+Mucho Corazón
 Mujer
 Music To Watch Girls By
 My Little Suede Shoes
@@ -254,7 +254,7 @@ A Night In Tunisia
 No Me Quieras Tanto
 No Quiero Na' Regalao
 No Tengo Dinero
-No Volvere
+No Volveré
 Noche De Ronda (Be Mine Tonight)
 Nosotros
 Nuestro Juramento
@@ -263,7 +263,7 @@ O Astronauta
 O Bêbado E A Equilibrista
 O Grande Amor
 O Me Quieres O Me Dejas (Devaneos)
-O Morro Nao Tem Vez (Favela) (Somewhere In The Hills)
+O Morro Não Tem Vez (Favela) (Somewhere In The Hills)
 O Nosso Amor
 O Pato (The Duck)
 O Xote Das Meninas
@@ -290,12 +290,12 @@ Patricia, It's Patricia (Patricia)
 Paulistana
 The Peanut Vendor
 Pensativa
-Perdoname, olvidalo
+Perdóname, olvídalo
 Perfidia
 Perfume De Gardenia
 Photograph
 Picadillo (a la Puente)
-Poise 'e
+Poise é
 Ponteio
 Por Amor
 Porque Tu Me Acostumbraste
@@ -319,29 +319,29 @@ Resemblance
 Rhythm Of The Rain
 Romance de Amor
 Rum And Coca-Cola
-Sabía
-Sabor A Mi (Be True To Me)
-Sabras Que Te Quiero
+Sabiá
+Sabor A Mí (Be True To Me)
+Sabrás Que Te Quiero
 St. Thomas
 Samba Cantina
 Samba Dees Days
 Samba Pa Ti
 Sandunguera
-Say 'Si, Si'
-Se A Cabo
-Se Me Olvido Otra Vez
-Someone To Light Up My Life (Se Todos Fossem Iguais A Voce)
+Say 'Sí, Síi'
+Se A Cabó
+Se Me Olvidó Otra Vez
+Someone To Light Up My Life (Se Todos Fossem Iguais A Você)
 Señor Mouse
-Si Madame
+Sí Madame
 Siempre En Mi Mente
 Similau
 Simple Samba
-Sin Tu Cariñoo
+Sin Tu Cariño
 Sin Un Amor
 So Nice (Summer Samba)
 Só Tinha De Ser Com Você (This Love That I Found)
 Son De La Loma
-Sonambulo
+Sonámbulo
 Song For My Father
 Song Of The Jet (Samba do Avião)
 Song Of The Sabiá (Sabiá)
@@ -369,13 +369,13 @@ Totem Pole
 Tres Lindas Cubanas
 Tres Palabras (Without You)
 Triste
-Tu Solo Tu
+Tú Sólo Tú
 Um A Zero
 Un Poco Loco
 Un Sentimental
 Usted
-Usted Se Me Llevo La Vida
-Ven Y Dame Un Poco Mas
+Usted Se Me Llevó La Vida
+Ven Y Dame Un Poco Más
 Vera Cruz
 Veracruz
 Viva Tirado
@@ -387,7 +387,7 @@ Wave
 What A Diff'rence A Day Made
 Whatever Lola Wants (Lola Gets)
 Y Pensar
-Y Tú, Que Has Hecho
+Y Tú Qué Has Hecho
 Ya no me vuelvo a enamorar (No me vuelvo a enamorar)
 Yellow Days
 Yesterday I Heard The Rain
@@ -395,5 +395,5 @@ You Belong To My Heart (Solamente Una Vez)
 You'll Never Find Another Love Like Mine
 You're Everything
 Yours (Quiereme Mucho)
-Zelao
+Zelão
 Zingaro (Retrato Em Branco E Preto)

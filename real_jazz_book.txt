@@ -124,7 +124,7 @@
 262   Norwegian Wood
 263   Now It Can Be Told
 264   Nuages
-264   O Morro Nao Tem Vez (Favela) (Somewhere in the Hills)
+264   O Morro Não Tem Vez (Favela) (Somewhere in the Hills)
 265   Off Minor
 265   On Broadway
 268   On Green Dolphin Street
@@ -311,7 +311,7 @@
 318   Solea
 317   Some Skunk Funk
 318   Somebody Loves Me
-326   Someone to Light Up My Life (Se Todos Fossem Iguais A Voce)
+326   Someone to Light Up My Life (Se Todos Fossem Iguais A Você)
 319   Something I Dreamed Last Night
 320   Somewhere Along the Way
 320   Song for Lorraine

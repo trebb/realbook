@@ -2801,7 +2801,7 @@ Some Skunk Funk                   RealBk1    390
 Someday My Prince Will Come      ColoBk    211
 Someday My Prince Will Come      NewReal1    326
 Someday My Prince Will Come               RealBk1    388
-Someone To Light Up My Life (Se Todos Fossem Iguais A Voce) NewReal2    333
+Someone To Light Up My Life (Se Todos Fossem Iguais A Você) NewReal2    333
 Someone To Watch Over Me                  RealBk2    331
 Something Different                       JazzLTD    318
 Something Everywhere                     JazzFake    350
