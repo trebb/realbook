@@ -1,22 +1,32 @@
-\documentclass[8pt,landscape]{scrartcl}
+\documentclass[fontsize=8pt,landscape]{scrartcl}
+\usepackage[UKenglish]{babel}
+\usepackage{titletoc}
 \usepackage{xcolor}
 \usepackage{multicol}
-\usepackage{hyperref}
+\usepackage[linktoc=none]{hyperref}
 \hypersetup{pdfinfo={Subject=github.com/trebb/realbookindex,%
     Title=Real Book Index}}    
 \typearea[0mm]{20}
 \addtokomafont{pagenumber}{\ttfamily}
+\addtokomafont{disposition}{\ttfamily}
+\renewcaptionname{UKenglish}{\contentsname}{\normalsize\hspace*{\fill}CONTENTS\hspace*{\fill}}
+\titlecontents*{section}[0em]{\ttfamily}{}{\hfill}{ \thecontentspage}[,]
+
 \begin{document}
+
 \fontfamily{cmtt}\selectfont
 \begin{center}
   -------------------\\
   REAL BOOK INDEX\\
   -------------------\\
 \end{center}
-\vspace{3ex}
+\vspace{\fill}
 \begin{center}
   \input{legend.tex}
 \end{center}
+\vspace{\fill}
+\tableofcontents
+\vspace*{\fill}
 \clearpage
 \begin{multicols}{4}
   \raggedright
