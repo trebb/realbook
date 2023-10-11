@@ -1,4 +1,4 @@
-\documentclass[fontsize=8pt,landscape]{scrartcl}
+\documentclass[fontsize=8pt,landscape,twoside]{scrartcl}
 \usepackage[UKenglish]{babel}
 \usepackage{titletoc}
 \usepackage{xcolor}
@@ -6,9 +6,13 @@
 \usepackage[linktoc=none]{hyperref}
 \hypersetup{pdfinfo={Subject=github.com/trebb/realbookindex,%
     Title=Real Book Index}}    
-\typearea[0mm]{20}
+
+\typearea[8mm]{20}
 \addtokomafont{pagenumber}{\ttfamily}
+\addtokomafont{pageheadfoot}{\upshape\ttfamily}
 \addtokomafont{disposition}{\ttfamily}
+\pagestyle{myheadings}
+
 \renewcaptionname{UKenglish}{\contentsname}{\normalsize\hspace*{\fill}CONTENTS\hspace*{\fill}}
 \titlecontents*{section}[0em]{\ttfamily}{}{\hfill}{ \thecontentspage}[,]
 
