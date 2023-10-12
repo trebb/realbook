@@ -3,7 +3,7 @@
 # usable COLORs: red, blue, cyan, magenta, black, gray, brown, orange, purple, teal, violet
 books=(
     #KEY  COLOR     TITLE                                              PUBLISHER       ISBN             REMARK    SOURCE FILE
-    "aj C:red     T:The All-Jazz Real Book                           P:Sher Music    I:9781883217143  R:-                   F:all-jazz-real-book.txt"
+    "aj C:red     T:The All-Jazz Real Book                           P:Sher Music    I:9781883217143  R:lyrics, drum parts  F:all-jazz-real-book.txt"
     "bc C:teal    T:The Book / Commercial                            P:-             I:-              R:-                   F:thebook.txt"
     "c1 C:teal    T:Cuban Fake Book Vol. No 1                        P:-             I:-              R:lyrics              F:cuban-fake-book-vol1.txt"
     "cc C:teal    T:The Colorado Cookbook                            P:-             I:-              R:-                   F:MASTERNX.txt:ColoBk"
@@ -134,10 +134,10 @@ done
 # done
 
 printf "\\\begin{tabular}{rlllr@{}rl}\n" > legend.tex
-printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{---------} & ---------------- \\\\\\ \n" >> legend.tex
-printf "  KEY & TITLE                                           & PUBLISHER    & ISBN          & \multicolumn{2}{c}{ PIECES  } & REMARKS          \\\\\\ \n" >> legend.tex
-printf "      &                                                 &              &               &                   TOTL & UNIQ &                  \\\\\\ \n" >> legend.tex
-printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{---------} & ---------------- \\\\\\ \n" >> legend.tex
+printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{---------} & ------------------- \\\\\\ \n" >> legend.tex
+printf "  KEY & TITLE                                           & PUBLISHER    & ISBN          & \multicolumn{2}{c}{ PIECES  } & REMARKS             \\\\\\ \n" >> legend.tex
+printf "      &                                                 &              &               &                   TOTL & UNIQ &                     \\\\\\ \n" >> legend.tex
+printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{---------} & ------------------- \\\\\\ \n" >> legend.tex
 for b in "${books[@]}"; do
     key="${b/ *}"
     color="${b#* C:}"
