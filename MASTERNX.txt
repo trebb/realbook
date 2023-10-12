@@ -264,7 +264,7 @@ Bird Food                            NewReal1     18
 Bird Of Beauty                       NewReal3     43
 Birdland                    JazzFake     60
 Birdland                     RealBk2     26
-Birds Mother                 JazzLTD     31
+Bird's Mother                JazzLTD     31
 Birds Of A Feather          JazzFake     61
 Birk's Works                ColoBk     35
 Birk's Works                 RealBk2     37
@@ -599,7 +599,7 @@ Confirmation                      ColoBk     54
 Confirmation                      JazzFake     88
 Confirmation                       Library     20
 Confirmation                       RealBk1     92
-Connies Bounce                     JazzLTD     67
+Connie's Bounce                     JazzLTD     67
 Consternation                      JazzLTD     69
 Contemplation                      JazzLTD     66
 Contemplation                      RealBk1     A3
@@ -932,7 +932,7 @@ Falling Grace                   RealBk1    147
 Falling In Love With Love       RealBk1    148
 Family Joy                      RealBk1      4
 Farkle Flakes                   JazzLTD    129
-Farmers Market                 NewReal1     94
+Farmer's Market                NewReal1     94
 Fat Lady                        JazzLTD    117
 Fat Man (The)                   Library    209
 Father                          RealBk3     84
@@ -979,7 +979,7 @@ Flash                             Library     49
 Flim Flam                         RealBk2     99
 Flintstones                     RealBk2    100
 Flintstones                      ColoBk     72
-Florences Fantasy                 JazzLTD    123
+Florence's Fantasy                JazzLTD    123
 Flower Is A Lovesome Thing (A)    RealBk2    101
 Flowers For A Lady                JazzLTD    124
 Flugelin' The Blues              ColoBk     73
@@ -1361,7 +1361,7 @@ If I Should Lose You                    RealBk2    155
 If I Were A Bell                       JazzFake    177
 If I Were A Bell                       NewReal1    147
 If I were A Bell                        RealBk2    156
-If s All Right With Me                 JazzFake    190
+It's All Right With Me                 JazzFake    190
 If You Could See Me Now                NewReal3    167
 If You Could See Me Now                 RealBk2    157
 If You Never Come To Me                NewReal1    150
@@ -1958,7 +1958,7 @@ Minority                    ColoBk    134
 Minority                     RealBk1    295
 Minor's Holiday              Library    186
 Miss Ann                     JazzLTD    229
-Miss Jackies Delight         Library    189
+Miss Jackie's Delight         Library    189
 Miss Premise                ColoBk    135
 Misterioso                   Library    189
 Misty                       JazzFake    252
@@ -1981,7 +1981,7 @@ Moment's Notice              RealBk1    299
 Monk On The Run             NewReal3    245
 Monkey's Uncle              NewReal1    213
 Monking Business             JazzLTD    232
-Monks Dream                  JazzLTD    233
+Monk's Dream                 JazzLTD    233
 Monk's Mood                 NewReal1    212
 Monk's Mood                  RealBk2    234
 Monk's Sphere                RealBk2    243
@@ -2312,7 +2312,7 @@ Ornithology                               RealBk1    335
 Our Delight                              ColoBk    171
 Our Delight                               RealBk3    228
 Our Love Is Here To Stay                  RealBk2    279
-Our Man Higgins Man                       JazzLTD    263
+Our Man Higgins                           JazzLTD    263
 Out A Day                                NewReal3    285
 Out Back Of The Barn                      RealBk2    280
 Out Back                                  JazzLTD    261
@@ -2545,7 +2545,7 @@ Reverie                                   JazzLTD    290
 Rhythm-A-Ning                             ColoBk    180
 Rhythm-A-Ning                             JazzLTD    297
 Rhythm-A-Ning                             RealBk2    309
-Richards Tune                             JazzLTD    289
+Richard's Tune                            JazzLTD    289
 Rick's Tricks                             Library     96
 Riddles                                  NewReal3    323
 Rio                                       JazzLTD    291
@@ -2556,9 +2556,9 @@ River People                             NewReal1    294
 River                                    JazzFake    315
 Riviera                                   Library    201
 Road Song                                 RealBk1    A12
-Robbins Nest                            JazzFake    316
-Robbins Nest                            NewReal1    297
-Robbins Nest                             RealBk2    306
+Robbin's Nest                            JazzFake    316
+Robbin's Nest                            NewReal1    297
+Robbin's Nest                             RealBk2    306
 Rock-A-Bye Your Baby With A Dixie Melody JazzFake    317
 Rocker                                    JazzLTD    294
 Rocker                                    Library    107
@@ -3180,7 +3180,7 @@ Thriving On A Riff              Library    129
 Thriving On A Riff              RealBk2    368
 Thumb (The)                      JazzLTD    354
 Thumper (The)                   RealBk2    356
-Thursdays Theme                 JazzLTD    354
+Thursday's Theme                JazzLTD    354
 Thyme's Time                    RealBk3    312
 Tickle Toe                     JazzFake    395
 Tickle Toe                      Library    124
@@ -3189,7 +3189,7 @@ Tidal Breeze                   ColoBk    249
 Tidal Breeze                    JazzLTD    355
 Tidal Breeze                    RealBk3    314
 Tiffany                         EvansBk     74
-Til There Was You              NewReal2    374
+Till There Was You             NewReal2    374
 Till There was You              RealBk2    370
 Time After Time                ColoBk    250
 Time After Time                 RealBk2    371
