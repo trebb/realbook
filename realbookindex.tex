@@ -1,4 +1,4 @@
-\documentclass[fontsize=8pt,landscape,twoside]{scrartcl}
+\documentclass[fontsize=8pt,twoside]{scrartcl}
 \usepackage[UKenglish]{babel}
 \usepackage{titletoc}
 \usepackage{xcolor}
@@ -7,33 +7,31 @@
 \hypersetup{pdfinfo={Subject=github.com/trebb/realbookindex,%
     Title=Real Book Index}}    
 
-\typearea[8mm]{20}
+\typearea[8mm]{24}
 \addtokomafont{pagenumber}{\ttfamily}
 \addtokomafont{pageheadfoot}{\upshape\ttfamily}
 \addtokomafont{disposition}{\ttfamily}
 \pagestyle{myheadings}
 
-\renewcaptionname{UKenglish}{\contentsname}{\normalsize\hspace*{\fill}CONTENTS\hspace*{\fill}}
-\titlecontents*{section}[0em]{\ttfamily}{}{\hfill}{ \thecontentspage}[,]
+\renewcaptionname{UKenglish}{\contentsname}{\normalsize CONTENTS}
+\titlecontents*{section}[0em]{\ttfamily}{}{}{~\thecontentspage}[, ]
 
 \begin{document}
 
 \fontfamily{cmtt}\selectfont
+\thispagestyle{plain}
 \begin{center}
-  -------------------\\
-  REAL BOOK INDEX\\
-  -------------------\\
+  -------------------------------------\\
+  R E A L\qquad B O O K\qquad I N D E X\\
+  -------------------------------------\\
 \end{center}
-\vspace{\fill}
 \begin{center}
   \input{legend.tex}
 \end{center}
-\vspace{\fill}
-\tableofcontents
-\vspace*{\fill}
-\clearpage
 \begin{multicols}{4}
   \raggedright
+  \tableofcontents
+  \vspace{\fill}
   \input{allsongs.tex}
   \begin{center}
     \the\year-\the\month-\the\day

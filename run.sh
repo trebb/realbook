@@ -2,44 +2,44 @@
 
 # usable COLORs: red, blue, cyan, magenta, black, gray, brown, orange, purple, teal, violet
 books=(
-    #KEY  COLOR     TITLE                                              PUBLISHER       ISBN             REMARK    SOURCE FILE
-    "aj C:red     T:The All-Jazz Real Book                           P:Sher Music    I:9781883217143  R:lyrics, drum parts  F:all-jazz-real-book.txt"
-    "bc C:teal    T:The Book / Commercial                            P:-             I:-              R:-                   F:thebook.txt"
-    "c1 C:teal    T:Cuban Fake Book Vol. No 1                        P:-             I:-              R:lyrics              F:cuban-fake-book-vol1.txt"
-    "cc C:teal    T:The Colorado Cookbook                            P:-             I:-              R:-                   F:MASTERNX.txt:ColoBk"
-    "eu C:red     T:The European Real Book                           P:Sher Music    I:9781883217242  R:drum parts          F:the-european-real-book.txt"
-    "ev C:teal    T:Bill Evans Fakebook                              P:Hal Leonard   I:9780634023897  R:lyrics              F:MASTERNX.txt:EvansBk"
-    "fj C:teal    T:557 Jazz Standards - swing to bop                P:-             I:-              R:-                   F:557-jazz-standards.txt"
-    "h1 C:red     T:The Real Book vol 1 (sixth edition)              P:Hal Leonard   I:9780634060380  R:-                   F:vol_h1_raw.txt"
-    "h2 C:red     T:The Real Book vol 2 (second edition)             P:Hal Leonard   I:9780634060212  R:-                   F:vol_h2_raw.txt"
-    "h3 C:red     T:The Real Book vol 3 (second edition)             P:Hal Leonard   I:9780634061363  R:-                   F:vol_h3_raw.txt"
-    "h4 C:red     T:The Real Book vol 4                              P:Hal Leonard   I:9781423425427  R:-                   F:vol_h4_raw.txt"
-    "h5 C:red     T:The Real Book vol 5                              P:Hal Leonard   I:9781423488484  R:-                   F:vol_h5_raw.txt"
-    "h6 C:red     T:The Real Book vol 6                              P:Hal Leonard   I:9781458440655  R:-                   F:vol_h6_raw.txt"
-    "jf C:teal    T:Jazz Fakebook                                    P:-             I:-              R:lyrics              F:MASTERNX.txt:JazzFake"
-    "jj C:gray    T:Just Jazz Real Book                              P:Hal Leonard   I:9780757901683  R:lyrics              F:just-jazz-real-book.txt"
-    "jl C:teal    T:Jazz LTD / Over 500 tunes the real books missed  P:-             I:-              R:-                   F:MASTERNX.txt:JazzLTD"
-    "js C:gray    T:Just Standards Real Book                         P:Alfred Music  I:9780739039441  R:lyrics              F:just-standards-real-book.txt"
-    "lm C:teal    T:Library Of Musicians' Jazz                       P:-             I:-              R:-                   F:MASTERNX.txt:Library"
-    "lr C:black   T:The Latin Real Book                              P:Sher Music    I:9781883217051  R:lyrics, drum parts  F:the-latin-real-book.txt"
-    "n1 C:black   T:The New Real Book vol 1                          P:Sher Music    I:9780961470142  R:lyrics              F:MASTERNX.txt:NewReal1"
-    "n2 C:black   T:The New Real Book vol 2                          P:Sher Music    I:9780961470173  R:lyrics              F:MASTERNX.txt:NewReal2"
-    "n3 C:black   T:The New Real Book vol 3                          P:Sher Music    I:9781883217310  R:lyrics, drum parts  F:MASTERNX.txt:NewReal3"
-    "ol C:teal    T:The Original, Legal, Musicians' Fake Book        P:Hansen House  I:9780849400018  R:lyrics              F:original-legal-musician-fake-book.txt"
-    "rj C:black   T:The Hal Leonard Real Jazz Book                   P:Hal Leonard   I:9780793562305  R:lyrics              F:real_jazz_book.txt"
-    "rl C:red     T:The Real Latin Book                              P:Hal Leonard   I:9781423487630  R:-                   F:the-real-latin-book.txt"
-    "rs C:gray    T:The Real Jazz Standards Fake Book                P:Hal Leonard   I:9780634021558  R:lyrics              F:real-jazz-standards-fake-book.txt"
-    "rw C:black   T:Richard Wolfe's legit professional fake book     P:CPP/Belwin    I:9780898984484  R:lyrics              F:richard-wolfes-legit-professional-fakebook.txt"
-    "s1 C:gray    T:Jazz Club Piano Solos 1                          P:Music Sales   I:9780711937666  R:-                   F:jazz-club-piano-solos-vol1.txt"
-    "s2 C:gray    T:Jazz Club Piano Solos 2                          P:Music Sales   I:9780711941212  R:-                   F:jazz-club-piano-solos-vol2.txt"
-    "s3 C:teal    T:Jazz Club Piano Solos 3                          P:Wise          I:-              R:-                   F:jazz-club-piano-solos-vol3.txt"
-    "st C:red     T:The Standards Real Book                          P:Sher Music    I:9781883217099  R:lyrics, drum parts  F:vol_st_raw.txt"
-    "u1 C:teal    T:The Real Book vol 1 (fifth edition)              P:-             I:-              R:-                   F:MASTERNX.txt:RealBk1"
-    "u2 C:teal    T:The Real Book vol 2                              P:-             I:-              R:-                   F:MASTERNX.txt:RealBk2"
-    "u3 C:teal    T:The Real Book vol 3                              P:-             I:-              R:-                   F:MASTERNX.txt:RealBk3"
-    "uf C:red     T:The Ultimate Fake Book (fifth edition)           P:Hal Leonard   I:9780793529391  R:lyrics              F:the-ultimate-fake-book.txt"
-    "uj C:gray    T:The Ultimate Jazz Fake Book                      P:Hal Leonard   I:9780881889796  R:lyrics              F:ultimate-jazz-fake-book.txt"
-    "wg C:black   T:The World's Greatest Fake Book                   P:Sher Music    I:9780961470111  R:lyrics, drum parts  F:the_worlds_greatest_fakebook.txt"
+    #KEY  COLOR    TITLE                                            PUBLISHER       ISBN             REMARK                SOURCE FILE
+    "aj C:red    T:The All-Jazz Real Book~......................  P:Sher Music    I:9781883217143  R:lyrics, drum parts  F:all-jazz-real-book.txt"
+    "bc C:teal   T:The Book/Commercial~.........................  P:...........   I:.............  R:-                   F:thebook.txt"
+    "c1 C:teal   T:Cuban Fake Book Vol. No 1~...................  P:...........   I:.............  R:lyrics              F:cuban-fake-book-vol1.txt"
+    "cc C:teal   T:The Colorado Cookbook~.......................  P:...........   I:.............  R:-                   F:MASTERNX.txt:ColoBk"
+    "eu C:red    T:The European Real Book~......................  P:Sher Music    I:9781883217242  R:drum parts          F:the-european-real-book.txt"
+    "ev C:teal   T:Bill Evans Fakebook~.........................  P:Hal Leonard   I:9780634023897  R:lyrics              F:MASTERNX.txt:EvansBk"
+    "fj C:teal   T:557 Jazz Standards - swing to bop~...........  P:...........   I:.............  R:-                   F:557-jazz-standards.txt"
+    "h1 C:red    T:The Real Book vol 1 (sixth edition)~.........  P:Hal Leonard   I:9780634060380  R:-                   F:vol_h1_raw.txt"
+    "h2 C:red    T:The Real Book vol 2 (second edition)~........  P:Hal Leonard   I:9780634060212  R:-                   F:vol_h2_raw.txt"
+    "h3 C:red    T:The Real Book vol 3 (second edition)~........  P:Hal Leonard   I:9780634061363  R:-                   F:vol_h3_raw.txt"
+    "h4 C:red    T:The Real Book vol 4~.........................  P:Hal Leonard   I:9781423425427  R:-                   F:vol_h4_raw.txt"
+    "h5 C:red    T:The Real Book vol 5~.........................  P:Hal Leonard   I:9781423488484  R:-                   F:vol_h5_raw.txt"
+    "h6 C:red    T:The Real Book vol 6~.........................  P:Hal Leonard   I:9781458440655  R:-                   F:vol_h6_raw.txt"
+    "jf C:teal   T:Jazz Fakebook~...............................  P:...........   I:.............  R:lyrics              F:MASTERNX.txt:JazzFake"
+    "jj C:gray   T:Just Jazz Real Book~.........................  P:Hal Leonard   I:9780757901683  R:lyrics              F:just-jazz-real-book.txt"
+    "jl C:teal   T:Jazz LTD/Over 500 tunes the real books missed  P:...........   I:.............  R:-                   F:MASTERNX.txt:JazzLTD"
+    "js C:gray   T:Just Standards Real Book~....................  P:Alfred Music  I:9780739039441  R:lyrics              F:just-standards-real-book.txt"
+    "lm C:teal   T:Library Of Musicians' Jazz~..................  P:...........   I:.............  R:-                   F:MASTERNX.txt:Library"
+    "lr C:black  T:The Latin Real Book~.........................  P:Sher Music    I:9781883217051  R:lyrics, drum parts  F:the-latin-real-book.txt"
+    "n1 C:black  T:The New Real Book vol 1~.....................  P:Sher Music    I:9780961470142  R:lyrics              F:MASTERNX.txt:NewReal1"
+    "n2 C:black  T:The New Real Book vol 2~.....................  P:Sher Music    I:9780961470173  R:lyrics              F:MASTERNX.txt:NewReal2"
+    "n3 C:black  T:The New Real Book vol 3~.....................  P:Sher Music    I:9781883217310  R:lyrics, drum parts  F:MASTERNX.txt:NewReal3"
+    "ol C:teal   T:The Original, Legal, Musicians' Fake Book~...  P:Hansen House  I:9780849400018  R:lyrics              F:original-legal-musician-fake-book.txt"
+    "rj C:black  T:The Hal Leonard Real Jazz Book~..............  P:Hal Leonard   I:9780793562305  R:lyrics              F:real_jazz_book.txt"
+    "rl C:red    T:The Real Latin Book~.........................  P:Hal Leonard   I:9781423487630  R:-                   F:the-real-latin-book.txt"
+    "rs C:gray   T:The Real Jazz Standards Fake Book~...........  P:Hal Leonard   I:9780634021558  R:lyrics              F:real-jazz-standards-fake-book.txt"
+    "rw C:black  T:Richard Wolfe's legit professional fake book   P:CPP/Belwin    I:9780898984484  R:lyrics              F:richard-wolfes-legit-professional-fakebook.txt"
+    "s1 C:gray   T:Jazz Club Piano Solos 1~.....................  P:Music Sales   I:9780711937666  R:-                   F:jazz-club-piano-solos-vol1.txt"
+    "s2 C:gray   T:Jazz Club Piano Solos 2~.....................  P:Music Sales   I:9780711941212  R:-                   F:jazz-club-piano-solos-vol2.txt"
+    "s3 C:teal   T:Jazz Club Piano Solos 3~.....................  P:Wise          I:.............  R:-                   F:jazz-club-piano-solos-vol3.txt"
+    "st C:red    T:The Standards Real Book~.....................  P:Sher Music    I:9781883217099  R:lyrics, drum parts  F:vol_st_raw.txt"
+    "u1 C:teal   T:The Real Book vol 1 (fifth edition)~.........  P:...........   I:.............  R:-                   F:MASTERNX.txt:RealBk1"
+    "u2 C:teal   T:The Real Book vol 2~.........................  P:...........   I:.............  R:-                   F:MASTERNX.txt:RealBk2"
+    "u3 C:teal   T:The Real Book vol 3~.........................  P:...........   I:.............  R:-                   F:MASTERNX.txt:RealBk3"
+    "uf C:red    T:The Ultimate Fake Book (fifth edition)~......  P:Hal Leonard   I:9780793529391  R:lyrics              F:the-ultimate-fake-book.txt"
+    "uj C:gray   T:The Ultimate Jazz Fake Book~.................  P:Hal Leonard   I:9780881889796  R:lyrics              F:ultimate-jazz-fake-book.txt"
+    "wg C:black  T:The World's Greatest Fake Book~..............  P:Sher Music    I:9780961470111  R:lyrics, drum parts  F:the_worlds_greatest_fakebook.txt"
 )
 
 for b in "${books[@]}"; do
@@ -133,11 +133,11 @@ done
 #     echo "k=$key,c=$color,t=$title,p=$publisher,i=$isbn,f=$file"
 # done
 
-printf "\\\begin{tabular}{rlllr@{}rl}\n" > legend.tex
-printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{---------} & ------------------- \\\\\\ \n" >> legend.tex
-printf "  KEY & TITLE                                           & PUBLISHER    & ISBN          & \multicolumn{2}{c}{ PIECES  } & REMARKS             \\\\\\ \n" >> legend.tex
-printf "      &                                                 &              &               &                   TOTL & UNIQ &                     \\\\\\ \n" >> legend.tex
-printf "  --- & ----------------------------------------------- & ------------ & ------------- & \multicolumn{2}{c}{---------} & ------------------- \\\\\\ \n" >> legend.tex
+printf "\\\begin{tabular}{l@{~}l@{~~}l@{~}l@{~~}r@{~}r@{~~}l}\n" > legend.tex
+printf "  --  & --------------------------------------------- & ----------- & ------------- & \multicolumn{2}{@{}l@{~~}}{--------} & ------------------ \\\\\\ \n" >> legend.tex
+printf "  KEY & TITLE                                         & PUBLISHER   & ISBN          & \multicolumn{2}{@{}c@{~~}}{ PIECES } & REMARKS            \\\\\\ \n" >> legend.tex
+printf "      &                                               &             &               & \multicolumn{2}{@{}r@{~}}{TOTL UNIQ} &                    \\\\\\ \n" >> legend.tex
+printf "  --  & --------------------------------------------- & ----------- & ------------- &                           ---- & --- & ------------------ \\\\\\ \n" >> legend.tex
 for b in "${books[@]}"; do
     key="${b/ *}"
     color="${b#* C:}"
@@ -154,7 +154,7 @@ for b in "${books[@]}"; do
     unique_songs=$(grep -c "^$key " single_occurrences)
     printf "  {\\\color{%s} %s} & %s & %s & %s & %s & %s & %s \\\\\\ \n" "$color" "${key^^}" "${title^^}" "${publisher^^}" "$isbn" "$total_songs" "$unique_songs" "${remark^^}" >> legend.tex
 done
-printf " \\multicolumn{7}{l}{---------------------------------------------------------------------------------------------------------------------} \\\\\\ \n" >> legend.tex
+printf " \\multicolumn{7}{l}{-----------------------------------------------------------------------------------------------------------} \\\\\\ \n" >> legend.tex
 printf "\\\end{tabular}\n" >> legend.tex
 
 sed -e 's/&/\\&/g' -e 's/#/\\#/' tempfile0 | \
