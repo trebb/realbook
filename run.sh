@@ -119,6 +119,10 @@ for b in "${books[@]}"; do
     echo >> unique_pieces
 done
 
+today=`date +%F`
+total=`sed -e 's/\(^.*\)%%--%%.*%%--%%.*/\1/' tempfile0 | sort | uniq | wc -l`
+printf "%s\n\n%s items\n" $today $total > tail.tex
+
 # for b in "${books[@]}"; do
 #     key="${b/ *}"
 #     color="${b#* C:}"
