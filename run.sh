@@ -39,7 +39,7 @@ books=(
     "u3 C:teal   T:The Real Book vol 3~.........................  P:...........   I:.............  R:-                   F:MASTERNX.txt:RealBk3"
     "uf C:red    T:The Ultimate Fake Book (fifth edition)~......  P:Hal Leonard   I:9780793529391  R:lyrics              F:the-ultimate-fake-book.txt"
     "uj C:gray   T:The Ultimate Jazz Fake Book~.................  P:Hal Leonard   I:9780881889796  R:lyrics              F:ultimate-jazz-fake-book.txt"
-    "wg C:black  T:The World's Greatest Fake Book~..............  P:Sher Music    I:9780961470111  R:lyrics, drum parts  F:the_worlds_greatest_fakebook.txt"
+    "wg C:red    T:The World's Greatest Fake Book~..............  P:Sher Music    I:9780961470111  R:lyrics, drum parts  F:the_worlds_greatest_fakebook.txt"
 )
 
 for b in "${books[@]}"; do
@@ -167,6 +167,9 @@ sed -e 's/&/\\&/g' -e 's/#/\\#/' tempfile0 | \
     sort -r | \
     awk -F '%%--%%,' '!seen[$1] {print "\\hangindent1em " $1 "\\nolinebreak\\dotfill\\nolinebreak\\rule{1mm}{0mm}" $2 "\\par"; seen[$1]=1} ' > tempfile
 
+cat tempfile |\
+    sed -Ee 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' -e 's/[[:punct:][:blank:]]//g' | sort > prunedstrings
+
 for i in {A..Z}; do
     echo "%\\hangindent1em ${i}%%00000" >> tempfile
 done
@@ -174,15 +177,9 @@ done
 sort tempfile |\
     sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\addcontentsline{toc}{section}{\1}\\markboth{\1}{\1}\\nopagebreak/' > allsongs.tex
 
-cat tempfile |\
-    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000//' -e 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' -e 's/[[:punct:][:blank:]]//g' | sort > prunedstrings
-
 pdflatex realbookindex.tex
 pdflatex realbookindex.tex
 
 echo "checking for duplications..."
 grep -v "^$" prunedstrings | uniq -w 40 -D
-for b in "${books[@]}"; do
-
-    pdftotext realbookindex.pdf - | grep -i "${key},${key}"
-done
+sed -e 's/\(^.*\)%%--%%.*%%--%%.*}\(.*\)}/\1==\2/' tempfile0 | sort | uniq -D
