@@ -13,8 +13,8 @@
 \addtokomafont{disposition}{\ttfamily}
 \pagestyle{myheadings}
 
-\renewcaptionname{UKenglish}{\contentsname}{\normalsize CONTENTS}
-\titlecontents*{section}[0em]{\ttfamily}{}{}{~\thecontentspage}[, ]
+\renewcaptionname{UKenglish}{\contentsname}{\normalsize\centerline{CONTENTS}}
+\titlecontents*{section}[0em]{\ttfamily\centering}{}{}{~\thecontentspage}[, ]
 
 \begin{document}
 
@@ -29,9 +29,10 @@
   \input{legend.tex}
 \end{center}
 \begin{multicols}{4}
-  \raggedright
   \tableofcontents
+  \raggedright
   \vspace{\fill}
+  \vspace{\baselineskip}{\centering 0-9\nopagebreak\\ 0-9\quad 0-9\nopagebreak\\ 0-9\nopagebreak\\}\vspace{\baselineskip}\addcontentsline{toc}{section}{0-9}\markboth{0-9}{0-9}\nopagebreak
   \input{allsongs.tex}
   \begin{center}
     \input{tail.tex}
