@@ -75,7 +75,7 @@ ciribiribin
 clarinet polka
 climb ev'ry mountain
 colonel bogey
-colour my workd
+color my world
 come closer to me (Acércate Más)
 compadre pedro juan
 continental, the
@@ -85,6 +85,7 @@ could be the start of something big
 crazy rhythm
 C7 mambo
 cuando calienta el sol (Love Me With All Your Heart)
+dance: ten; looks: three
 dancing on the ceiling
 danny boy
 das ganze haus ist schief
@@ -99,7 +100,7 @@ domino polka
 do re mi
 do you know what it means to miss new orleans
 drivin' my life away
-du du liegst in min herzen
+du, du liegst in min herzen
 ease on down the road
 edelweiss
 eight days a week
@@ -110,7 +111,7 @@ el relicario
 elvira
 emperor waltz
 endless love
-españa cani
+españa cañi
 evangelina
 evergreen
 everlasting love
@@ -176,7 +177,7 @@ I made it thru the rain
 in a mellow tone
 in a sentimental mood
 i need your help
-in muenchen steht ein hofbraeu haus
+in münchen steht ein hofbräu haus
 in the mood
 in the navy
 I only have eyes for you
@@ -290,7 +291,7 @@ okie from muskogee
 oklahoma
 on a clear day
 one in a million
-one note
+one note samba
 one of those songs
 on the road again
 on the street where you live
@@ -325,7 +326,7 @@ santa lucia
 satin doll
 say it with music
 c'est si bon (say si bon)
-schon ist die liebe im hafen
+schön ist die liebe im hafen
 second time around, the
 sentimental journey
 september song
