@@ -167,8 +167,41 @@ sed -e 's/&/\\&/g' -e 's/#/\\#/' tempfile0 | \
     sort -r | \
     awk -F '%%--%%,' '!seen[$1] {print "\\hangindent1em " $1 "\\nolinebreak\\dotfill\\nolinebreak\\rule{1mm}{0mm}" $2 "\\par"; seen[$1]=1} ' > tempfile
 
+ignorable_strings=(
+    "(BACH)"
+    "(BEETHOVEN)"
+    "(BIZET)"
+    "(BORODIN)"
+    "(BRAHMS)"
+    "(CHARLES MINGUS)"
+    "(CHOPIN)"
+    "(DVORAK)"
+    "(GRIEG)"
+    "(LEHAR)"
+    "(LOVE THEME)"
+    "(MACDOWELL)"
+    "(MENDELSSOHN)"
+    "(MOZART)"
+    "(RACHMANINOFF)"
+    "(RIMSKY-KORSAKOV)"
+    "(SAINT-SAENS)"
+    "(SCHUBERT)"
+    "(SCHUMANN)"
+    "(STRAUSS)"
+    "(TCHAIKOVSKY)"
+    "(VERDI)"
+    "(WAGNER)"
+    "(WALDTEUFEL)"
+)
+
+c_expression=$(echo -n "s/${ignorable_strings[0]}"; for i in "${ignorable_strings[@]:1}"; do echo -n "|$i"; done; echo "//g")
+
 cat tempfile |\
-    sed -Ee 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' -e 's/[[:punct:][:blank:]]//g' | sort > prunedstrings
+    iconv -f utf8 -t ascii//TRANSLIT | \
+    sed -Ee 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' | \
+    sed -Ee "$c_expression" | \
+    sed -Ee 's/( \((.*)\))/\1\n\2/' -e 's/[[:punct:][:blank:]]//g' | \
+    sort > prunedstrings
 
 for i in {A..Z}; do
     echo "%\\hangindent1em ${i}%%00000" >> tempfile
