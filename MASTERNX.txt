@@ -594,7 +594,7 @@ Con Alma                           RealBk1     89
 Conception                         RealBk1     90
 Cone Pone                          Library     24
 Conference Of The Birds            RealBk1     91
-Confessin (That I Love you)        RealBk2     65
+(I'm) Confessin' (That I Love you) RealBk2     65
 Confirmation                      ColoBk     54
 Confirmation                      JazzFake     88
 Confirmation                       Library     20
@@ -1393,7 +1393,7 @@ I'm Afraid                                RealBk1      A6
 I'm All Smiles                            RealBk1     216
 I'm An Old Cowhand                       ColoBk     101
 I'm Beginning To See The Light           JazzFake     169
-I'm Confessin' (That I Love You)           JazzFake     171
+(I'm) Confessin' (That I Love You)       JazzFake     171
 I'm Getting Sentimental Over You          RealBk2     163
 I'm Getting Sentimental Over You         NewReal3     162
 I'm Glad There Is You                    JazzFake     172
