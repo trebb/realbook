@@ -802,7 +802,7 @@ Doxy                        ColoBk     65
 Doxy                        JazzFake    105
 Doxy                         Library     39
 Doxy                         RealBk2     79
-Dr. Jeckyll                  JazzLTD     89
+Dr. Jekyll                   JazzLTD     89
 Dream Dancing                RealBk3     71
 Dreamin                     NewReal3    113
 Drive (The)                  RealBk2     81
@@ -1115,9 +1115,9 @@ Gibraltar                           JazzLTD    137
 Giggin' And Drinkin                 JazzLTD    139
 Gina                                Library    175
 Ginseng People                      JazzLTD    138
-Girl From Ipanema                JazzFake    132
-Girl From Ipanema                  ColoBk     70
-Girl From Ipanema                   RealBk1    171
+Girl From Ipanema (The)            JazzFake    132
+Girl From Ipanema (The)             ColoBk     70
+Girl From Ipanema (The)             RealBk1    171
 Girl Talk                           RealBk2    122
 Give Thanks                        ColoBk     80
 Gloria's Step                      NewReal1    118
@@ -2111,7 +2111,7 @@ Naima                       ColoBk    151
 Naima                       NewReal2    238
 Naima                        RealBk1    315
 Nancy Joe                    RealBk2    265
-Nancy With The Laughing Face             JazzLTD    241
+Nancy (With The Laughing Face)           JazzLTD    241
 Napanoch                                NewReal2    239
 Nardis                                  ColoBk    152
 Nardis                                  JazzFake    269
@@ -2311,7 +2311,7 @@ Ornithology                               Library     93
 Ornithology                               RealBk1    335
 Our Delight                              ColoBk    171
 Our Delight                               RealBk3    228
-Our Love Is Here To Stay                  RealBk2    279
+(Our) Love Is Here To Stay                RealBk2    279
 Our Man Higgins                           JazzLTD    263
 Out A Day                                NewReal3    285
 Out Back Of The Barn                      RealBk2    280
@@ -2588,7 +2588,7 @@ Ruby                                     NewReal3    327
 Rush Hour                                NewReal1    301
 Russ job                                  Library    109
 Rustic Hop                                Library    109
-'S Matter                        JazzLTD    317
+Smatter                          JazzLTD    317
 SOS                          JazzFake    323
 Sabra                            JazzLTD    298
 Sack Of Woe                      JazzLTD    298
@@ -2755,7 +2755,7 @@ Slow Hot Wind                   RealBk2    328
 Slowly Gone Bygone                RealBk1    385
 Small Day Tomorrow               NewReal1    323
 Small World                      JazzFake    340
-'S matter                          ColoBk    201
+Smatter                          ColoBk    201
 Smile Please                     NewReal3    342
 Smile                            ColoBk    202
 Smoke Gets In Your Eyes          JazzFake    343
@@ -2763,7 +2763,7 @@ Smoke Gets In Your Eyes           RealBk2    329
 Smoke Rings                      JazzFake    342
 Smooth One (A)                   JazzFake    344
 Snapper                          ColoBk    203
-Sno Peas                          JazzLTD    317
+Sno' Peas                         JazzLTD    317
 Snowfall                         JazzFake    341
 So Dolt                           JazzLTD    318
 So In Love                        RealBk3    270

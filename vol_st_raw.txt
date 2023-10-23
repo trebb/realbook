@@ -50,7 +50,7 @@ Day In, Day Out
 Days Of Wine And Roses
 Dedicated To You
 Deep Purple
-(sitting on) The Dock Of The Bay
+(sittin' on) The Dock Of The Bay
 Don't Be Blue
 Don't Worry 'Bout Me
 Doodlin'
@@ -68,7 +68,7 @@ Forest Flower
 From This Moment On
 Get Here
 Get Out Of Town
-Girl From Ipanema
+The Girl From Ipanema
 Give Me The Simple Life
 Good Bait
 Good Life, The
@@ -128,7 +128,7 @@ Just One Of Those Things
 Lady Is A Tramp, The
 Lester Leaps In
 Let's Call The Whole Thing Off
-Let's Do It
+Let's Do It (Let's fall in love)
 Li'l Darlin'
 Lot Of Livin' To Do, A
 Love For Sale
@@ -151,19 +151,19 @@ Mr. Lucky
 My Funny Valentine
 My Heart Stood Still
 My Man's Gone Now
-Nancy With The Laughing Face
+Nancy (With The Laughing Face)
 Nice Work If You Can Get It
 Night And Day
 Not Like This
 Of Thee I Sing
 Oh, Lady Be Good!
-Old Country, The
+(The old man from) The Old Country
 Old Folks
 On A Clear Day
 On A Misty Night
 One Hundred Ways
 Our Delight
-Our Love Is Here To Stay
+(Our) Love Is Here To Stay
 People Make The World Go Round
 Piano In The Dark
 Pick Up The Pieces
@@ -196,7 +196,7 @@ Soul Man
 Stormy Weather
 Strike Up The Band
 Stuck On You
-Suite Judy Blue Eyes
+Suite: Judy Blue Eyes
 Summer Knows, The
 Summer Night
 Summertime
@@ -226,7 +226,7 @@ Time On My Hands
 'Tis Autumn
 Tokyo Blues
 Too Marvelous For Words
-Too Much Sake
+Too Much Saké
 Trouble Is A Man
 Twilight World
 Two For The Road
@@ -240,7 +240,7 @@ We're in This Love Together
 What A Fool Believes
 What Am I Here For?
 What Is This Thing Called Love?
-What The World Needs Now Is Love
+What The World Needs Now (Is Love)
 Wheelers & Dealers
 When A Man Loves A Woman
 When The World Was Young

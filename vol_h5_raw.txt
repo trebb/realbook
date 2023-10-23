@@ -67,7 +67,7 @@ Dexter's Mood
 Diamonds Are Forever
 Diane
 Ding-Dong! The Witch Is Dead
-Django's Castle (Manoir De Mes Reves)
+Django's Castle (Manoir De Mes Rêves)
 Do It Again
 Don't Cry Joe (Let Her Go, Let Her Go, Let Her Go)
 Don't Smoke In Bed
@@ -196,7 +196,7 @@ Leap Frog
 Let A Smile Be Your Umbrella
 Let Me Love You Tonight
 Let Yourself Go
-Let's Do It
+Let's Do It (Let's fall in love)
 Let's Take An Old-Fashioned Walk
 Like A Lover
 Lilli Marlene (Lili Marleen)
@@ -205,7 +205,7 @@ Live And Let Die
 Lorelei
 Lost In Meditation
 Love Dance
-Love Is Here To Stay
+(Our) Love Is Here To Stay
 Love Walked In
 Lucky To Be Me
 Lullaby In Rhythm
@@ -368,7 +368,7 @@ We Kiss In A Shadow
 We're Off To See The Wizard
 What Is There To Say
 What Is This Thing Called Love?
-What The World Needs Now Is Love
+What The World Needs Now (Is Love)
 What's New Pussycat?
 When A Man Loves A Woman
 When I Grow Too Old To Dream

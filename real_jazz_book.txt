@@ -289,7 +289,7 @@
 300   Searching, Finding
 302   Seems Like Old Times
 300   Segment
-301   Senor Carlos
+301   Señor Carlos
 303   Señor Mouse
 302   Serengeti Walk (Slippin' in the Back Door)
 305   The Shadow of Your Smile
@@ -429,7 +429,7 @@
 220   Makin' Whoopee!
 232   Mambo a La Savoy
 236   Mandy Make Up Your Mind
-234   Django's Castle (Manoir De Mes Reves)
+234   Django's Castle (Manoir De Mes Rêves)
 221   Manteca
 223   Maputo
 233   Mas Que Nada
