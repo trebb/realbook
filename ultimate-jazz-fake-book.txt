@@ -100,7 +100,7 @@ Cry Me A River
 Cute
 Daahoud
 Darn That Dream
-A Day In The Life Of A Fool
+A Day In The Life Of A Fool (Manha De Carnaval)
 D.C. Farewell
 Dearly Beloved
 'Deed I Do
@@ -198,7 +198,7 @@ I Cover The Waterfront
 I Cried For You
 I Didn't Know What Time It Was
 I Don't Know Why
-I Don't Stand A Ghost Of A Chance With You
+(I Don't Stand) A Ghost Of A Chance (With You)
 I Don't Want To Set The World On Fire
 I Got Plenty O' Nuttin'
 I Left My Heart In San Francisco
@@ -255,7 +255,7 @@ It's All Right With Me
 It's Magic
 It's Not For Me To Say
 It's Only A Paper Moon
-It's Sand Man
+It's Sand, Man
 It's The Talk Of The Town
 The Jazz-Me Blues
 Jeannine
@@ -334,7 +334,7 @@ Memories Of You
 Memphis In June
 Mercy, Mercy, Mercy
 Merry Christmas Baby
-The Merry-Go-Round
+(The) Merry-Go-Round
 Midnight Blue
 Midnight Sun
 Milenberg Joys
@@ -393,7 +393,7 @@ On A Clear Day
 On A Little Street In Singapore
 On A Slow Boat To China
 On The Street Where You Live
-On The Sunny Side Of The Street
+(On The) Sunny Side Of The Street
 Once Upon A Summertime
 One By One
 One Mint Julep
@@ -409,7 +409,7 @@ Parker's Mood
 The Party's Over
 Paul's Pal
 The Peacock
-The Peanut Vendor
+The Peanut Vendor (El Manisero)
 Peel Me A Grape
 Pennies From Heaven
 People
@@ -454,7 +454,7 @@ Satin Doll
 Saturday Night Fish Fry
 Scrapple From The Apple
 Second Hand Rose
-Senor Blues
+Señor Blues
 Sentimental Journey
 September Song
 Serenade To A Bus Seat

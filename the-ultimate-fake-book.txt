@@ -191,7 +191,7 @@ The Darktown Strutters' Ball
 Darling, Je Vous Aime Beaucoup
 Darn That Dream
 Day By Day
-A Day In The Life Of A Fool
+A Day In The Life Of A Fool (Manha De Carnaval)
 Day-O (The Banana Boat Song)
 Days Of Wine And Roses
 Dear Hearts And Gentle People
@@ -388,7 +388,7 @@ I Cover The Waterfront
 I Didn't Know What Time It Was
 I Don't Care If The Sun Don't Shine
 I Don't Know Why
-I Don't Stand A Ghost Of A Chance With You
+(I Don't Stand) A Ghost Of A Chance (With You)
 I Don't Want To Set The World On Fire
 I Don't Want To Walk Without You
 I Enjoy Being A Girl
@@ -747,7 +747,7 @@ On The Atchison, Topeka And The Santa Fe
 On The Good Ship Lollipop
 On The South Side Of Chicago
 On The Street Where You Live
-On The Sunny Side Of The Street
+(On The) Sunny Side Of The Street
 On Top Of Spaghetti
 Once In A Lifetime
 Once In A While

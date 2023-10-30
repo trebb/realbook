@@ -485,7 +485,7 @@
 364   Two Degrees East, Three Degrees West
 355   Two of a Mind
 356   Ultrafox
-359   Unless It's You
+359   Orbit (Unless It's You)
 357   The Very Thought of You
 358   Visa
 357   Walk Don't Run
@@ -511,7 +511,7 @@
 372   Wintersong
 372   Without a Song
 375   Wives and Lovers
-376   Woodyn' You
+376   Woodyn' You (Algo Bueno)
 378   You Are Too Beautiful
 379   You Brought a New Kind of Love to Me
 378   You Couldn't Be Cuter
