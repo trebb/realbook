@@ -104,7 +104,7 @@ Another Time                    NewReal3     19
 Anthropology                 ColoBk      2
 Anthropology                 NewReal1     11
 Anthropology                  RealBk1     25
-Anti Climax                   JazzLTD     13
+Anticlimax                    JazzLTD     13
 Antigua                      ColoBk     22
 Apple Core                   JazzFake     47
 Apple Honey                  JazzFake     48
@@ -230,7 +230,7 @@ Bessie's Blues                       ColoBk     33
 Bessie's Blues                       NewReal2     21
 Bessie's Blues                        RealBk1     42
 Best Is Yet To Come (The)            JazzFake     56
-Best Thing For You Is Me              RealBk3     25
+The Best Thing For You                RealBk3     25
 Best Things In Life Are Free (The)   JazzFake     57
 Better Git It In Your Soul            RealBk2     22
 Better Git It In Your Soul            RealBk3     26
@@ -238,14 +238,14 @@ Bewitched                            JazzFake     58
 Bewitched                             RealBk1     43
 Beyond All Limits                     RealBk2     23
 Beyond The Bluebird                   RealBk3     27
-Bid For (A)                            JazzLTD      1
+A Bid For Sid                         JazzLTD      1
 Big Bear                              JazzLTD     27
 Big Ben                               JazzLTD     26
 Big Bertha                            JazzLTD     28
 Big Nick                              RealBk1     44
 Big P                                JazzFake     58
 Big P                                 RealBk2    404
-Big Push                              JazzLTD     30
+The Big Push                          JazzLTD     30
 Bill Bailey                          JazzFake     59
 Bill's Belle                          EvansBk      3
 Bill's Hit Tune                       EvansBk      4
@@ -396,13 +396,13 @@ Bouncing With Bud              NewReal1     37
 Bouncing With Bud               Library     13
 Bouncing With Bud               RealBk2     40
 Boy Next Door                   RealBk3     37
-Boy What A Night                JazzLTD     43
+Boy, What A Night               JazzLTD     43
 Brainville                      RealBk1     62
 Brazilian Beat                  RealBk2     41
 Breakfast Wine                 NewReal1     39
 Breakfast With Joe              Library     37
 Breakin' Away                  NewReal1     41
-Breakthrough                    JazzLTD     43
+The Breakthrough                JazzLTD     43
 Breeze And I (The)             JazzFake     72
 Brian's Song                    RealBk2     42
 Bridgitte                       JazzLTD     45
@@ -421,6 +421,7 @@ Brownout                        RealBk1     66
 Bruh Slim                       JazzLTD     48
 B-Sting                     NewReal3     29
 Bud Powell                  NewReal3     63
+Bud Powell                   RealBk3     63
 Budo                        JazzFake     73
 Budo                         Library     15
 Budo                         RealBk2     47
@@ -464,8 +465,7 @@ Byrd Like                    RealBk2    407
 C-Jam Blues                  RealBk2     55
 C Minor Blues Chase          EvansBk      7
 C.C. Rider                  JazzFake     78
-C.T.A.                       JazzLTD     72
-Cady and Carole              JazzLTD     54
+Carly and Carole             JazzLTD     54
 Café                        NewReal2     37
 Cairo                        Library     23
 Caldonia                    JazzFake     76
@@ -496,8 +496,8 @@ Casa de Luz                        JazzLTD     56
 Casa De Luz                        Library     18
 Casa Forte                        NewReal2     41
 Cascades                           JazzLTD     53
-Cat                                JazzLTD     55
-The Cat Walk                       JazzFake    80
+(The) Cat Walk                     JazzLTD     55
+(The) Cat Walk                     JazzFake    80
 Catch Me                           RealBk2     56
 Catch The Wind                     EvansBk     10
 Cathy                              JazzLTD     52
@@ -561,7 +561,7 @@ Chromatic Tune                      EvansBk     11
 Chromazone                         NewReal2     51
 Chronic Blues                       JazzLTD     60
 Chuckles                            Library    159
-CIA                                 JazzLTD     72
+C.T.A.                              JazzLTD     72
 Circle                              RealBk2     61
 Circling The Blues                  Library    158
 Circular Motion                    NewReal3     81
@@ -635,7 +635,7 @@ Crazy Rhythm                      JazzFake     91
 Creek                           NewReal1     56
 Creepin' In                      Library    162
 Creepin'                        NewReal3     91
-Crepuscule With Nellis           JazzLTD     62
+Crepuscule With Nellie           JazzLTD     62
 Crescent City                    JazzLTD     71
 Crescent                         RealBk1     99
 Crisis                           JazzLTD     56
@@ -810,7 +810,7 @@ Duff                         RealBk2     70
 Duke (The)                  JazzFake    106
 Duke (The)                   Library    212
 Duke (The)                     RealBk1    127
-Duke's Sound Of Love         JazzLTD     93
+Duke Ellington's Sound Of Love  JazzLTD     93
 Dwellings                   ColoBk     66
 E.K.'s Blues                 RealBk2     92
 E.S.P.                      NewReal1     90
@@ -884,7 +884,7 @@ Equinox                      NewReal2     85
 Equinox                       RealBk1    139
 Equipoise                     RealBk1    140
 Ergo                          Library     45
-Ericloth                      JazzLTD    106
+Erlcloth                      JazzLTD    106
 Eronel                        JazzLTD    107
 Eronel                        Library    173
 Escapade                      JazzLTD    108
@@ -968,7 +968,7 @@ Five Hundred Miles High           RealBk1    152
 Five Spot After Dark              RealBk2    104
 Five                              EvansBk     17
 Five                              JazzLTD    120
-Five-Four Thing                   JazzLTD    121
+5/4 Thing                         JazzLTD    121
 502 Blues                         RealBk1    153
 Fifty Second Street Theme                 RealBk2     93
 Flags                             RealBk1    156
@@ -1032,14 +1032,14 @@ Four                                 Library     49
 Four                                NewReal1    101
 Four                                 RealBk1    161
 Fox Hunt                             RealBk2    110
-Foxhorn Song                         JazzLTD    131
+The Foxhorn Song                     JazzLTD    131
 Frank 'N Earnest                     Library    170
 Frankie And Johnny                  JazzFake    126
 Freckles                             Library     50
 Freddie Froo                         RealBk2    111
 Freddie Freeloader               RealBk1    164
 Free Cell Block 'F'                  RealBk2    112
-Free Wheeling                        JazzLTD    130
+Free Wheelin'                        JazzLTD    130
 Free                                 RealBk2    116
 Freedom Jazz Dance                  NewReal2    110
 Freedom Jazz Dance                   RealBk1    165
@@ -1110,7 +1110,7 @@ Giant Steps                        NewReal2    121
 Giant Steps                         RealBk1    170
 Guarujá                            NewReal1    129
 Gibraltar                           JazzLTD    137
-Giggin' And Drinkin                 JazzLTD    139
+Giggin' And Drinkin'                JazzLTD    139
 Gina                                Library    175
 Ginseng People                      JazzLTD    138
 Girl From Ipanema (The)            JazzFake    132
@@ -1156,7 +1156,7 @@ Grand Central                       RealBk1      1
 Granted                             JazzLTD    141
 Green Dolphin Street                RealBk1    179
 Green Mountains                     RealBk1    180
-Greene St. Caper                    JazzLTD    143
+The Greene St. Caper                JazzLTD    143
 Greensleeves                       JazzFake    138
 Greenwich                             JazzLTD    144
 Gregory Is Here                       JazzLTD    145
@@ -1281,7 +1281,7 @@ How Sweet It Is                      NewReal3    147
 Hullo Bolinas                         RealBk1    205
 Hummin'                                RealBk2    147
 Humpty Dumpty                         RealBk2    148
-Hypochtistmutreefuzz                  JazzLTD    156
+Hypochristmutreefuzz                  JazzLTD    156
 I Believe In You                     NewReal2    137
 I Believe In You                      RealBk2    150
 I Can't Get Started                   ColoBk     92
@@ -1547,7 +1547,7 @@ Jacob's Ladder                   NewReal2    173
 Jaguar                            JazzLTD    176
 Jam For Your Bread                Library    183
 Jammin' At The Jazzworks         ColoBk    112
-Japanese Waltz                    RealBk3    155
+A Japanese Waltz                  RealBk3    155
 Jasmin                            Library     64
 Jazzbo's Haunt                    Library     65
 Jazz-Me Blues (The)              JazzFake    195
@@ -1722,6 +1722,7 @@ Let's Eat                                 ColoBk    123
 Let's Fall In Love                       JazzFake    218
 Let's Fall In Love                        JazzLTD    198
 Let's Fall In Love                       NewReal2    180
+Let's Fall In Love                        RealBk3    180
 Let's Get Away From It All               JazzFake    218
 Let's Go Dancin'                         NewReal1    185
 Let's Stay Together                       NewReal3    213
@@ -1820,7 +1821,7 @@ Lost In The Stars                      JazzFake    226
 Lost Love                               JazzLTD    210
 Lost                                    JazzLTD    209
 Lot Of Livin' To Do (A)                JazzFake    227
-Lotus On Irish Streams                  RealBk3     79
+A Lotus On Irish Streams                RealBk3     79
 Loud-Zee                                RealBk3    180
 Louise                                  JazzLTD    211
 Louisiana                              JazzFake    228
@@ -1839,7 +1840,7 @@ Love Walked In                          RealBk3    182
 Lover Man                               JazzFake    233
 Lover Man                               RealBk2    224
 Lover                                   RealBk2    221
-Lovers' Rain Dance                       RealBk3    181
+Lovers Rain Dance                       RealBk3    181
 Love's Haunts                          NewReal3    223
 Loxodrome                              NewReal2    194
 Lucky Southern                          RealBk1    276
@@ -1865,14 +1866,14 @@ Mad About Him, Sad Without Him   JazzFake    235
 Mad About The Boy               JazzFake    237
 Madagascar                      NewReal1    199
 Mademoiselle Mabry               JazzLTD    217
-Madison Avenue                   JazzLTD    216
+Madison Ave.                     JazzLTD    216
 Magician In You (The)              RealBk1    280
 Mahjong                         NewReal2    196
 Maid In Mexico                   JazzLTD    218
 Maid In Mexico                   Library     77
 Maiden Voyage                   NewReal3    229
 Maiden Voyage                    RealBk1    281
-Maidens Of Cadiz                 JazzLTD    220
+Maids Of Cadiz                   JazzLTD    220
 Mahjong                          RealBk1    286
 Make Me A Memory (Sad Samba)    NewReal1    202
 Make Someone Happy              JazzFake    238
@@ -1905,7 +1906,7 @@ Marmaduke                        JazzLTD    222
 Martians Go Home                 Library    185
 Mary's Blues                     JazzLTD    223
 Masquerade                       RealBk2    230
-Masqularo                        JazzLTD    218
+Masqualero                       JazzLTD    218
 Matinee Idol                    NewReal1    203
 Mating Call                      JazzLTD    219
 Matrix                           RealBk3    190
@@ -1926,7 +1927,7 @@ Meditation                   ColoBk    133
 Meet Mr. Gordon              Library    139
 Mellophone Mambo             Library     81
 Mellow Mood                  RealBk2    232
-Memo To Maurice              JazzLTD    226
+Memo: To Maurice             JazzLTD    226
 Memories Of Tomorrow         RealBk1    289
 Memories Of You             JazzFake    245
 Memories Of You             NewReal2    202
@@ -2000,7 +2001,7 @@ Monk's Dream                 JazzLTD    233
 Monk's Mood                 NewReal1    212
 Monk's Mood                  RealBk2    234
 Monk's Sphere                RealBk2    243
-Monster & The Flower         RealBk3    200
+The Monster And The Flower   RealBk3    200
 Montage                      RealBk1    300
 Monti Celli                  Library    190
 Mood For Maude               JazzLTD    236
@@ -2054,7 +2055,7 @@ Mountain Greenery             RealBk3    204
 Move                          Library     84
 Move                          RealBk2    250
 Movin' Along                  JazzLTD    235
-Movin' In Movin' Out           JazzLTD    237
+Movin' In, Movin' Out         JazzLTD    237
 Moving Out                    RealBk2    251
 Mozambique                   NewReal2    231
 Mr. Jones                     RealBk2    253
@@ -2095,7 +2096,7 @@ My Little Boat               RealBk1    309
 My Little Suede Shoes       JazzFake    262
 My Little Suede Shoes        Library     86
 My Little Suede Shoes        RealBk2    258
-My Mama Don Tol' Me          JazzLTD    238
+My Momma Done Tol' Me        JazzLTD    238
 My Man's Gone Now           JazzFake    264
 My Man's Gone Now            RealBk3    206
 My Melancholy Baby          JazzFake    265
@@ -2218,7 +2219,7 @@ Nowhere To Run                             NewReal3    267
 Now's The Time                             JazzFake    279
 Now's The Time                              RealBk2    265
 Nuages                                      JazzLTD    248
-Number 4                                    JazzLTD    249
+Number four                                 JazzLTD    249
 Number 6                                    RealBk3    217
 Nutty Pine                                  Library    188
 Nutville                                   NewReal2    265
@@ -2428,7 +2429,7 @@ Philly Mignon                    JazzLTD    264
 Picadilly Lilly                  RealBk3    239
 Pick Yourself Up                JazzFake    302
 Pick Yourself Up                 RealBk2     95
-Picture Of Health                JazzLTD    273
+Picture Of Heath                 JazzLTD    273
 Pimlico                          Library    203
 Ping Pong                        JazzLTD    274
 Pinocchio                        RealBk1    349
@@ -2527,7 +2528,7 @@ Real Life                        NewReal3    311
 Rebel Without A Cause             JazzLTD    284
 The Gift! (Recado Bossa Nova)      ColoBk    177
 The Gift! (Recado Bossa Nova)     RealBk2    302
-Receipt Please                    JazzLTD    283
+Receipt, Please                   JazzLTD    283
 Recorda Me                       ColoBk    178
 Recorda Me                         RealBk1    359
 Red Clay                          RealBk1    362
@@ -2653,7 +2654,7 @@ Scene Is Clean (The)             RealBk2    411
 Schizophrenia                    JazzLTD    304
 Scotch And Water                 JazzLTD    305
 Scotch And Soda                  RealBk1    368
-Scourn'                          JazzLTD    305
+Scour'n                          JazzLTD    305
 Scrapple From The Apple         ColoBk    192
 Scrapple From The Apple         JazzFake    327
 Scrapple From The Apple          RealBk1    369
@@ -2753,7 +2754,7 @@ Sippin' At Bells                   RealBk2    325
 Sister Sadie                       JazzFake    338
 Sister Sadie                        RealBk2    324
 Sister Sadie                        RealBk3    266
-Sixth Sense                         JazzLTD    314
+The Sixth Sense                     JazzLTD    314
 Skating In Central Park             RealBk1    384
 Skippy                              JazzLTD    315
 Skippy-Ing                         NewReal2    327
@@ -2979,7 +2980,7 @@ Sub Aqua                              NewReal3    361
 Subconscious Lee                      RealBk2    348
 Sudden Samba                          NewReal1    348
 Sudwest Funk                           Library    208
-Sues Changes                           JazzLTD    335
+Sue's Changes                          JazzLTD    335
 Sugar Foot Stomp                      JazzFake    368
 Sugar                                 ColoBk    227
 Sugar                                 JazzFake    368
@@ -3080,7 +3081,7 @@ Tenor Madness                            ColoBk    141
 Tenor Madness                             RealBk2    376
 Terry's Chance                            JazzLTD    343
 Teru                                      JazzLTD    343
-That Artt He's All Heart               JazzLTD    344
+That Artt, He's All Heart              JazzLTD    344
 That Girl                              JazzLTD    346
 That Girl                             NewReal3    375
 That Old Feeling                      NewReal3    380
@@ -3088,7 +3089,7 @@ That Old Feeling                       RealBk3    300
 That's All                            JazzFake    380
 That's All                            NewReal2    363
 That's All                             RealBk3    301
-That's Earl Brother                    JazzLTD    345
+That's Earl, Brother                   JazzLTD    345
 That's Entertainment                  JazzFake    382
 That's Life                           JazzFake    383
 That's Right                           JazzLTD    345
@@ -3189,7 +3190,7 @@ Three Flowers                   RealBk1    429
 Three Hearts Dancing           NewReal2    367
 Three Little Words             NewReal2    373
 Three Views Of A Secret        NewReal1    367
-317 E. 32nd St                  JazzLTD    352
+317 E 32nd St.                  JazzLTD    352
 Thrill Is Gone (The)           JazzFake    394
 Thrill Is Gone (The)            RealBk3    311
 Thriving From A Riff           JazzFake    393
@@ -3253,7 +3254,7 @@ Topsy                        Library    135
 Toshiko's Elegy              JazzLTD    359
 Totem Pole                   JazzLTD    360
 Touch Of Your Lips (The)    JazzFake    400
-Touch Of Your Lips (The)      REALBK3    324
+Touch Of Your Lips (The)     RealBk3    324
 Tough Talk                   RealBk1    433
 Tour De Force                JazzLTD    361
 Toy Tune                    NewReal3    398
@@ -3265,7 +3266,7 @@ Travisimo                    Library    137
 Trav'lin' Light              JazzFake    404
 Tribute To Brownie           Library    210
 Trickleydidlier              Library    136
-Tricrotism                   RealBk3    325
+Tricotism                    RealBk3    325
 Trinkle Tinkle               JazzLTD    362
 Triple Play                  JazzLTD    363
 Triste                      ColoBk    251
@@ -3464,7 +3465,7 @@ When Lights Are Low                    RealBk2    392
 When My Sugar Walks Down The Street   JazzFake    421
 When Sunny Gets Blue                   RealBk1    462
 When The Sun Comes Out                 RealBk3    339
-When You Meet Here                     JazzLTD    376
+When You Meet Her                      JazzLTD    376
 When Your Lover Has Gone              JazzFake    424
 When Your Lover Has Gone               RealBk3    340
 Whenever Your Heart Want's To Sing    NewReal2    415
@@ -3545,7 +3546,7 @@ Wrap Your Troubles In Dreams              RealBk3    348
 Wrong Is Right                            RealBk2    398
 Wrong Together                           ColoBk    272
 Xlento                                    JazzLTD    384
-X-Stream                                  JazzLTD     31
+'X' Stream                                JazzLTD     31
 Yama                                      JazzLTD    389
 Yana Amina                                RealBk2    400
 Yardbird Suite                           ColoBk    273
@@ -3566,7 +3567,7 @@ Yesterdays                               NewReal1    409
 Yesterdays                                RealBk1    473
 Yet Ne'er Broken                          EvansBk     98
 Yo Yo                                     Library    144
-You & The Night & The Music               RealBk3    349
+You And The Night And The Music           RealBk3    349
 You And I And George                     ColoBk    274
 You Are So Beautiful                     NewReal3    420
 You Are The Sunshine Of My Life           RealBk1    474
