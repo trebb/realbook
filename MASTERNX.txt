@@ -479,7 +479,7 @@ Cantaloupe Island                   JazzLTD     62
 Canyon Song                        RealBk1     72
 Cape Verdean Blues (The)          JazzFake     78
 Capim                             NewReal2     39
-Captain Ahab                       Library    158
+Captain                            Library    158
 Captain Marvel                     RealBk1     70
 Caravan                           ColoBk     48
 Caravan                           NewReal3     73
@@ -763,6 +763,7 @@ Dolphin (The)                             RealBk1    121
 Domingo                                   RealBk2     76
 Domino Biscuit                            RealBk1    123
 Donna Lee                                JazzFake    103
+Donna                                     Library     34
 Donna Lee                                 Library     34
 Donna Lee                                 RealBk1    124
 Don't Argue                               Library    167
@@ -1190,7 +1191,8 @@ Hallelujah, I Love Her So              JazzFake    141
 Hallucinations                        Library     53
 Hallucinations                       NewReal1    131
 Hallucinations                        RealBk2     32
-Hankerin                              Library    175
+Hamp's Blues                          Library     59
+Hankerin'                             Library    175
 Happiness Is A Thing Called Joe       JazzLTD    151
 Happy Go Lucky Local                  ColoBk     83
 Happy Little Sunbeam                  Library     52
@@ -1214,6 +1216,7 @@ Havona                                RealBk2    134
 Hayseed                      JazzLTD    153
 Hayseed                      Library    177
 Head And Shoulders           RealBk2    137
+Headline                     Library     55
 Heartsong                    RealBk3    106
 Heat Wave                   NewReal3    141
 Heaven                       RealBk1    187
@@ -1549,7 +1552,7 @@ Jam For Your Bread                Library    183
 Jammin' At The Jazzworks         ColoBk    112
 A Japanese Waltz                  RealBk3    155
 Jasmin                            Library     64
-Jazzbo's Haunt                    Library     65
+Jazzbo's Jaunt                    Library     65
 Jazz-Me Blues (The)              JazzFake    195
 Je Ne Sais Pas                    Library     65
 Je Ne Sais Pas                    RealBk2    182
@@ -1697,6 +1700,7 @@ Laurie                            NewReal1    182
 Lazy Afternoon                    JazzFake    212
 Lazy Afternoon                     RealBk3    167
 Lazy Bird                          RealBk1    259
+Leap Here                          Library    68
 Leap Of Faith                      RealBk3    168
 Lee                                Library     75
 Lee's Dance                               JazzFake    217
@@ -3273,7 +3277,7 @@ Triste                      ColoBk    251
 Triste                      NewReal1    370
 Triste                       RealBk1    436
 Tristeza (Goodbye Sadness)  NewReal2    386
-Trumpet. Blues               Library    128
+Trumpet Blues                Library    128
 Truth                       NewReal2    387
 Tune 88                      RealBk3    326
 Tune Up                     JazzFake    403
