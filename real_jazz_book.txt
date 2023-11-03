@@ -43,7 +43,7 @@
 47   Black and Tan Fantasy
 48   Black Coffee
 50   Black Market
-49   Black Orpheus
+49   (Black) Orpheus
 51   Blackberry Winter
 52   Blame It on My Youth
 45   A Blossom Fell
@@ -215,7 +215,7 @@
 80   Chasin' the Trane
 81   A Child Is Born
 79   Christina
-82   Chromazone
+82   Chromozone
 81   Cocktails for Two
 83   Come Back to Me
 84   Con Alma
@@ -281,7 +281,7 @@
 234   Laura
 211   Laurie
 198   Lazy
-214   Lazy River
+214   (Up a) Lazy River
 215   Lemon Drop
 201   Let's Face the Music and Dance
 199   Let's Get Lost
@@ -358,7 +358,7 @@
 91   Darling, Je Vous Aime Beaucoup
 96   Dat Dere
 90   The Dawn of Time
-226   Days of Wine and Roses
+226   (The Days of) Wine and Roses
 93   Deceptacon
 100   Detour Ahead
 100   Diminushing
@@ -439,7 +439,7 @@
 219   Mission: Impossible Theme
 231   Moment's Notice
 222   Mona Lisa
-240   The Mooch
+240   The Mooche
 225   Mood Indigo
 244   Moon Over Miami
 241   Moon River

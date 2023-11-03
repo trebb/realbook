@@ -32,7 +32,7 @@ Black Coffee
 Black Diamond
 Black Narcissus
 Black Nile
-Black Orpheus
+(Black) Orpheus
 Blue Bossa
 Blue In Green
 Blue Monk
@@ -205,7 +205,7 @@ Lady Sings The Blues
 Lament
 Las Vegas Tango
 Lazy Bird
-Lazy River
+(up a) Lazy River
 Like Someone In Love
 Limehouse Blues
 Lines And Spaces

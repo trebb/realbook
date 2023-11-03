@@ -281,7 +281,7 @@ Black Narcissus             NewReal1     21
 Black Narcissus              RealBk1     47
 Black Nile                  NewReal3     46
 Black Nile                   RealBk1     48
-Black Orpheus                RealBk1     49
+(Black) Orpheus              RealBk1     49
 Black                        JazzLTD     32
 Blame It On My Youth        NewReal1     22
 Blessed Relief               RealBk1     50
@@ -555,10 +555,10 @@ Children's Song                     RealBk1     80
 Chippie                             RealBk1     85
 Choices                            NewReal2     49
 Choo Choo Ch' Boogie               JazzFake     84
-Christmas Song                    JazzFake     85
-Christmas Song                     ColoBk    279
+The Christmas Song                 JazzFake     85
+The Christmas Song                   ColoBk    279
 Chromatic Tune                      EvansBk     11
-Chromazone                         NewReal2     51
+Chromozone                         NewReal2     51
 Chronic Blues                       JazzLTD     60
 Chuckles                            Library    159
 C.T.A.                              JazzLTD     72
@@ -683,8 +683,8 @@ A Day In The Life Of A Fool (Manha De Carnaval)   JazzFake     94
 A Day In Vienna                  RealBk2     71
 Day Waves                        RealBk1    106
 Days And Nights Waiting          RealBk1    104
-Days Of Wine And Roses          ColoBk     59
-Days Of Wine And Roses           RealBk1    105
+(The Days Of) Wine And Roses          ColoBk     59
+(The Days Of) Wine And Roses         RealBk1    105
 De Pois De Amor O vazio              RealBk1    110
 Dear Lord                           NewReal2     61
 Dear Old Stockholm                   JazzLTD     78

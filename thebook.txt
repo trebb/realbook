@@ -1,10 +1,10 @@
 adiós muchachos
 after the lovin'
-ah, marie
+ah, mari
 ain't she sweet
 al di la
 alexander's ragtime band
-allay cat
+allay cat song
 allez vous en
 all my loving
 all of me
@@ -12,8 +12,8 @@ all of you
 all the things you are
 almost like being in love
 always
-always true to my fashion
-america patrol
+always true to you in my fashion
+american patrol
 and i love her
 and the angels sing
 anniversary song
@@ -37,7 +37,7 @@ back home in indiana
 bashana
 basic rhythm for bossa nova
 basic rhythm for calypso
-basic rhythm for cha cha
+basic rhythm for cha-cha
 basic rhythm for hora
 basic rhythm for mambo
 basic rhythm for merengue
@@ -62,7 +62,7 @@ bye bye blackbird
 cabaret
 ca, c'est l'amour
 can't smile without you
-caroline in the morning
+carolina in the morning
 celebration
 c'est magnifique
 charleston
@@ -70,7 +70,7 @@ chattanooga choo choo
 cheek to cheek
 cherokee
 chicago
-ciao, ciao bambino
+ciao, ciao, bambina
 ciribiribin
 clarinet polka
 climb ev'ry mountain
@@ -90,12 +90,13 @@ dancing on the ceiling
 danny boy
 das ganze haus ist schief
 daughter of rosie o'grady
-day tripper deja vu
-dericho viejo
+day tripper
+deja vu
+derecho viejo
 desifinado
 deutschmeister regiments-marsch
 dixie
-do di li
+do-di-li
 domino polka
 do re mi
 do you know what it means to miss new orleans
@@ -176,7 +177,7 @@ I love paris
 I made it thru the rain
 in a mellow tone
 in a sentimental mood
-i need your help
+i need your help, barry manilow
 in münchen steht ein hofbräu haus
 in the mood
 in the navy
@@ -220,7 +221,7 @@ la mer
 la napoletana
 la spagnola
 la vie en rose (Take Me To Your Heart Again)
-lesson in cha cha
+lesson in cha-cha
 lichtenstein polka
 linda
 little brown gal
@@ -250,7 +251,7 @@ man with a horn
 margie
 matchmaker
 matilda
-mayim mayim
+mayim-mayim
 meditation
 wedding march
 michelle
@@ -290,12 +291,13 @@ oh, what a beautiful mornin'
 okie from muskogee
 oklahoma
 on a clear day
-one in a million
+one
+one in a million you
 one note samba
 one of those songs
 on the road again
 on the street where you live
-orpheus
+(black) orpheus
 o sole mio
 party's over, the
 peg o' my heart
@@ -303,7 +305,7 @@ pennsylvania polka
 pennsylvania 6-5000
 people will say we're in love
 pigalle
-poko pelo
+poco pelo
 the poor people of paris
 prelude to a kiss
 put on a happy face
@@ -359,7 +361,7 @@ steady-steady
 stella by starlight
 still
 stompin' at the savoy
-st. patrick's day jig
+st. patrick's day
 a string of pearls
 suicide is painless
 sunny
@@ -376,10 +378,12 @@ taking a chance on love
 tales from vienna woods
 ta matia
 tangerine
-trantella
+thou swell
+tarantella
 tenderly
 tennessee waltz
 that old feeling
+tie a yellow ribbon
 arthur theme
 ice castles theme
 m.a.s.h theme
@@ -391,15 +395,16 @@ they're playing my song
 they say that falling in love is wonderful
 this love of mine
 this one's for you
+till there was you
 tomorrow
 too close for comfort
 too fat polka
 to life
-too-ra-loo-ra-loo-ra
+too-ra-loo-ra-loo-ral
 toot, toot, tootsie!
-torno a: surriento
+torno a surriento
 tra veglia e sonno
-trink, trink, bruederlein, trink
+trink, trink, brüderlein, trink
 tropical
 try to remember
 tuxedo junction
@@ -407,7 +412,7 @@ twelfth street rag
 tzena tzena
 under paris skies
 universal
-up the lazy river
+(up a) lazy river
 ur'e vonim
 uska dara
 vasilon
@@ -427,18 +432,20 @@ what a diff'rence a day made
 what are you doing the rest of your life?
 what I did for love
 what's new?
+what is this thing called love?
 when I fall in love
 when irish eyes are smiling
 when sunny gets blue
 when the saints go marching in
 why do I love you?
 willkommen
-wine and roses
+(the days of) wine and roses
 witchcraft
 wo die nordseewellen
 wunderbar
 yankee doodle dandy
 yellow days
+yellow bird
 yesterday
 Y.M.C.A
 you are the sunshine of my life
@@ -449,5 +456,5 @@ you made me love you
 you stepped out of a dream
 you're never fully dressed without a smile
 you're nobody 'til somebody loves you
-you'r the top
+you're the top
 zing! went the strings of my heart
