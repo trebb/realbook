@@ -2,7 +2,7 @@
 2) Alivio
 3) Alma con alma
 4) Almendra
-5) Andalucia
+5) Andalucía
 6) Aquella tarde
 7) arroyo que murmura, El
 9) Bayamesa, La
@@ -43,12 +43,12 @@
 82) Yours (Quiereme mucho)
 83) Quiereme y verás
 84) Quiero hablar contigo
-85) Realidad y fantasia
+85) Realidad y fantasía
 86) Refugiate en mi
 87) Samba for Carmen
 88) Santa Isabel de las Lajas
-89) Se fue
-90) Si me comprendieras
+89) Se fué
+90) Sí me comprendieras
 91) Si te contara
 92) Siboney
 93) Siempre está en mi corazón
@@ -65,14 +65,14 @@
 104) Tres lindas cubanas
 105) Trigueñita
 106) Tristezas
-107) Tu me acostumbrastes
+107) Tu me acostumbraste
 108) Tu, mi delirio
 109) Tú
 110) Tu, mi desengaño
 111) última noche, La
 112) Una rosa de Francia
 113) Y con tus palabras
-114) Y decidete
+114) Y decidete, mi amor
 115) Y hoy como ayer
 39) Frutas del Caney
 40) gloria eres tú, La
@@ -88,14 +88,14 @@
 50) Longina
 51) Mambo influenciado
 52) Mambo Inn
-53) Maria la O
+53) (Romanza de) María la O
 54) Marta
-55) Maria Cristina
+55) María Cristina
 56) Martí
 57) Me faltabas tú
 58) Me recordarás
 59) Mi ayer
-60) Mi Habana cuando te vuelva a ver
+60) Mi Habana, cuando te vuelva a ver
 61) (M & A) Mujer ardiente
 62) mora, La
 63) mujer de Antonio, La
@@ -112,9 +112,9 @@
 73) Ogguere
 74) Oh vida
 75) Olvido
-76) Página en bianco
+76) Página en blanco
 116) Y tú qué has hecho
-117) Yo no quiero piedraen mi camino
+117) Yo no quiero piedra en mi camino
 118) La Guitarra
 119) Amor esperame
 120) Sin un reproche
