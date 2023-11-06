@@ -234,8 +234,8 @@ The Best Thing For You                RealBk3     25
 Best Things In Life Are Free (The)   JazzFake     57
 Better Git It In Your Soul            RealBk2     22
 Better Git It In Your Soul            RealBk3     26
-Bewitched                            JazzFake     58
-Bewitched                             RealBk1     43
+Bewitched (Bewitched, Bothered And Bewildered) JazzFake     58
+Bewitched (Bewitched, Bothered And Bewildered)  RealBk1     43
 Beyond All Limits                     RealBk2     23
 Beyond The Bluebird                   RealBk3     27
 A Bid For Sid                         JazzLTD      1
@@ -291,7 +291,7 @@ Bloomdido                   JazzFake     62
 Bloomdido                    Library     10
 Bloomdido                    RealBk2     29
 Blue Tuesday                NewReal3     54
-Blue A La Mode               RealBk2     32
+Blues à La Mode              RealBk2     32
 Blue And Sentimental        JazzFake     63
 Blue And Sentimental         RealBk2     30
 Blue Bossa                  ColoBk     36
@@ -353,7 +353,7 @@ Blues Minor                  ColoBk    278
 Blues On The Corner          NewReal1     28
 Blues Peru                    JazzLTD     38
 Blues The Most                Library    153
-Blues Walk                   ColoBk     39
+The Blues Walk                 ColoBk     39
 Bluesette                    JazzFake     68
 Bluesette                     RealBk1     56
 Boardwalk                     Library    154
@@ -1582,7 +1582,7 @@ Jive At Five                      Library     67
 Jive Samba                        RealBk3    157
 Joanna                            JazzLTD    177
 Jodo                              JazzLTD    180
-Jody Grind                        RealBk2    183
+The Jody Grind                    RealBk2    183
 Joe Maini                         JazzLTD    177
 Johnny One-Note                  JazzFake    200
 Johnny's Theme                   JazzFake    201
@@ -1924,7 +1924,7 @@ Mean To Me                  ColoBk    132
 Mean To Me                  JazzFake    244
 Mean To Me                   JazzLTD    227
 Mean To Me                  NewReal2    201
-Meaning Of The Blues         RealBk3    192
+The Meaning Of The Blues     RealBk3    192
 Meditation                  JazzFake    244
 Meditation                   RealBk1    288
 Meditation                   ColoBk    133
