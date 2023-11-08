@@ -62,7 +62,7 @@ Alone Too Long
 Alright, Okay, You Win
 Bubbles In The Wine
 All The Way Home
-Alley Cat Song
+Alley Cat
 Alma Mater
 Almost
 Almost In Your Arms
@@ -173,9 +173,10 @@ Dr. Freud
 Drat! The Cat! Samba
 Dream Lover
 Duelin' Banjo
-Tomorrow Morning
-Street
-To Love
+Easy Lovin'
+Each Tomorrow Morning
+Easy Street
+Easy To Love
 Elegance
 End Game
 Ending With A Kiss
@@ -206,7 +207,7 @@ Fancy Forgetting
 Fancy Free
 F.D.R. Jones
 A Fellow Needs A Girl
-Feudin' And Fightin'?
+Feudin' And Fightin'
 The Fickle Finger Of Fate
 Fifi
 Flash, Bang, Wallop!
@@ -215,7 +216,7 @@ A Foggy Day
 Follow Me
 For Every Man There's A Woman
 For Whom The Bell Tolls
-For You, For Me For Evermore
+For You, For Me, For Evermore
 The Shocking Miss Pilgrim
 Forever My Love
 Freddy, My Love
@@ -225,7 +226,7 @@ From This Moment On
 A Full Moon And An Empty Heart
 Funny Girl
 The Funny Old Hills
-Gable
+Gabie
 A Game Of Poker
 Garbage
 The Gay Continental
@@ -264,11 +265,11 @@ I Can See It
 Goodbye, Columbus
 Goose Never Be A Peacock
 I Can't Be Bothered Now
-I Can't Say No
+I Cain't Say No
 Got A Date With An Angel
 I Concentrate On You
 Gotta Have Me Go With You
-I Coutld Go On Singing
+I Could Go On Singing
 Gotta Get Me Somebody To Love
 Greased Lightnin'
 The Greatest Show On Earth
@@ -284,7 +285,7 @@ I Could Write A Book
 I Didn't Know What Time It Was
 I Don't Care If The Sun Don't Shine
 I Don't Need Anything But You
-I Don't Think Pit End It All Today
+I Don't Think I'll End It All Today
 I Don't Want To Know
 I Don't Want To Walk Without You
 I Enjoy Being A Girl
@@ -321,7 +322,7 @@ Help Yourself
 Here's To Love
 I Love You
 I Loved You Once In Silence
-Hey Look Me Over
+Hey, Look Me Over
 Hey, Love
 Hey There Lonely Girl
 Hic, Haec, Hoc
@@ -392,7 +393,7 @@ If This isn't Love
 I'll Always Love You
 Judith
 Jump De Broom
-Jumpin The Line
+Jump in The Line
 I'll Walk Alone
 I'm All Bound 'Round With The Mason Dixon Line
 June Comes Around Every Year
@@ -400,8 +401,8 @@ June In January
 I'm All Smiles
 Alone Because I Love You
 Flying
-Glad I'm Not Young Anymore
-Gonna Wash That Man Right Out Of My Hair
+I'm Glad I'm Not Young Anymore
+I'm Gonna Wash That Man Right Outa My Hair
 Jungle Love
 Just A Moment More
 Just Another Rhumba
@@ -466,18 +467,20 @@ I've Got You Under My Skin
 I've Got Your Number
 I've Gotta Crow
 I've Grown Accustomed To Her Face
+Knock On Wood
 The Lady From L.A.
 The Lady Is A Tramp
 Lady Of Spain
 The Lady's In Love With You
 Laugh! Clown! Laugh!
-Le Grand Boom Boom Little Me
+Le Grand Boom Boom
 Learn To Croon
 Let A Smile Be Your Umbrella
 Let It Snow! Let it Snow! Let It Snow!
 Let Me Be A People
 Let Me Entertain You
 Let The Good Times Roll
+Let's be buddies
 Let's Call The Whole Thing Off
 Let's Get Lost
 Let's Go
@@ -492,6 +495,8 @@ A Life Without Her
 Life's A Game
 Like A Rosebud
 Linda
+Little Biscuit
+Little Donkey
 Little Drops Of Rain
 Marmalade, Molasses And Honey
 Little Girls
@@ -586,7 +591,7 @@ Lovely Debutante
 Lovely Is She
 My Own Space
 My Pa
-Love Story
+Where do I begin (Love Story)
 Moll Flanders
 Lover
 Love's Been Good To Me
@@ -634,6 +639,7 @@ The Night They Invented Champagne
 No Other Love
 No Strings
 Nobody Told Me
+N.Y.C.
 The Rain In Spain
 Rainbow Valley
 The Rainmaker
@@ -777,6 +783,7 @@ Spring Is A New Beginning
 The Spring Of The Next Year
 St. Bridget
 Starting Over
+Stay
 Stay As Sweet As You Are
 Stella By Starlight
 The Story Of My Life
@@ -814,7 +821,7 @@ There Is Nothin' Like A Dame
 There! I've Said It Again
 Think Beautiful
 Think Spring
-The 3rd Man Theme
+The third Man Theme
 This Can't Be Love
 There Are Worse Things I Could Do
 Summer Nights
@@ -859,6 +866,7 @@ That's Amore
 That's Entertainment
 That's Good - That's Bad
 That's How Young I Feel
+Till
 To Be A Performer
 To Be Alone With You
 To Each His Own
@@ -903,7 +911,7 @@ Waitin'
 Walkin' My Baby Back Home
 Waltz For A Mermaid (Wishes And Teardrops)
 The Daydreamer
-Wand'rin Star
+Wand'rin' Star
 War And Peace
 Warm And Tender
 Warm As Wine
@@ -969,7 +977,7 @@ When I Take My Sugar To Tea
 When I'm Not Near The Girl I Love
 When Mabel Comes in The Room
 When Someone Wonderful Thinks You're Wonderful
-When The Partyls Over sds,
+When The Party Is Over
 Where Is The Tribe For Me?
 Where Love Has Gone
 Where, Oh Where
@@ -981,7 +989,7 @@ Whisper Not
 Whispers In The Dark
 Who Can Tell
 Who Wants To Work?
-Why Ami Me?
+Why Am I Me?
 Why Can't You Behave?
 Why Did I Choose You?
 Why Is The Desert
@@ -1006,6 +1014,7 @@ You Took The Words Right Out Of My Heart
 You Won't Be An Orphan For Long
 You'd Be So Nice To Come Home To
 Younger Than Springtime
+You're Wonderful
 Your Bulldog Drinks Champagne
 Your Good Morning
 Your Hand In Mine
@@ -1021,5 +1030,7 @@ You're Sensational
 You're So Good To Me
 You're The Cream In My Coffee
 You're The Only One
+You've come home
+You've got to be carefully taught
 Zing A Little Zong!
 Zip
