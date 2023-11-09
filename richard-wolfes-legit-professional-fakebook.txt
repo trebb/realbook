@@ -39,7 +39,7 @@ And I love you so
 Andante cantabile from 'Symphony no. 5' (Tchaikovsky)
 Angela
 Angels from heaven
-Angels from the realm of glory
+Angels from the realms of glory
 Angels we have heard on high
 Angel's tears
 Anitra's dance from 'Peer gynt' (Grieg)
@@ -66,7 +66,7 @@ Baby face
 Baby, I love your way
 Back in the saddle again
 Bad to me
-The ballad of Gillian's island
+The ballad of Gilligan's isle
 The band played on
 Banks of the Ohio
 Barbary Allen
@@ -108,7 +108,7 @@ Bouree (Bach)
 The bow of love
 The bowery
 boy next door
-Brahms' Lullaby
+Brahms's Lullaby
 Bridal march from 'Lohengrin' (Wagner)
 The bridge at Remagen (main theme)
 Brigadoon
@@ -143,7 +143,7 @@ A certain smile
 Charmaine
 Chattanooga choo choo
 The cherry tree carol
-Chery's going home
+Cheryl's going home
 Chisholm trail
 Chitty chitty bang bang
 Christmas
@@ -158,17 +158,17 @@ Clementine
 Columbia, the gem of the ocean
 Come back to Sorrento
 Come follow
-Come to me- bend to me
+Come to me - bend to me
 Come to the sea
 Common bill
 Consolation (Mendelssohn)
 Corner of the sky
 Coquette
 The Coventry carol
-Dames at the sea
-Dance mamma, dance papa, dance
+Dames at sea
+Dance mamma, dance pappa, dance
 Dance of the slave maidens (borodin)
-Dance of the sugar plum fairy from 'The nutcracker suite' (Tchaikovsky)
+Dance of the sugar-plum fairy from 'The nutcracker suite' (Tchaikovsky)
 Dark eyes
 The darktown strutters' ball
 The daughter of Peggy O'Neil
@@ -186,7 +186,7 @@ Dinah
 Did I remember?
 Did you see her eyes
 Ding-dong! The witch is dead
-Dixieland
+Dixie land
 Do I love you
 Do my Johnny Booker
 Do nothin' till you hear from me
@@ -229,7 +229,7 @@ Estudiantina (Waldteufel)
 Evening star (Wagner)
 Ev'ry day of my life
 Everything I have is yours
-Everthin's great!
+Everthing's great!
 Everytime two fools collide
 Expectation waltz
 Fair ellender
@@ -272,8 +272,7 @@ Für elise (Beethoven)
 Galway bay
 Gambler's blues
 The gang that sang 'heart of my heart'
-Gavotte I (Bach)
-Gavotte II (Bach)
+Gavotte (Bach)
 gentle rain
 George Collins
 Get happy
@@ -298,7 +297,7 @@ Goober peas
 Good-bye Broadway, hello France!
 Goodbye, Columbus
 Good friends
-Good grove
+Good groove
 Good king Wenceslas
 Good morning, Mr. Zip-zip-zip!
 Good morning starshine
@@ -310,7 +309,7 @@ Goodbye, little Bonnie, goodbye
 Goodnight, Irene
 Goofus
 Graduation day
-The grass keeps right on growing
+The grass keeps right on growin'
 Gray goose
 Great day
 The great escape march
@@ -323,8 +322,8 @@ Greensleeves
 Guilty
 Gypsy baron waltz (Strauss)
 Gypsy love song
-Gypsy rondo (Haydin)
-Habanera (from 'Carmen' (Bizet))
+Gypsy rondo (Haydn)
+Habanera (from 'Carmen')
 Hail, Hail, The gang's all here
 Hail to the chief
 Hair
@@ -338,7 +337,7 @@ The hard way
 Hark! The herald angels sing
 Hatikvah
 Hava nagila
-Have you ever been so lonely?
+Have you ever been lonely? (Have you ever been blue?)
 Have yourself a merry little Christmas
 Hawaii
 Hawaiian war chant
@@ -350,7 +349,7 @@ Heaven's just a sin away
 Hello! Ma baby
 Here comes Santa Claus
 Here comes the reason I live
-Her we come a-caroling
+Here we come a-caroling
 Hey! Baby!
 Hey, good lookin'
 Hey landlord
@@ -362,7 +361,7 @@ Hobo's lullaby
 Hold me
 Hold me, thrill me, kiss me
 A holly jolly Christmas
-The holly child
+The holy child
 Holy, holy, holy
 Home on the range
 Home sweet home
@@ -372,7 +371,7 @@ A hot time in the old town tonight
 House of blue lights
 The house of the rising sun
 How about you?
-How are thy servants, blest, o Lord
+How are thy servants blest, o Lord
 How can I leave thee?
 How come you do me like you do
 How great thou art
@@ -444,7 +443,7 @@ I'm looking over a four leaf clover
 I'm nobody's baby
 I'm sitting on top of the world
 I'm sorry I made you cry
-I'm thru with love
+I'm through with love
 I'm walkin'
 I've got a feelin' you're foolin'
 I've got the world on a string
@@ -461,18 +460,18 @@ In the garden
 In the gloaming
 In the good old summertime
 In the middle of a kiss
-In the saddle of the old apple tree
+In the shade of the old apple tree
 In the sweet by and by
 Inspector clouseau theme
 Invitation to the dance (Von Weber)
 Ireland must be heaven
 Irene
-Irma la douce theme
+look again (Irma la douce theme)
 It came upon a midnight clear
 It could happen to you
 It don't mean a thing (if it ain't got that swing)
 It happened in Monterey
-It takes a great big Irish heart to sing a great big Irish song
+It takes a great big Irish heart to sing an Irish song
 It might as well be me
 It's a beautiful day for a ball game
 It's a great day for the Irish
@@ -507,7 +506,7 @@ Kentucky bootlegger
 Kiss an angel good mornin'
 A kiss to build a dream on
 Kum ba ya
-La compasita
+La cumparsita
 La Donna e mobile (Verdi)
 La golondrina
 La marseillaise
@@ -526,7 +525,7 @@ Let the four winds blow
 Let the sunshine in
 The liberty song
 Liebestraum (Lizst)
-Light cavalry overture (Von Suppe)
+Light cavalry overture (Von Suppé)
 Li'l Liza Jane
 Lilies of the field theme
 Linda mujer
@@ -599,7 +598,7 @@ Mockingbird
 Molly Malone (cockles and mussels)
 Molly-o!
 Moment musical (Schubert)
-Moon indigo
+Mood indigo
 Moonglow
 Moonlight serenade
 More than you know
@@ -614,7 +613,7 @@ My Bonnie
 My Cherie amour
 My faith looks up to thee
 My gal sal
-My heart at thy sweet voice from 'Samson and Delilah' (Saint-Saens)
+My heart at thy sweet voice (from 'Samson and Delilah')
 My little grass shack
 My little red book
 My love loves me
@@ -635,7 +634,7 @@ Nelly Bly
 Never ending song of love
 Never on Sunday
 New river train
-The night before Christmas
+'Twas The night before Christmas
 Nine hundred miles
 No name samba
 No! no! a thousand times no!
@@ -658,10 +657,13 @@ O holy night
 O little town of Bethlehem
 O sole mio
 O waly, waly
-Oh bury me not on the lone prarie
+O worship the king
+Oh bury me not on the lone prairie
+Oh Calcutta
 Oh dear! what can the matter be?
 Oh happy day
 Oh how lovely is the evening
+Oh let us be glad today
 Oh Marie
 Oh, my little darling
 Oh! Susanna
@@ -724,7 +726,6 @@ Theme from 'piano concerto no. 2' (Rachmaninoff)
 Second theme from 'piano concerto no. 2' (Rachmaninoff)
 Theme from 'Piano concerto op. 54' (Schumann)
 Theme from 'Piano concerto in B flat minor' (Tchaikovsky)
-Theme from 'Piano concerto in B flat minor' (2nd movement) (Tchaikovsky)
 Pick a bale of cotton
 Please
 Please don't leave me
@@ -764,6 +765,7 @@ Roses are red (my love)
 'Round her neck she wears a yellow ribbon
 Row, row, row your boat
 Ruby
+Rum and Coca-Cola
 Runnin' wild
 Rudolph, the red-nosed reindeer
 Russian sailor's dance
@@ -774,6 +776,7 @@ Salut d'amour (Elgar)
 San Francisco
 Santa Claus is comin' to town
 Santa Lucia
+Say it (over and over again)
 Scarborough fair
 Scarlet ribbons
 School days
@@ -859,7 +862,7 @@ Swing low, sweet chariot
 Swingin' down the lane
 Swipsey
 Theme from 'symphony no. 6' (Tchaikovsky)
-Ta-ra-ra boom der-e
+Ta-ra-ra boom-der-e
 Take a chance on me
 Taking a chance on love
 Tales from the Vienna woods (Strauss)
@@ -894,7 +897,7 @@ Three coins in the fountain
 Three o'clock in the morning
 Thunder and blazes
 Thunderball
-The Tijuana jail
+The Tiajuana jail
 Tie a yellow ribbon
 Tiger rag (hold that tiger)
 Time on my hands
@@ -914,7 +917,7 @@ Town without pity
 Toyland
 Toys in the attic
 Tramp! Tramp! Tramp!
-Traumerei (Schumann)
+Träumerei (Schumann)
 Trepak from 'the nutcracker suite' (Tchaikovsky)
 Triumphal march from 'Aida' (Verdi)
 Try a little tenderness
@@ -985,7 +988,7 @@ Whisky johnnie
 Whispering
 Whispering hope
 Who can I turn to
-Who thru the overalls in mistress Murphy's chowder
+Who threw the overalls in mistress Murphy's chowder
 Who's sorry now
 The wild side of life
 The windmills of your mind

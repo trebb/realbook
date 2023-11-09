@@ -2042,11 +2042,11 @@ More I See You (The)           RealBk1    303
 More Than You Know           JazzFake    258
 More Than You Know           NewReal2    475
 More (Ti Guarderò Nel Cuore) JazzFake    258
-Morning                      NewReal1    219
+Mornin'                      NewReal1    219
 Morning Dance                 JazzLTD    234
 Morning Dance                NewReal1    221
 Morning Sprite               NewReal2    229
-Morning                      ColoBk    140
+Morning                        ColoBk    140
 Morning                       RealBk2    248
 Morpo                         JazzLTD    219
 Morpo                         Library     85
