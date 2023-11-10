@@ -119,9 +119,10 @@ for b in "${books[@]}"; do
     echo >> unique_pieces
 done
 
-today=`date +%F`
 total=`sed -e 's/\(^.*\)%%--%%.*%%--%%.*/\1/' tempfile0 | sort | uniq | wc -l`
-printf "%s\n\n%s items\n" $today $total > tail.tex
+today=`date +%F`
+author="github.com/trebb/realbook"
+printf "%s items\n\n%s\n\n%s" $total $today $author > tail.tex
 
 printf "\\\begin{tabular}{l@{~}l@{~~}l@{~}l@{~}l@{~}r@{~~}r@{~}r@{~~}l}\n" > legend.tex
 printf " --  & --------------------------------------------- & ----------- & ---- & ------------- & ~--- & \multicolumn{2}{@{}l@{~~}}{--------} & ------- \\\\\\ \n" >> legend.tex
