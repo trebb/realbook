@@ -10,12 +10,12 @@ books=(
     "eu C:ClRd  T:The European Real Book~......................  P:Sher Music    I:9781883217242  Y:2005  p:419  R:DR     F:the-european-real-book.txt"
     "ev C:ClGn  T:Bill Evans Fakebook~.........................  P:Hal Leonard   I:9780634023897  Y:1996  p:101  R:L      F:MASTERNX.txt:EvansBk"
     "fj C:ClGn  T:557 Jazz Standards - swing to bop~...........  P:anonymous     I:.............  Y:1970s p:432  R:       F:557-jazz-standards.txt"
-    "h1 C:ClRd  T:The Real Book vol I (sixth edition)~.........  P:Hal Leonard   I:9780634060380  Y:2004  p:453  R:       F:vol_h1_raw.txt"
-    "h2 C:ClRd  T:The Real Book vol II (second edition)~.......  P:Hal Leonard   I:9780634060212  Y:2005  p:429  R:       F:vol_h2_raw.txt"
-    "h3 C:ClRd  T:The Real Book vol III (second edition)~......  P:Hal Leonard   I:9780634061363  Y:2006  p:455  R:       F:vol_h3_raw.txt"
-    "h4 C:ClRd  T:The Real Book vol IV~........................  P:Hal Leonard   I:9781423425427  Y:2011  p:501  R:       F:vol_h4_raw.txt"
-    "h5 C:ClRd  T:The Real Book vol V~.........................  P:Hal Leonard   I:9781423488484  Y:2013  p:494  R:       F:vol_h5_raw.txt"
-    "h6 C:ClRd  T:The Real Book vol VI~........................  P:Hal Leonard   I:9781458440655  Y:2016  p:479  R:       F:vol_h6_raw.txt"
+    "h1 C:ClRd  T:The Real Book vol I (sixth edition)~.........  P:Hal Leonard   I:9780634060380  Y:2004  p:453  R:       F:hl_realbook_vol1.txt"
+    "h2 C:ClRd  T:The Real Book vol II (second edition)~.......  P:Hal Leonard   I:9780634060212  Y:2005  p:429  R:       F:hl_realbook_vol2.txt"
+    "h3 C:ClRd  T:The Real Book vol III (second edition)~......  P:Hal Leonard   I:9780634061363  Y:2006  p:455  R:       F:hl_realbook_vol3.txt"
+    "h4 C:ClRd  T:The Real Book vol IV~........................  P:Hal Leonard   I:9781423425427  Y:2011  p:501  R:       F:hl_realbook_vol4.txt"
+    "h5 C:ClRd  T:The Real Book vol V~.........................  P:Hal Leonard   I:9781423488484  Y:2013  p:494  R:       F:hl_realbook_vol5.txt"
+    "h6 C:ClRd  T:The Real Book vol VI~........................  P:Hal Leonard   I:9781458440655  Y:2016  p:479  R:       F:hl_realbook_vol6.txt"
     "jf C:ClGn  T:Jazz Fakebook~...............................  P:anonymous     I:.............  Y:....  p:417  R:L      F:MASTERNX.txt:JazzFake"
     "jj C:ClBn  T:Just Jazz Real Book~.........................  P:Hal Leonard   I:9780757901683  Y:2001  p:400  R:L      F:just-jazz-real-book.txt"
     "jl C:ClGn  T:Jazz LTD/Over 500 tunes the real books missed  P:anonymous     I:.............  Y:1970s p:393  R:       F:MASTERNX.txt:JazzLTD"
@@ -33,7 +33,7 @@ books=(
     "s1 C:ClBn  T:Jazz Club Piano Solos 1~.....................  P:Music Sales   I:9780711937666  Y:1993  p:48   R:       F:jazz-club-piano-solos-vol1.txt"
     "s2 C:ClBn  T:Jazz Club Piano Solos 2~.....................  P:Music Sales   I:9780711941212  Y:1994  p:48   R:       F:jazz-club-piano-solos-vol2.txt"
     "s3 C:ClGn  T:Jazz Club Piano Solos 3~.....................  P:Wise          I:9780711941229  Y:1994  p:46   R:       F:jazz-club-piano-solos-vol3.txt"
-    "st C:ClRd  T:The Standards Real Book~.....................  P:Sher Music    I:9781883217099  Y:2000  p:565  R:DR,L   F:vol_st_raw.txt"
+    "st C:ClRd  T:The Standards Real Book~.....................  P:Sher Music    I:9781883217099  Y:2000  p:565  R:DR,L   F:the_standards_real_book.txt"
     "u1 C:ClGn  T:The Real Book vol I (fifth edition)~.........  P:anonymous     I:.............  Y:1970s p:497  R:       F:MASTERNX.txt:RealBk1"
     "u2 C:ClGn  T:The Real Book vol II~........................  P:anonymous     I:.............  Y:....  p:414  R:       F:MASTERNX.txt:RealBk2"
     "u3 C:ClGn  T:The Real Book vol III~.......................  P:anonymous     I:.............  Y:....  p:360  R:       F:MASTERNX.txt:RealBk3"
@@ -78,9 +78,9 @@ cp the-ultimate-fake-book.txt vol_uf.txt
 cp richard-wolfes-legit-professional-fakebook.txt vol_rw.txt
 sed -Ee 's/[0-9]+\) //' cuban-fake-book-vol1.txt | sed -e 's/\(.*\), \(El\|La\)$/\2 \1/g' > vol_c1.txt
 cut -d ' ' -f 2- real_jazz_book.txt | awk '{$1=$1};1' > vol_rj.txt
-sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' vol_st_raw.txt > vol_st.txt
+sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' the_standards_real_book.txt > vol_st.txt
 for i in {1..6}; do
-    cp vol_h${i}_raw.txt vol_h$i.txt
+    cp hl_realbook_vol${i}.txt vol_h$i.txt
 done
 
 for b in "${books[@]}"; do
