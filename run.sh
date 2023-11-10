@@ -156,7 +156,7 @@ sed -e 's/&/\\&/g' -e 's/#/\\#/' tempfile0 | \
     sort | \
     awk -F '%%--%%'  'vol[$1]=vol[$1] ",\\allowbreak " $3 {print $1, "%%--%%" vol[$1]}' | \
     sort -r | \
-    awk -F '%%--%%,' '!seen[$1] {print "\\hangindent1em " $1 "\\nolinebreak\\dotfill\\nolinebreak\\rule{1mm}{0mm}" $2 "\\par"; seen[$1]=1} ' > tempfile
+    awk -F '%%--%%,' '!seen[$1] {print "\\hangindent1em " $1 "%%00000000000000000000%%\\nolinebreak\\dotfill\\nolinebreak\\rule{1mm}{0mm}" $2 "\\par"; seen[$1]=1} ' > tempfile
 
 ignorable_strings=(
     "(BACH)"
@@ -168,6 +168,7 @@ ignorable_strings=(
     "(CHOPIN)"
     "(DVORAK)"
     "(GRIEG)"
+    "(HAYDN)"
     "(LEHAR)"
     "(LOVE THEME)"
     "(MACDOWELL)"
@@ -189,6 +190,7 @@ c_expression=$(echo -n "s/${ignorable_strings[0]}"; for i in "${ignorable_string
 
 cat tempfile |\
     iconv -f utf8 -t ascii//TRANSLIT | \
+    sed -Ee 's/%%00000000000000000000%%//' | \
     sed -Ee 's/\\hangindent1em (.*) \\nolinebreak.*/\1/' -e 's/^THE |^A |^AN //' | \
     sed -Ee "$c_expression" | \
     sed -Ee 's/( \((.*)\))/\1\n\2/' -e 's/[[:punct:][:blank:]]//g' | \
@@ -199,7 +201,8 @@ for i in {A..Z}; do
 done
 
 sort tempfile |\
-    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\addcontentsline{toc}{section}{\1}\\markboth{\1}{\1}\\nopagebreak/' > allsongs.tex
+    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\addcontentsline{toc}{section}{\1}\\markboth{\1}{\1}\\nopagebreak/' | \
+    sed -Ee 's/%%00000000000000000000%%//' > allsongs.tex
 
 pdflatex realbookindex.tex
 pdflatex realbookindex.tex
