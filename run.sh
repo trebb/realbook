@@ -6,7 +6,7 @@ books=(
     "1  C:ClGn  T:The Real Book vol I (fifth edition)~.........  P:anonymous     I:.............  Y:1970s p:497  R:       F:MASTERNX.txt:RealBk1"
     "2  C:ClGn  T:The Real Book vol II~........................  P:anonymous     I:.............  Y:....  p:414  R:       F:MASTERNX.txt:RealBk2"
     "3  C:ClGn  T:The Real Book vol III~.......................  P:anonymous     I:.............  Y:....  p:360  R:       F:MASTERNX.txt:RealBk3"
-    "5  C:ClGn  T:557 Jazz Standards - swing to bop~...........  P:anonymous     I:.............  Y:1970s p:432  R:       F:557-jazz-standards.txt"
+    "7  C:ClGn  T:557 Jazz Standards - swing to bop~...........  P:anonymous     I:.............  Y:1970s p:444  R:       F:557-jazz-standards.txt"
     "a  C:ClRd  T:The All-Jazz Real Book~......................  P:Sher Music    I:9781883217143  Y:2001  p:540  R:DR,L   F:all-jazz-real-book.txt"
     "b  C:ClGn  T:The Book/Commercial~.........................  P:anonymous     I:.............  Y:....  p:502  R:       F:thebook.txt"
     "c  C:ClGn  T:The Colorado Cookbook~.......................  P:anonymous     I:.............  Y:....  p:280  R:       F:MASTERNX.txt:ColoBk"
@@ -69,7 +69,7 @@ cp just-standards-real-book.txt vol_js.txt
 sed -e 's/\(.*\), \(THE\|A\)$/\2 \1/g' just-jazz-real-book.txt > vol_z.txt
 cp real-jazz-standards-fake-book.txt vol_t.txt
 sed -e 's/\(.*\), \(The\|A\)$/\2 \1/g' ultimate-jazz-fake-book.txt > vol_v.txt
-sed -e 's/\(.*\), \(The\|A\)$/\2 \1/g' 557-jazz-standards.txt > vol_5.txt
+sed -e 's/\(.*\), \(The\|A\)$/\2 \1/g' 557-jazz-standards.txt > vol_7.txt
 cp the-european-real-book.txt vol_e.txt
 cp jazz-club-piano-solos-vol1.txt vol_s1.txt
 cp jazz-club-piano-solos-vol2.txt vol_s2.txt
