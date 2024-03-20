@@ -30,6 +30,7 @@ books=(
     "n2 C:ClVi  T:The New Real Book vol 2~.....................  P:Sher Music    I:9780961470173  Y:1991  p:484  R:L      F:MASTERNX.txt:NewReal2"
     "n3 C:ClVi  T:The New Real Book vol 3~.....................  P:Sher Music    I:9781883217310  Y:1995  p:448  R:DR,L   F:MASTERNX.txt:NewReal3"
     "o  C:ClGn  T:The Original, Legal, Musicians' Fake Book~...  P:Hansen House  I:9780849400018  Y:1979  p:642  R:L      F:original-legal-musician-fake-book.txt"
+    "p  C:ClRd  T:The Real Bebop Book~.........................  P:Hal Leonard   I:9781495052767  Y:2017  p:241  R:       F:real-bebop-book.txt"
     "r  C:ClVi  T:The Hal Leonard Real Jazz Book~..............  P:Hal Leonard   I:9780793562305  Y:1998  p:365  R:L      F:real_jazz_book.txt"
     "s  C:ClRd  T:The Standards Real Book~.....................  P:Sher Music    I:9781883217099  Y:2000  p:565  R:DR,L   F:the_standards_real_book.txt"
     "s1 C:ClBn  T:Jazz Club Piano Solos 1~.....................  P:Music Sales   I:9780711937666  Y:1993  p:48   R:       F:jazz-club-piano-solos-vol1.txt"
@@ -65,6 +66,7 @@ cp all-jazz-real-book.txt vol_a.txt
 cp the-latin-real-book.txt vol_lr.txt
 cp the-real-latin-book.txt vol_l.txt
 cp original-legal-musician-fake-book.txt vol_o.txt
+cp real-bebop-book.txt vol_p.txt
 cp just-standards-real-book.txt vol_js.txt
 sed -e 's/\(.*\), \(THE\|A\)$/\2 \1/g' just-jazz-real-book.txt > vol_z.txt
 cp real-jazz-standards-fake-book.txt vol_t.txt
