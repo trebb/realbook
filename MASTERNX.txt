@@ -3417,8 +3417,8 @@ Weaver Of Dreams (A)                      NewReal1    398
 Weaver Of Dreams (A)                        ColoBk    262
 Webb City                                 RealBk2    414
 Wee Dot                                  JazzFake    417
-Wee (Allen's Alley)                        JazzLTD    374
-Wee (Allen's Alley)                       NewReal3    408
+Wee                                       JazzLTD    374
+Allen's Alley (Wee)                       NewReal3    408
 Wee Dot                                   JazzLTD    377
 Wee Dot                                   Library    138
 Weekend Blues                             RealBk2    389

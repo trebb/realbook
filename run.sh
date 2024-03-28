@@ -214,4 +214,4 @@ echo "checking for duplications..."
 grep -v "^$" prunedstrings | uniq -w 40 -D
 sed -e 's/\(^.*\)%%--%%.*%%--%%.*}\(.*\)}/\1==\2/' tempfile0 | sort | uniq -D
 
-echo "(expected duplications: LETSFALLINLOVE LOVESTORY MYLOVE NOCTURNE OURLOVEAFFAIR PARISBLUES PROMISE SOLAMENTEUNAVEZ THEME VERACRUZ)"
+echo "(expected duplications: LETSFALLINLOVE LOVESTORY MYLOVE NOCTURNE OURLOVEAFFAIR PARISBLUES PROMISE SOLAMENTEUNAVEZ THEME VERACRUZ WEE)"
