@@ -3,17 +3,17 @@
 # Our COLORs: ClBn, ClGn, ClVi, ClRd
 books=(
     #KEY  COLOR   TITLE                                            PUBLISHER       ISBN             YEAR    PAGES  REMARKS  SOURCE FILE
-    "1  C:ClGn  T:The Real Book vol I (fifth edition)~.........  P:anonymous     I:.............  Y:1970s p:497  R:       F:MASTERNX.txt:RealBk1"
-    "2  C:ClGn  T:The Real Book vol II~........................  P:anonymous     I:.............  Y:....  p:414  R:       F:MASTERNX.txt:RealBk2"
-    "3  C:ClGn  T:The Real Book vol III~.......................  P:anonymous     I:.............  Y:....  p:360  R:       F:MASTERNX.txt:RealBk3"
+    "1  C:ClGn  T:The Real Book vol I (fifth edition)~.........  P:anonymous     I:.............  Y:1970s p:497  R:       F:unlicenced_realbook_vol1.txt"
+    "2  C:ClGn  T:The Real Book vol II~........................  P:anonymous     I:.............  Y:....  p:414  R:       F:unlicenced_realbook_vol2.txt"
+    "3  C:ClGn  T:The Real Book vol III~.......................  P:anonymous     I:.............  Y:....  p:360  R:       F:unlicenced_realbook_vol3.txt"
     "7  C:ClGn  T:557 Jazz Standards - swing to bop~...........  P:anonymous     I:.............  Y:1970s p:444  R:       F:557-jazz-standards.txt"
     "a  C:ClRd  T:The All-Jazz Real Book~......................  P:Sher Music    I:9781883217143  Y:2001  p:540  R:DR,L   F:all-jazz-real-book.txt"
     "b  C:ClGn  T:The Book/Commercial~.........................  P:anonymous     I:.............  Y:....  p:502  R:       F:thebook.txt"
-    "c  C:ClGn  T:The Colorado Cookbook~.......................  P:anonymous     I:.............  Y:....  p:280  R:       F:MASTERNX.txt:ColoBk"
+    "c  C:ClGn  T:The Colorado Cookbook~.......................  P:anonymous     I:.............  Y:....  p:280  R:       F:the-colorado-cookbook.txt"
     "c1 C:ClGn  T:Cuban Fake Book Vol. No 1~...................  P:anonymous     I:.............  Y:1980  p:187  R:L      F:cuban-fake-book-vol1.txt"
     "e  C:ClRd  T:The European Real Book~......................  P:Sher Music    I:9781883217242  Y:2005  p:419  R:DR     F:the-european-real-book.txt"
-    "ev C:ClGn  T:Bill Evans Fakebook~.........................  P:Hal Leonard   I:9780634023897  Y:1996  p:101  R:L      F:MASTERNX.txt:EvansBk"
-    "f  C:ClGn  T:Jazz Fakebook~...............................  P:anonymous     I:.............  Y:....  p:417  R:L      F:MASTERNX.txt:JazzFake"
+    "ev C:ClGn  T:Bill Evans Fakebook~.........................  P:Hal Leonard   I:9780634023897  Y:1996  p:101  R:L      F:bill-evans-fakebook.txt"
+    "f  C:ClGn  T:Jazz Fakebook~...............................  P:anonymous     I:.............  Y:....  p:417  R:L      F:jazz-fake-book.txt"
     "g  C:ClRd  T:The World's Greatest Fake Book~..............  P:Sher Music    I:9780961470111  Y:1983  p:483  R:DR,L   F:the_worlds_greatest_fakebook.txt"
     "h1 C:ClRd  T:The Real Book vol I (sixth edition)~.........  P:Hal Leonard   I:9780634060380  Y:2004  p:453  R:       F:hl_realbook_vol1.txt"
     "h2 C:ClRd  T:The Real Book vol II (second edition)~.......  P:Hal Leonard   I:9780634060212  Y:2005  p:429  R:       F:hl_realbook_vol2.txt"
@@ -21,14 +21,14 @@ books=(
     "h4 C:ClRd  T:The Real Book vol IV~........................  P:Hal Leonard   I:9781423425427  Y:2011  p:501  R:       F:hl_realbook_vol4.txt"
     "h5 C:ClRd  T:The Real Book vol V~.........................  P:Hal Leonard   I:9781423488484  Y:2013  p:494  R:       F:hl_realbook_vol5.txt"
     "h6 C:ClRd  T:The Real Book vol VI~........................  P:Hal Leonard   I:9781458440655  Y:2016  p:479  R:       F:hl_realbook_vol6.txt"
-    "j  C:ClGn  T:Jazz LTD/Over 500 tunes the real books missed  P:anonymous     I:.............  Y:1970s p:393  R:       F:MASTERNX.txt:JazzLTD"
+    "j  C:ClGn  T:Jazz LTD/Over 500 tunes the real books missed  P:anonymous     I:.............  Y:1970s p:393  R:       F:jazz-ltd.txt"
     "js C:ClBn  T:Just Standards Real Book~....................  P:Alfred Music  I:9780739039441  Y:2001  p:416  R:L      F:just-standards-real-book.txt"
     "l  C:ClRd  T:The Real Latin Book~.........................  P:Hal Leonard   I:9781423487630  Y:2014  p:596  R:       F:the-real-latin-book.txt"
     "lr C:ClVi  T:The Latin Real Book~.........................  P:Sher Music    I:9781883217051  Y:1999  p:568  R:DR,L   F:the-latin-real-book.txt"
-    "m  C:ClGn  T:Library Of Musicians' Jazz~..................  P:anonymous     I:.............  Y:1960s p:212  R:       F:MASTERNX.txt:Library"
-    "n1 C:ClVi  T:The New Real Book vol 1~.....................  P:Sher Music    I:9780961470142  Y:1988  p:438  R:L      F:MASTERNX.txt:NewReal1"
-    "n2 C:ClVi  T:The New Real Book vol 2~.....................  P:Sher Music    I:9780961470173  Y:1991  p:484  R:L      F:MASTERNX.txt:NewReal2"
-    "n3 C:ClVi  T:The New Real Book vol 3~.....................  P:Sher Music    I:9781883217310  Y:1995  p:448  R:DR,L   F:MASTERNX.txt:NewReal3"
+    "m  C:ClGn  T:Library Of Musicians' Jazz~..................  P:anonymous     I:.............  Y:1960s p:212  R:       F:library-of-musicians-jazz.txt"
+    "n1 C:ClVi  T:The New Real Book vol 1~.....................  P:Sher Music    I:9780961470142  Y:1988  p:438  R:L      F:the-new-realbook-vol1.txt"
+    "n2 C:ClVi  T:The New Real Book vol 2~.....................  P:Sher Music    I:9780961470173  Y:1991  p:484  R:L      F:the-new-realbook-vol2.txt"
+    "n3 C:ClVi  T:The New Real Book vol 3~.....................  P:Sher Music    I:9781883217310  Y:1995  p:448  R:DR,L   F:the-new-realbook-vol3.txt"
     "o  C:ClGn  T:The Original, Legal, Musicians' Fake Book~...  P:Hansen House  I:9780849400018  Y:1979  p:642  R:L      F:original-legal-musician-fake-book.txt"
     "p  C:ClRd  T:The Real Bebop Book~.........................  P:Hal Leonard   I:9781495052767  Y:2017  p:241  R:       F:real-bebop-book.txt"
     "r  C:ClVi  T:The Hal Leonard Real Jazz Book~..............  P:Hal Leonard   I:9780793562305  Y:1998  p:365  R:L      F:real_jazz_book.txt"
@@ -41,6 +41,29 @@ books=(
     "v  C:ClBn  T:The Ultimate Jazz Fake Book~.................  P:Hal Leonard   I:9780881889796  Y:1988  p:448  R:L      F:ultimate-jazz-fake-book.txt"
     "w  C:ClVi  T:Richard Wolfe's legit professional fake book   P:CPP/Belwin    I:9780898984484  Y:1986  p:467  R:L      F:richard-wolfes-legit-professional-fakebook.txt"
     "z  C:ClBn  T:Just Jazz Real Book~.........................  P:Hal Leonard   I:9780757901683  Y:2001  p:400  R:L      F:just-jazz-real-book.txt"
+    # books-todo. check R:
+    # "bb  C:ClBn  T:The Bird Book~..............................  P:Hal Leonard   I:9781423495659  Y:2012  p:72   R:       F:the-bird-book.txt"
+    # "bc  C:ClBn  T:The Billy Cobham Real Book~.................  P:Hal Leonard   I:9781495099724  Y:2017  p:104  R:       F:the-billy-cobham-real-book.txt"
+    # "bf  C:ClBn  T:The Best Fake Book Ever~....................  P:Hal Leonard   I:9780634034244  Y:1991  p:802  R:       F:the-best-fakebook-ever.txt"
+    # "bk  C:ClBn  T:The Real Berklee Book~......................  P:Hal Leonard   I:9781423489566  Y:2024  p:512  R:       F:the-real-berklee-book.txt"
+    # "bp  C:ClBn  T:The Bud Powell Real Book~...................  P:Hal Leonard   I:9781423461319  Y:2010  p:80   R:       F:the-bud-powell-real-book.txt"
+    # "bu  C:ClBn  T:The Real Blues Book~........................  P:Hal Leonard   I:9781423404514  Y:2011  p:480  R:       F:the-real-blues-book.txt"
+    # "cr  C:ClBn  T:Classic Rock Fake Book~.....................  P:Hal Leonard   I:9780793578566  Y:2011  p:304  R:       F:classic-rock-fakebook.txt"
+    # "db  C:ClBn  T:The Real Dixieland Book~....................  P:Hal Leonard   I:9781423476948  Y:2021  p:380  R:       F:the-real-dixieland-book.txt"
+    # "el  C:ClBn  T:The Duke Ellington Real Book~...............  P:Hal Leonard   I:9780634063275  Y:2009  p:128  R:       F:the-duke-ellington-real-book.txt"
+    # "mi  C:ClBn  T:The Miles Davis Real Book~..................  P:Hal Leonard   I:9781540025005  Y:2018  p:96   R:       F:the-miles-davis-real-book.txt"
+    # "mo  C:ClBn  T:Thelonious Monk Fake Book~..................  P:Hal Leonard   I:9780634039188  Y:2002  p:98   R:       F:thelonius-monk-fakebook.txt"
+    # "p1  C:ClBn  T:The Real Pop Book – Volume 1~...............  P:Hal Leonard   I:9781480338159  Y:2016  p:456  R:       F:the-real-pop-book-vol1.txt"
+    # "p2  C:ClBn  T:The Real Pop Book – Volume 2~...............  P:Hal Leonard   I:9781540039880  Y:2020  p:464  R:       F:the-real-pop-book-vol2.txt"
+    # "pm  C:ClBn  T:The Real Pat Metheny Book~..................  P:Hal Leonard   I:9781480350595  Y:2017  p:272  R:       F:the-real-pat-metheny-book.txt"
+    # "r1  C:ClBn  T:The Real Rock Book – Volume I~..............  P:Hal Leonard   I:9781423453888  Y:2011  p:400  R:       F:the-real-rock-book-vol1.txt"
+    # "r2  C:ClBn  T:The Real Rock Book – Volume II~.............  P:Hal Leonard   I:9781423438533  Y:2014  p:392  R:       F:the-real-rock-book-vol1.txt"
+    # "rb  C:ClBn  T:The Real R\&B Book~.........................  P:Hal Leonard   I:9781458416940  Y:2021  p:536  R:       F:the-real-r-b-book.txt"
+    # "rp  C:ClBn  T:The Best Rock Pop Fake Book~................  P:Hal Leonard   I:9781423453871  Y:2013  p:592  R:       F:the-best-rock-pop-fakebook.txt"
+    # "si  C:ClBn  T:The Frank Sinatra Fake Book~................  P:Hal Leonard   I:9781423433446  Y:2010  p:244  R:       F:the-frank-sinatra-fakebook.txt"
+    # "tb  C:ClBn  T:The Trane Book~.............................  P:Hal Leonard   I:9781458422620  Y:2014  p:160  R:       F:the-trane-book.txt"
+    # "ur  C:ClBn  T:The Ultimate Rock Pop Fake Book~............  P:Hal Leonard   I:9781423453390  Y:2014  p:560  R:       F:the-ultimate-rock-pop-fakebook.txt"
+    # "ur  C:ClBn  T:The Ultimate Pop/Rock Fake Book~............  P:Hal Leonard   I:9780793570003  Y:1997  p:584  R:       F:the-ultimate-pop-rock-fakebook.txt"
 )
 
 for b in "${books[@]}"; do
@@ -48,56 +71,13 @@ for b in "${books[@]}"; do
     rm -f vol_${key}.txt
 done
 
-awk -e '{print $(NF-1), $0}' MASTERNX.txt | awk -e 'NF{NF-=2};1' > MASTERNX.tmp
-grep -e '^EvansBk'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_ev.txt
-grep -e '^ColoBk'   MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_c.txt
-grep -e '^JazzFake' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_f.txt
-grep -e '^JazzLTD'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_j.txt
-grep -e '^RealBk1'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_1.txt
-grep -e '^RealBk2'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_2.txt
-grep -e '^RealBk3'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_3.txt
-grep -e '^NewReal1' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n1.txt
-grep -e '^NewReal2' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n2.txt
-grep -e '^NewReal3' MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_n3.txt
-grep -e '^Library'  MASTERNX.tmp | cut -d ' ' -f 2- | sed -e 's/\(.*\) (\(The\|A\))/\2 \1/g' > vol_m.txt
-sed -e 's/\(.*\), \(the\|a\)$/\2 \1/g' thebook.txt > vol_b.txt
-cp the_worlds_greatest_fakebook.txt vol_g.txt
-cp all-jazz-real-book.txt vol_a.txt
-cp the-latin-real-book.txt vol_lr.txt
-cp the-real-latin-book.txt vol_l.txt
-cp original-legal-musician-fake-book.txt vol_o.txt
-cp real-bebop-book.txt vol_p.txt
-cp just-standards-real-book.txt vol_js.txt
-sed -e 's/\(.*\), \(THE\|A\)$/\2 \1/g' just-jazz-real-book.txt > vol_z.txt
-cp real-jazz-standards-fake-book.txt vol_t.txt
-sed -e 's/\(.*\), \(The\|A\)$/\2 \1/g' ultimate-jazz-fake-book.txt > vol_v.txt
-sed -e 's/\(.*\), \(The\|A\)$/\2 \1/g' 557-jazz-standards.txt > vol_7.txt
-cp the-european-real-book.txt vol_e.txt
-cp jazz-club-piano-solos-vol1.txt vol_s1.txt
-cp jazz-club-piano-solos-vol2.txt vol_s2.txt
-cp jazz-club-piano-solos-vol3.txt vol_s3.txt
-cp the-ultimate-fake-book.txt vol_u.txt
-cp richard-wolfes-legit-professional-fakebook.txt vol_w.txt
-sed -Ee 's/[0-9]+\) //' cuban-fake-book-vol1.txt | sed -e 's/\(.*\), \(El\|La\)$/\2 \1/g' > vol_c1.txt
-cut -d ' ' -f 2- real_jazz_book.txt | awk '{$1=$1};1' > vol_r.txt
-sed -e 's/\(.*\), \(The\|A\)/\2 \1/g' the_standards_real_book.txt > vol_s.txt
-for i in {1..6}; do
-    cp hl_realbook_vol${i}.txt vol_h$i.txt
-done
-
-for b in "${books[@]}"; do
-    key="${b/ *}"
-    if ! [[ -f vol_${key}.txt ]]; then
-        echo "file $vol_${key}.txt missing"
-        exit
-    fi
-done
-
 for b in "${books[@]}"; do
     key="${b/ *}"
     color="${b#* C:}"
     color="${color/ *}"
-    awk -v key=${key} -v color=${color} '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' vol_${key}.txt
+    file="${b#* F:}"
+    cp "$file" "vol_${key}.txt"
+    awk -v key=${key} -v color=${color} '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' "vol_${key}.txt"
 done > tempfile0
 
 echo "finding unique pieces..."
@@ -211,7 +191,6 @@ pdflatex realbookindex.tex
 pdflatex realbookindex.tex
 
 echo "checking for duplications..."
-grep -v "^$" prunedstrings | uniq -w 40 -D
-sed -e 's/\(^.*\)%%--%%.*%%--%%.*}\(.*\)}/\1==\2/' tempfile0 | sort | uniq -D
 
-echo "(expected duplications: LETSFALLINLOVE LOVESTORY MYLOVE NOCTURNE OURLOVEAFFAIR PARISBLUES PROMISE SOLAMENTEUNAVEZ THEME VERACRUZ WEE)"
+expected_duplications='LETSFALLINLOVE\|LOVESTORY\|MYLOVE\|NOCTURNE\|OURLOVEAFFAIR\|PARISBLUES\|PROMISE\|SOLAMENTEUNAVEZ\|THEME\|VERACRUZ\|WEE'
+grep -v "^$" prunedstrings | uniq -w 40 -D | grep -v -e "$expected_duplications"

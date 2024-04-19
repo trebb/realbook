@@ -78,7 +78,7 @@ colonel bogey
 color my world
 come closer to me (Acércate Más)
 compadre pedro juan
-continental, the
+the continental
 copacabana
 cottontail
 could be the start of something big
@@ -122,7 +122,7 @@ fascinating rhythm
 fascination
 feelings
 fiddler on the roof
-fine romance, a
+a fine romance
 five foot two, eyes of blue
 fly me to the moon
 a foggy day
@@ -155,7 +155,7 @@ hokey pokey
 honey
 hook-i-lau
 hot stuff
-hustle, the
+the hustle
 I can't get started
 I could have danced all night
 I could write a book
@@ -216,7 +216,7 @@ kosatski
 krakoviak
 la compasita
 la cruz
-lady is a tramp, the
+the lady is a tramp
 la mer
 la napoletana
 la spagnola
@@ -230,9 +230,9 @@ little girl blue
 lonely together
 lookin' for love
 looks like we made it
-lot of livin' to do, a
+a lot of livin' to do
 love
-love boat, the
+the love boat
 love is a many-splendored thing
 lovely hula hands
 love makes the world go 'round
@@ -261,7 +261,7 @@ m' lord
 mood indigo
 moonlight in vermont
 moonlight serenade
-moon of manakoora, the
+the moon of manakoora
 moon over miami
 more (Ti Guarderò Nel Cuore)
 mr. Wonderful
@@ -276,7 +276,7 @@ myptia
 my romance
 my tani
 my wild irish rose
-nearness of you, the
+the nearness of you
 never on sunday
 new york, new york
 night and day
@@ -299,7 +299,7 @@ on the road again
 on the street where you live
 (black) orpheus
 o sole mio
-party's over, the
+the party's over
 peg o' my heart
 pennsylvania polka
 pennsylvania 6-5000
@@ -329,11 +329,11 @@ satin doll
 say it with music
 c'est si bon (say si bon)
 schön ist die liebe im hafen
-second time around, the
+the second time around
 sentimental journey
 september song
 sgt. pepper's lonely hearts club band
-shadow of your smile, the
+the shadow of your smile
 shall we dance?
 shine on harvest moon
 ships
@@ -351,7 +351,7 @@ song of the flame
 song of the islands
 sophisticated lady
 so rare
-sound of music, the
+the sound of music
 so what's new
 spanish eyes
 speak softly, love
@@ -368,7 +368,7 @@ sunny
 sunrise, sunset
 the surrey with the fringe on top
 sway
-sweetest sounds, the
+the sweetest sounds
 sweet georgia brown
 sweet leilani
 's wonderful
@@ -420,11 +420,11 @@ vieni sul mar
 vienna dreams
 volare
 walkin' my baby back home
-waltz you saved for me, the
+the waltz you saved for me
 watch what happens
 wave
 way down yonder in new orleans
-way we were, the
+the way we were
 wearing of the green
 weekend in new england
 we're all alone

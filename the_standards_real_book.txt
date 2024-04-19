@@ -19,10 +19,10 @@ At Long Last Love
 Autumn Nocturne
 Bags' Groove
 Baltimore Oriole
-Beautiful Friendship, A
+A Beautiful Friendship
 Begin The Beguine
 Bess, You Is My Woman
-Best Is Yet To Come, The
+The Best Is Yet To Come
 Bewitched (Bewitched, Bothered And Bewildered)
 Bidin' My Time
 Blackberry Winter
@@ -35,11 +35,11 @@ Born To Be Blue
 But Not For Me
 Caught Up In The Rapture
 Charade
-Christmas Waltz, The
+The Christmas Waltz
 Close Enough For Love
 Close To You
 Come Fly With Me
-Continental, The
+The Continental
 Cottontail
 Crazy He Calls Me
 Crazy Rhythm
@@ -63,7 +63,7 @@ Everything Must Change
 Falling In Love With Love
 Fascinating Rhythm
 A Felicidade (Adieu Tristesse)
-Foggy Day, A
+A Foggy Day
 Forest Flower
 From This Moment On
 Get Here
@@ -71,13 +71,13 @@ Get Out Of Town
 The Girl From Ipanema
 Give Me The Simple Life
 Good Bait
-Good Life, The
+The Good Life
 Have You Met Miss Jones
 He Was Too Good To Me
 Hello
 Hey There
 Hot House
-House Is Not A Home, A
+A House Is Not A Home
 How Do You Keep The Music Playing?
 How Insensitive
 How Little We Know
@@ -125,12 +125,12 @@ It's Magic
 It's You Or No One
 Johnny One-Note
 Just One Of Those Things
-Lady Is A Tramp, The
+The Lady Is A Tramp
 Lester Leaps In
 Let's Call The Whole Thing Off
 Let's Do It (Let's fall in love)
 Li'l Darlin'
-Lot Of Livin' To Do, A
+A Lot Of Livin' To Do
 Love For Sale
 Love Is A Many-Splendored Thing
 Love Me Or Leave Me
@@ -139,13 +139,13 @@ Love Walked In
 Lover, Come Back To Me
 Lucky To Be Me
 Lullaby Of Broadway
-Man I Love, The
-Man That Got Away, The
+The Man I Love
+The Man That Got Away
 Meditation
 Minute By Minute
 Miss Otis Regrets
 Moondance
-More I See You, The
+The More I See You
 Mountain Greenery
 Mr. Lucky
 My Funny Valentine
@@ -190,14 +190,14 @@ Somebody Loves Me
 Someone To Watch Over Me
 Something To Talk About
 Sometimes I'm Happy
-Song For You, A
+A Song For You
 Soon
 Soul Man
 Stormy Weather
 Strike Up The Band
 Stuck On You
 Suite: Judy Blue Eyes
-Summer Knows, The
+The Summer Knows
 Summer Night
 Summertime
 Sunny
@@ -221,7 +221,7 @@ Those Eyes
 Thou Swell
 Through The Fire
 Time After Time
-Time For Love, A
+A Time For Love
 Time On My Hands
 'Tis Autumn
 Tokyo Blues
@@ -230,7 +230,7 @@ Too Much Saké
 Trouble Is A Man
 Twilight World
 Two For The Road
-Underdog, The
+The Underdog
 Until It's Time For You To Go
 Until The Real Thing Comes Along
 Valdez in the Country

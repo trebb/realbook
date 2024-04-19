@@ -1,121 +1,121 @@
-1) Alardoso
-2) Alivio
-3) Alma con alma
-4) Almendra
-5) Andalucía
-6) Aquella tarde
-7) arroyo que murmura, El
-9) Bayamesa, La
-10) bodeguero, El
-11) Brussels in the Rain
-12) Calculadora
-13) cañafistula, La
-14) Canción para un festival
-15) Caridad
-16) Cemento, ladrillo y arena
-17) Chucho
-18) Como arrullo de palmas
-19) Como fué
-20) Como un milagro
-21) comparsa, La
-22) Compay gallo
-23) Contigo en la distancia
-24) Con tres palabras
-25) Convergencia
-26) Corazón
-27) Coro de los esclavos
-28) Danzas afrocubanas
-29) Deja que siga solo
-30) Dos Gardenias
-31) Drume Negrita
-32) Duele
-33) En nosotros
-34) engañadora, La
-35) Ese sentimiento que se llama amor
-36) fiesta, La
-37) Fifty-fifty
-38) Flor de Yumuri
-77) Pare Cochero
-78) Pedacito de cielo
-79) Perla marina
-80) Profecía
-81) El que siembra su maiz
-82) Yours (Quiereme mucho)
-83) Quiereme y verás
-84) Quiero hablar contigo
-85) Realidad y fantasía
-86) Refugiate en mi
-87) Samba for Carmen
-88) Santa Isabel de las Lajas
-89) Se fué
-90) Sí me comprendieras
-91) Si te contara
-92) Siboney
-93) Siempre está en mi corazón
-94) sitiera, La
-95) sitiero, El
-96) Son de la loma
-97) Song for Maura
-98) Song to my Son
-99) Songoro Cosongo
-100) Suavecito
-101) Tabú (Taboo)
-102) tarde, La
-103) Te odio
-104) Tres lindas cubanas
-105) Trigueñita
-106) Tristezas
-107) Tu me acostumbraste
-108) Tu, mi delirio
-109) Tú
-110) Tu, mi desengaño
-111) última noche, La
-112) Una rosa de Francia
-113) Y con tus palabras
-114) Y decidete, mi amor
-115) Y hoy como ayer
-39) Frutas del Caney
-40) gloria eres tú, La
-41) Greta
-42) guararey de Pastora, El
-43) Guarina
-44) Inolvidable
-45) Jamaiquino, El
-46) Lágrimas negras
-47) Lamento esclavo
-48) Las perlas de tu boca
-49) Libre de pecado
-50) Longina
-51) Mambo influenciado
-52) Mambo Inn
-53) (Romanza de) María la O
-54) Marta
-55) María Cristina
-56) Martí
-57) Me faltabas tú
-58) Me recordarás
-59) Mi ayer
-60) Mi Habana, cuando te vuelva a ver
-61) (M & A) Mujer ardiente
-62) mora, La
-63) mujer de Antonio, La
-64) No hagas caso
-65) No puedo ser feliz
-66) No te importe saber
-67) Noche cubana
-68) noche de anoche, La
-69) Nosotros
-70) Nostalgia habanera
-71) Novia mia
-72) Nuestra canción
-72) Nuestras vidas
-73) Ogguere
-74) Oh vida
-75) Olvido
-76) Página en blanco
-116) Y tú qué has hecho
-117) Yo no quiero piedra en mi camino
-118) La Guitarra
-119) Amor esperame
-120) Sin un reproche
-121) To Brenda with Love
+Alardoso
+Alivio
+Alma con alma
+Almendra
+Andalucía
+Aquella tarde
+El arroyo que murmura
+La Bayamesa
+El bodeguero
+Brussels in the Rain
+Calculadora
+La cañafistula
+Canción para un festival
+Caridad
+Cemento, ladrillo y arena
+Chucho
+Como arrullo de palmas
+Como fué
+Como un milagro
+La comparsa
+Compay gallo
+Contigo en la distancia
+Con tres palabras
+Convergencia
+Corazón
+Coro de los esclavos
+Danzas afrocubanas
+Deja que siga solo
+Dos Gardenias
+Drume Negrita
+Duele
+En nosotros
+La engañadora
+Ese sentimiento que se llama amor
+La fiesta
+Fifty-fifty
+Flor de Yumuri
+Pare Cochero
+Pedacito de cielo
+Perla marina
+Profecía
+El que siembra su maiz
+Yours (Quiereme mucho)
+Quiereme y verás
+Quiero hablar contigo
+Realidad y fantasía
+Refugiate en mi
+Samba for Carmen
+Santa Isabel de las Lajas
+Se fué
+Sí me comprendieras
+Si te contara
+Siboney
+Siempre está en mi corazón
+La sitiera
+El sitiero
+Son de la loma
+Song for Maura
+Song to my Son
+Songoro Cosongo
+Suavecito
+Tabú (Taboo)
+La tarde
+Te odio
+Tres lindas cubanas
+Trigueñita
+Tristezas
+Tu me acostumbraste
+Tu, mi delirio
+Tú
+Tu, mi desengaño
+La última noche
+Una rosa de Francia
+Y con tus palabras
+Y decidete, mi amor
+Y hoy como ayer
+Frutas del Caney
+La gloria eres tú
+Greta
+El guararey de Pastora
+Guarina
+Inolvidable
+El Jamaiquino
+Lágrimas negras
+Lamento esclavo
+Las perlas de tu boca
+Libre de pecado
+Longina
+Mambo influenciado
+Mambo Inn
+(Romanza de) María la O
+Marta
+María Cristina
+Martí
+Me faltabas tú
+Me recordarás
+Mi ayer
+Mi Habana, cuando te vuelva a ver
+(M & A) Mujer ardiente
+La mora
+La mujer de Antonio
+No hagas caso
+No puedo ser feliz
+No te importe saber
+Noche cubana
+La noche de anoche
+Nosotros
+Nostalgia habanera
+Novia mia
+Nuestra canción
+Nuestras vidas
+Ogguere
+Oh vida
+Olvido
+Página en blanco
+Y tú qué has hecho
+Yo no quiero piedra en mi camino
+La Guitarra
+Amor esperame
+Sin un reproche
+To Brenda with Love
