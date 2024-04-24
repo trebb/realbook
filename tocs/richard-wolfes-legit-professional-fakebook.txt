@@ -1,5 +1,5 @@
 A-tisket, a-tasket
-The aba daba honeymoon
+aba daba honeymoon
 Abide with me
 Across the western ocean
 An affair to remember (our love affair)
@@ -761,7 +761,7 @@ Romany life (Herbert)
 Rome will never leave you
 Love theme from 'Romeo and Juliet' (Tchaikovsky)
 The rose of Tralee
-Roses are red (my love)
+Roses are red, my love
 'Round her neck she wears a yellow ribbon
 Row, row, row your boat
 Ruby
@@ -823,7 +823,7 @@ Some like it hot
 Somebody
 Somebody stole my gal
 Somewhere my love
-Song of India (Rimsky-Korsakov)
+Song of India
 A song of old Hawaii
 Song without words (Tchaikovsky)
 Songs my mother taught me (Dvořák)
