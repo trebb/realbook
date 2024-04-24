@@ -67,7 +67,7 @@ books=(
 
 for b in "${books[@]}"; do
     key="${b/ *}"
-    rm -f vol_${key}.txt
+    rm -f toc_${key}.txt
 done
 
 for b in "${books[@]}"; do
@@ -75,8 +75,8 @@ for b in "${books[@]}"; do
     color="${b#* C:}"
     color="${color/ *}"
     file="${b#* F:}"
-    cp "tocs/$file" "vol_${key}.txt"
-    awk -v key=${key} -v color=${color} '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' "vol_${key}.txt"
+    cp "tocs/$file" "toc_${key}.txt"
+    awk -v key=${key} -v color=${color} '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' "toc_${key}.txt"
 done > tempfile0
 
 echo "finding unique pieces..."

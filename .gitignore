@@ -12,4 +12,4 @@ tempfile*
 prunedstrings
 single_occurrences
 unique_pieces
-vol_*.txt
+toc_*.txt
