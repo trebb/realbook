@@ -43,13 +43,13 @@ books=(
     "n3 C:ClVi  T:The New Real Book vol 3~.....................  P:Sher Music    I:9781883217310  Y:1995  p:448  R:DR,L   F:the-new-realbook-vol3.txt"
     "o  C:ClGn  T:The Original, Legal, Musicians' Fake Book~...  P:Hansen House  I:9780849400018  Y:1979  p:642  R:L      F:original-legal-musician-fake-book.txt"
     "p  C:ClRd  T:The Real Bebop Book~.........................  P:Hal Leonard   I:9781495052767  Y:2017  p:241  R:       F:real-bebop-book.txt"
-    "p1 C:ClBn  T:The Real Pop Book - Volume 1~................  P:Hal Leonard   I:9781480338159  Y:2016  p:456  R:L      F:the-real-pop-book-vol1.txt"
-    "p2 C:ClBn  T:The Real Pop Book - Volume 2~................  P:Hal Leonard   I:9781540039880  Y:2020  p:464  R:L      F:the-real-pop-book-vol2.txt"
+    "p1 C:ClBn  T:The Real Pop Book - Vol 1~...................  P:Hal Leonard   I:9781480338159  Y:2016  p:456  R:L      F:the-real-pop-book-vol1.txt"
+    "p2 C:ClBn  T:The Real Pop Book - Vol 2~...................  P:Hal Leonard   I:9781540039880  Y:2020  p:464  R:L      F:the-real-pop-book-vol2.txt"
     "po C:ClBn  T:The Bud Powell Real Book~....................  P:Hal Leonard   I:9781423461319  Y:2010  p:80   R:       F:the-bud-powell-real-book.txt"
     "q  C:ClBn  T:The Best Fake Book Ever~.....................  P:Hal Leonard   I:9780634034244  Y:1991  p:802  R:L      F:the-best-fakebook-ever.txt"
     "r  C:ClVi  T:The Hal Leonard Real Jazz Book~..............  P:Hal Leonard   I:9780793562305  Y:1998  p:365  R:L      F:real_jazz_book.txt"
-    "r1 C:ClBn  T:The Real Rock Book - Volume I~...............  P:Hal Leonard   I:9781423453888  Y:2011  p:400  R:L      F:the-real-rock-book-vol1.txt"
-    "r2 C:ClBn  T:The Real Rock Book - Volume II~..............  P:Hal Leonard   I:9781423438533  Y:2014  p:392  R:L      F:the-real-rock-book-vol2.txt"
+    "r1 C:ClBn  T:The Real Rock Book - Vol I~..................  P:Hal Leonard   I:9781423453888  Y:2011  p:400  R:L      F:the-real-rock-book-vol1.txt"
+    "r2 C:ClBn  T:The Real Rock Book - Vol II~.................  P:Hal Leonard   I:9781423438533  Y:2014  p:392  R:L      F:the-real-rock-book-vol2.txt"
     "s  C:ClRd  T:The Standards Real Book~.....................  P:Sher Music    I:9781883217099  Y:2000  p:565  R:DR,L   F:the_standards_real_book.txt"
     "s1 C:ClBn  T:Jazz Club Piano Solos 1~.....................  P:Music Sales   I:9780711937666  Y:1993  p:48   R:       F:jazz-club-piano-solos-vol1.txt"
     "s2 C:ClBn  T:Jazz Club Piano Solos 2~.....................  P:Music Sales   I:9780711941212  Y:1994  p:48   R:       F:jazz-club-piano-solos-vol2.txt"
@@ -103,7 +103,7 @@ done
 total=`sed -e 's/\(^.*\)%%--%%.*%%--%%.*/\1/' tempfile0 | sort | uniq | wc -l`
 today=`date +%F`
 author="github.com/trebb/realbook"
-printf "%s items\n\n%s\n\n%s" $total $today $author > tail.tex
+printf "%s items | %s | %s" $total $today $author > tail.tex
 
 printf "\\\begin{tabular}{l@{~}l@{~~}l@{~}l@{~}l@{~}r@{~~}r@{~}r@{~~}l}\n" > legend.tex
 printf " --  & --------------------------------------------- & ----------- & ---- & ------------- & ~--- & \multicolumn{2}{@{}l@{~~}}{--------} & ------- \\\\\\ \n" >> legend.tex
