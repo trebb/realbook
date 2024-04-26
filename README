@@ -1,4 +1,4 @@
-This is a shell script that compiles an aggregate index of tunes of
+-This is a shell script that compiles an aggregate index of tunes of
 several Real Books.
 
 No actual content of any book is available here.
@@ -65,3 +65,12 @@ Covered are
   The Ultimate Rock Pop Fake Book (Hal Leonard)
   The World's Greatest Fake Book (Sher Music)
   Thelonious Monk Fake Book (Hal Leonard)
+
+
+Easy tweaks: in run.sh, find the lines that look like
+
+   "a2 C:ClGn  T:The Real Book vol II~........................  P:anonymous     I:.............  Y:....  p:414 [etc.]"
+
+and comment out those you want removed.
+
+C:ClGn specifies the key colour (green). Modify to taste.
