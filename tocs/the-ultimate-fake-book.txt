@@ -173,7 +173,7 @@ Come What May
 Comedy Tonight
 Consider Yourself
 A Cottage For Sale
-Cotton Fields (The Cotton Song)
+Cotton Fields
 Cottontail
 Count Your Blessings Instead Of Sheep
 Country Style
@@ -631,7 +631,7 @@ Maria
 Marie
 Mas Que Nada
 Masquerade
-Massachusetts (The Lights Went Out)
+Massachusetts
 The Masterpiece
 May You Always
 Me And Mrs. Jones
@@ -1068,7 +1068,7 @@ True Love
 Truly
 Try A Little Tenderness
 Try To Remember
-Turn! Turn! Turn! (To Everything There Is A Season)
+Turn! Turn! Turn!
 Tuxedo Junction
 Twilight Time
 Two Lost Souls
@@ -1095,7 +1095,7 @@ Watch What Happens
 The Watusi
 Way Down Yonder In New Orleans
 The Way You Look Tonight
-The Wayward Wind
+(The) Wayward Wind
 We Are The World
 We Can Work It Out
 We Kiss In A Shadow
