@@ -195,5 +195,5 @@ echo "checking for duplications..."
 # find duplicate lines that are in the same toc file:
 sed -e 's/\(^.*\)%%--%%.*%%--%%.*}\(.*\)}/\1==\2/' tempfile0 | sort | uniq -D
 
-expected_duplications='CATFISHBLUES\|COMEGOWITHME\|DREAMER\|ITHANKYOU\|LETSFALLINLOVE\|LOVESTORY\|MYLOVE\|NOCTURNE\|OURLOVEAFFAIR\|PARISBLUES\|PROMISE\|SOLAMENTEUNAVEZ\|THEME\|VERACRUZ\|WEE'
+expected_duplications='CATFISHBLUES\|COMEGOWITHME\|DIARY\|DREAMER\|ITHANKYOU\|LETSFALLINLOVE\|LOVESTORY\|MYLOVE\|NOCTURNE\|OURLOVEAFFAIR\|PARISBLUES\|PROMISE\|SOLAMENTEUNAVEZ\|THEME\|VERACRUZ\|WEE'
 grep -v "^$" prunedstrings | uniq -w 40 -D | grep -v -e "$expected_duplications"
