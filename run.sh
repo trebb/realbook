@@ -1,8 +1,9 @@
 #! /bin/bash
+export LC_ALL=C.UTF8
 
 # Our COLORs: ClBn, ClGn, ClVi, ClRd
 books=(
-    #KEY  COLOR   TITLE                                            PUBLISHER       ISBN             YEAR    PAGES  REMARKS  SOURCE FILE
+#  KEY  COLOR   TITLE                                            PUBLISHER       ISBN             YEAR    PAGES  REMARKS  SOURCE FILE
     "1  C:ClRd  T:The Real Book vol I (sixth edition)~.........  P:Hal Leonard   I:9780634060380  Y:2004  p:453  R:       F:hl_realbook_vol1.txt"
     "2  C:ClRd  T:The Real Book vol II (second edition)~.......  P:Hal Leonard   I:9780634060212  Y:2005  p:429  R:       F:hl_realbook_vol2.txt"
     "3  C:ClRd  T:The Real Book vol III (second edition)~......  P:Hal Leonard   I:9780634061363  Y:2006  p:455  R:       F:hl_realbook_vol3.txt"
@@ -15,6 +16,8 @@ books=(
     "a2 C:ClGn  T:The Real Book vol II~........................  P:anonymous     I:.............  Y:....  p:414  R:       F:unlicenced_realbook_vol2.txt"
     "a3 C:ClGn  T:The Real Book vol III~.......................  P:anonymous     I:.............  Y:....  p:360  R:       F:unlicenced_realbook_vol3.txt"
     "b  C:ClGn  T:The Book/Commercial~.........................  P:anonymous     I:.............  Y:....  p:502  R:       F:thebook.txt"
+    "b4 C:ClBn  T:The Best Fake Book Ever (fourth edition)~....  P:Hal Leonard   I:9780634034244  Y:1991  p:802  R:L      F:the-best-fake-book-ever-4th.txt"
+    "b5 C:ClRd  T:The Best Fake Book Ever (fifth edition)~.....  P:Hal Leonard   I:9781540059659  Y:2024  p:802  R:L      F:the-best-fake-book-ever-5th.txt"
     "bb C:ClRd  T:The Real Blues Book~.........................  P:Hal Leonard   I:9781423404514  Y:2011  p:480  R:L      F:the-real-blues-book.txt"
     "bi C:ClBn  T:The Bird Book~...............................  P:Hal Leonard   I:9781423495659  Y:2012  p:72   R:       F:the-bird-book.txt"
     "c  C:ClGn  T:The Colorado Cookbook~.......................  P:anonymous     I:.............  Y:....  p:280  R:       F:the-colorado-cookbook.txt"
@@ -47,7 +50,6 @@ books=(
     "p1 C:ClBn  T:The Real Pop Book - Vol 1~...................  P:Hal Leonard   I:9781480338159  Y:2016  p:456  R:L      F:the-real-pop-book-vol1.txt"
     "p2 C:ClBn  T:The Real Pop Book - Vol 2~...................  P:Hal Leonard   I:9781540039880  Y:2020  p:464  R:L      F:the-real-pop-book-vol2.txt"
     "po C:ClBn  T:The Bud Powell Real Book~....................  P:Hal Leonard   I:9781423461319  Y:2010  p:80   R:       F:the-bud-powell-real-book.txt"
-    "q  C:ClRd  T:The Best Fake Book Ever (fourth edition)~....  P:Hal Leonard   I:9780634034244  Y:1991  p:802  R:L      F:the-best-fakebook-ever.txt"
     "r  C:ClVi  T:The Hal Leonard Real Jazz Book~..............  P:Hal Leonard   I:9780793562305  Y:1998  p:365  R:L      F:real_jazz_book.txt"
     "r1 C:ClBn  T:The Real Rock Book - Vol I~..................  P:Hal Leonard   I:9781423453888  Y:2011  p:400  R:L      F:the-real-rock-book-vol1.txt"
     "r2 C:ClBn  T:The Real Rock Book - Vol II~.................  P:Hal Leonard   I:9781423438533  Y:2014  p:392  R:L      F:the-real-rock-book-vol2.txt"
@@ -62,7 +64,7 @@ books=(
     "v  C:ClBn  T:The Ultimate Jazz Fake Book~.................  P:Hal Leonard   I:9780881889796  Y:1988  p:448  R:L      F:ultimate-jazz-fake-book.txt"
     "w  C:ClVi  T:Richard Wolfe's legit professional fake book   P:CPP/Belwin    I:9780898984484  Y:1986  p:467  R:L      F:richard-wolfes-legit-professional-fakebook.txt"
     "x  C:ClBn  T:The Real Dixieland Book~.....................  P:Hal Leonard   I:9781423476948  Y:2021  p:380  R:L      F:the-real-dixieland-book.txt"
-    "y  C:ClBn  T:The Ultimate Rock Pop Fake Book~.............  P:Hal Leonard   I:9781423453390  Y:2014  p:560  R:L      F:the-ultimate-rock-pop-fakebook.txt"
+    "y  C:ClRd  T:The Ultimate Rock Pop Fake Book~.............  P:Hal Leonard   I:9781423453390  Y:2014  p:560  R:L      F:the-ultimate-rock-pop-fakebook.txt"
     "z  C:ClBn  T:Just Jazz Real Book~.........................  P:Hal Leonard   I:9780757901683  Y:2001  p:400  R:L      F:just-jazz-real-book.txt"
 )
 
@@ -77,7 +79,7 @@ for b in "${books[@]}"; do
     color="${color/ *}"
     file="${b#* F:}"
     cp "tocs/$file" "toc_${key}.txt"
-    awk -v key=${key} -v color=${color} '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' "toc_${key}.txt"
+    awk -v key="${key}" -v color="${color}" '{print toupper($0) "%%--%%" key "%%--%%{\\color{" color "}" toupper(key) "}"}' "toc_${key}.txt"
 done > tempfile0
 
 echo "finding unique pieces..."
@@ -179,13 +181,11 @@ cat tempfile |\
     sed -Ee 's/( \((.*)\))/\1\n\2/' -e 's/[[:punct:][:blank:]]//g' | \
     sort > prunedstrings
 
+LC_ALL=en_GB.UTF8 sort tempfile | LC_ALL=en_GB.UTF8 grep "\hangindent1em [[:punct:]]*[[:digit:]]" | sed -Ee 's/%%00000000000000000000%%//' > allsongs.tex
 for i in {A..Z}; do
-    echo "%\\hangindent1em ${i}%%00000" >> tempfile
-done
-
-sort tempfile |\
-    sed -Ee 's/%\\hangindent1em ([A-Z])%%00000/\\vspace{\\baselineskip}{\\centering \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\quad \1\\nopagebreak\\\\ \1\\quad \1\\nopagebreak\\\\}\\vspace{\\baselineskip}\\addcontentsline{toc}{section}{\1}\\markboth{\1}{\1}\\nopagebreak/' | \
-    sed -Ee 's/%%00000000000000000000%%//' > allsongs.tex
+    echo "\\vspace{\\baselineskip}{\\centering ${i}\\quad ${i}\\nopagebreak\\\\ ${i}\\quad ${i}\\quad ${i}\\nopagebreak\\\\ ${i}\\quad ${i}\\nopagebreak\\\\}\\vspace{\\baselineskip}\\addcontentsline{toc}{section}{${i}}\\markboth{${i}}{${i}}\\nopagebreak"
+    LC_ALL=en_GB.UTF8 sort tempfile | LC_ALL=en_GB.UTF8 grep "\hangindent1em [[:punct:]]*[[=$i=]]"
+done | sed -Ee 's/%%00000000000000000000%%//' >> allsongs.tex
 
 pdflatex realbookindex.tex
 pdflatex realbookindex.tex
